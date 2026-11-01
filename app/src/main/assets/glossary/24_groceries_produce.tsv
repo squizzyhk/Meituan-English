@@ -1,0 +1,518 @@
+# 24_groceries_produce.tsv - Supermarket/grocery delivery: department names, fruit, produce units,
+# meat/poultry/eggs, dairy, grains & oils, snacks, household, personal care, baby, pet, pharmacy, flowers.
+# Format: chinese<TAB>english. Owner: glossary-food.
+# --- Departments ---
+生鲜	Fresh Groceries
+生鲜果蔬	Fresh Produce
+蔬菜水果	Fruit & Vegetables
+蔬菜	Vegetables
+新鲜水果	Fresh Fruit
+新鲜蔬菜	Fresh Vegetables
+时令水果	Seasonal Fruit
+进口水果	Imported Fruit
+国产水果	Domestic Fruit
+果切	Cut Fruit
+鲜切水果	Fresh-Cut Fruit
+水果捞	Fruit Bowl
+果盘	Fruit Platter
+水果拼盘	Fruit Platter
+果蔬	Fruit & Vegetables
+叶菜类	Leafy Greens
+根茎类	Root Vegetables
+瓜果类	Gourds & Squash
+菌菇豆制品	Mushrooms & Tofu
+葱姜蒜	Scallions, Ginger & Garlic
+净菜	Prepped Vegetables
+预制菜	Ready-to-Cook Meals
+半成品	Ready-to-Cook
+半成品菜	Ready-to-Cook Dishes
+速冻食品	Frozen Food
+冷冻食品	Frozen Food
+速冻水饺	Frozen Dumplings
+速冻汤圆	Frozen Tangyuan
+冷冻	Frozen
+冷藏	Chilled
+肉禽蛋	Meat, Poultry & Eggs
+肉禽蛋品	Meat, Poultry & Eggs
+猪牛羊肉	Pork, Beef & Lamb
+鸡鸭禽类	Poultry
+禽肉	Poultry
+禽蛋	Eggs
+蛋品	Eggs
+鲜肉	Fresh Meat
+冷鲜肉	Chilled Meat
+冷冻肉	Frozen Meat
+牛羊肉	Beef & Lamb
+水产海鲜	Seafood
+海鲜水产	Seafood
+活鲜	Live Seafood
+鲜活	Live
+冻品	Frozen Products
+乳品烘焙	Dairy & Bakery
+乳制品	Dairy
+牛奶乳品	Milk & Dairy
+早餐面包	Breakfast & Bread
+粮油调味	Grains, Oils & Seasonings
+粮油米面	Rice, Flour & Oil
+米面粮油	Rice, Flour & Oil
+米面杂粮	Rice, Flour & Grains
+南北干货	Dried Goods
+干货	Dried Goods
+调味品	Seasonings
+酱料调味	Sauces & Seasonings
+方便速食	Instant Food
+速食	Instant Food
+方便食品	Convenience Food
+罐头	Canned Food
+零食	Snacks
+休闲零食	Snacks
+零食饮料	Snacks & Drinks
+坚果炒货	Nuts & Seeds
+坚果	Nuts
+饼干糕点	Biscuits & Pastries
+糖果巧克力	Candy & Chocolate
+膨化食品	Puffed Snacks
+肉干肉脯	Jerky
+蜜饯果干	Dried & Candied Fruit
+酒水饮料	Drinks & Alcohol
+饮料冲调	Drinks & Instant Mixes
+冲调	Instant Drink Mixes
+冲饮	Instant Drinks
+茶叶	Tea Leaves
+日用百货	Household Goods
+日用品	Daily Necessities
+家居日用	Household Essentials
+家清	Household Cleaning
+清洁用品	Cleaning Supplies
+纸品	Paper Products
+纸巾	Tissues
+个人护理	Personal Care
+个护	Personal Care
+洗护	Hair & Body Care
+个护清洁	Personal Care & Cleaning
+美妆护肤	Beauty & Skincare
+护肤	Skincare
+母婴用品	Baby Products
+宠物用品	Pet Supplies
+宠物食品	Pet Food
+绿植	Plants
+医药	Pharmacy
+药店	Pharmacy
+成人用品	Adult Products
+计生用品	Family Planning
+数码	Electronics
+手机配件	Phone Accessories
+文具	Stationery
+办公用品	Office Supplies
+# --- Fruit ---
+苹果	Apple
+红富士	Fuji Apple
+红富士苹果	Fuji Apple
+阿克苏苹果	Aksu Apple
+蛇果	Red Delicious Apple
+青苹果	Green Apple
+梨	Pear
+雪梨	Snow Pear
+香梨	Fragrant Pear
+库尔勒香梨	Korla Fragrant Pear
+皇冠梨	Crown Pear
+鸭梨	Ya Pear
+丰水梨	Hosui Pear
+香蕉	Banana
+小米蕉	Baby Banana
+芭蕉	Plantain
+橙子	Orange
+橙	Orange
+脐橙	Navel Orange
+赣南脐橙	Gannan Navel Orange
+血橙	Blood Orange
+冰糖橙	Rock Sugar Orange
+橘子	Mandarin Orange
+桔子	Mandarin Orange
+沙糖桔	Sugar Mandarin
+砂糖橘	Sugar Mandarin
+蜜桔	Honey Mandarin
+丑橘	Dekopon (Ugly Orange)
+不知火	Dekopon
+耙耙柑	Ponkan
+沃柑	Orah Mandarin
+芦柑	Ponkan Mandarin
+金桔	Kumquat
+柚子	Pomelo
+红心柚	Red Pomelo
+蜜柚	Honey Pomelo
+西柚	Grapefruit
+柠檬片干	Dried Lemon Slices
+青柠	Lime
+黄柠檬	Yellow Lemon
+葡萄	Grapes
+阳光玫瑰	Shine Muscat Grapes
+阳光玫瑰葡萄	Shine Muscat Grapes
+巨峰葡萄	Kyoho Grapes
+夏黑葡萄	Summer Black Grapes
+红提	Red Globe Grapes
+青提	Green Grapes
+黑提	Black Grapes
+提子	Grapes
+葡萄干	Raisins
+西瓜	Watermelon
+麒麟西瓜	Kirin Watermelon
+无籽西瓜	Seedless Watermelon
+小西瓜	Mini Watermelon
+哈密瓜	Hami Melon
+甜瓜	Muskmelon
+香瓜	Sweet Melon
+网纹瓜	Netted Melon
+羊角蜜	Yangjiaomi Melon
+木瓜	Papaya
+草莓	Strawberry
+丹东草莓	Dandong Strawberry
+蓝莓	Blueberry
+树莓	Raspberry
+覆盆子	Raspberry
+黑莓	Blackberry
+蔓越莓	Cranberry
+桑葚	Mulberry
+车厘子	Cherries
+樱桃	Cherries
+芒果	Mango
+小台芒	Small Tainong Mango
+贵妃芒	Guifei Mango
+凯特芒	Keitt Mango
+水仙芒	Narcissus Mango
+青芒	Green Mango
+菠萝	Pineapple
+凤梨	Pineapple
+金钻凤梨	Golden Diamond Pineapple
+榴莲	Durian
+猫山王	Musang King Durian
+金枕榴莲	Monthong Durian
+榴莲肉	Durian Flesh
+山竹	Mangosteen
+荔枝	Lychee
+妃子笑	Feizixiao Lychee
+桂圆鲜果	Fresh Longan
+红毛丹	Rambutan
+火龙果	Dragon Fruit
+红心火龙果	Red Dragon Fruit
+白心火龙果	White Dragon Fruit
+百香果	Passion Fruit
+猕猴桃	Kiwi
+奇异果	Kiwi
+金果	Golden Kiwi
+黄心猕猴桃	Golden Kiwi
+红心猕猴桃	Red Kiwi
+桃子	Peach
+桃	Peach
+水蜜桃	Juicy Peach
+黄桃	Yellow Peach
+蟠桃	Flat Peach
+油桃	Nectarine
+李子	Plum
+三华李	Sanhua Plum
+杏	Apricot
+杏子	Apricot
+枇杷	Loquat
+杨梅	Bayberry
+石榴	Pomegranate
+柿子	Persimmon
+脆柿	Crisp Persimmon
+冬枣	Winter Jujube
+鲜枣	Fresh Jujube
+大枣	Jujube
+山楂	Hawthorn
+无花果	Fig
+椰子	Coconut
+椰青	Young Coconut
+番石榴	Guava
+芭乐	Guava
+莲雾	Wax Apple
+释迦	Sugar Apple
+杨桃	Star Fruit
+人参果	Pepino Melon
+甘蔗	Sugarcane
+菠萝蜜	Jackfruit
+青梅	Green Plum
+橄榄	Olive
+# --- Units & produce descriptors ---
+斤	500g (jin)
+半斤	250g
+公斤	kg
+千克	kg
+克	g
+两	50g (liang)
+根	stick
+颗	piece
+粒	piece
+把	bunch
+捆	bundle
+扎	bundle
+提	pack
+支	stick
+枚	piece
+打	dozen
+单果	Per Fruit
+大果	Large Fruit
+中果	Medium Fruit
+小果	Small Fruit
+精品果	Premium Fruit
+一级果	Grade A Fruit
+特级果	Premium Grade Fruit
+带箱	Including Box
+净重	Net Weight
+毛重	Gross Weight
+称重	Sold by Weight
+称重商品	Sold by Weight
+产地直发	Direct from Farm
+产地	Origin
+原产地	Country of Origin
+有机	Organic
+绿色食品	Green Food Certified
+无公害	Pesticide-Free
+农家散养	Free-Range
+散养	Free-Range
+土鸡蛋	Free-Range Eggs
+草鸡蛋	Free-Range Eggs
+柴鸡蛋	Free-Range Eggs
+新鲜鸡蛋	Fresh Eggs
+可生食鸡蛋	Raw-Edible Eggs
+保质期	Shelf Life
+生产日期	Production Date
+储存方式	Storage
+冷藏保存	Keep Refrigerated
+冷冻保存	Keep Frozen
+常温保存	Store at Room Temperature
+开袋即食	Ready to Eat
+即食	Ready to Eat
+即热	Ready to Heat
+# --- Meat cuts (grocery) ---
+猪肉块	Pork Chunks
+猪肉片	Sliced Pork
+猪排骨	Pork Ribs
+肋条	Pork Rib Strips
+猪腿肉	Pork Leg
+牛腩块	Beef Brisket Chunks
+牛肉卷	Beef Rolls
+琵琶腿	Chicken Drumsticks
+小鸡腿	Chicken Drumsticks
+鸡全腿	Whole Chicken Legs
+整鸡	Whole Chicken
+白条鸡	Dressed Chicken
+鸭腿	Duck Leg
+整鸭	Whole Duck
+# --- Dairy ---
+希腊酸奶	Greek Yogurt
+老酸奶	Set Yogurt
+低温酸奶	Chilled Yogurt
+常温酸奶	Ambient Yogurt
+奶酪棒	Cheese Sticks
+芝士片	Cheese Slices
+奶油奶酪	Cream Cheese
+马苏里拉	Mozzarella
+淡奶油	Whipping Cream
+炼乳	Condensed Milk
+奶粉	Milk Powder
+黄油块	Butter
+鲜牛奶	Fresh Milk
+高钙奶	High-Calcium Milk
+有机奶	Organic Milk
+# --- Grains, oils, dried goods ---
+东北大米	Northeastern Rice
+五常大米	Wuchang Rice
+泰国香米	Thai Jasmine Rice
+珍珠米	Pearl Rice
+米	Rice
+高筋面粉	Bread Flour
+中筋面粉	All-Purpose Flour
+低筋面粉	Cake Flour
+意大利面条	Spaghetti
+燕麦片	Oatmeal
+麦片	Cereal
+即食燕麦	Instant Oats
+玉米片	Corn Flakes
+谷物	Cereal
+香菇干	Dried Shiitake
+木耳干	Dried Wood Ear
+干木耳	Dried Wood Ear
+干香菇	Dried Shiitake
+粉丝干	Dried Vermicelli
+腐竹干	Dried Tofu Skin
+海带干	Dried Kelp
+紫菜干	Dried Seaweed
+虾干	Dried Shrimp
+鱿鱼干	Dried Squid
+# --- Snacks ---
+薯片	Potato Chips
+乐事	Lay's
+品客	Pringles
+虾条	Shrimp Chips
+虾片	Prawn Crackers
+锅巴	Crispy Rice Crackers
+辣条	Spicy Gluten Strips (Latiao)
+卫龙	Weilong Latiao
+牛肉干	Beef Jerky
+猪肉脯	Pork Jerky
+肉脯	Meat Jerky
+鸭脖零食	Duck Neck Snack
+鱼豆腐零食	Fish Tofu Snack
+海苔片	Seaweed Snack
+瓜子	Sunflower Seeds
+葵花籽	Sunflower Seeds
+西瓜子	Watermelon Seeds
+开心果	Pistachios
+夏威夷果	Macadamia Nuts
+碧根果	Pecans
+巴旦木	Almonds
+榛子	Hazelnuts
+每日坚果	Daily Nuts Mix
+混合坚果	Mixed Nuts
+花生仁	Peanuts
+兰花豆	Fried Broad Beans
+蚕豆零食	Broad Bean Snack
+豆干零食	Dried Tofu Snack
+果干	Dried Fruit
+芒果干	Dried Mango
+蜜饯	Candied Fruit
+话梅	Dried Plums
+山楂片	Hawthorn Slices
+果冻	Jelly
+布丁杯	Pudding Cup
+糖果	Candy
+软糖	Gummies
+硬糖	Hard Candy
+棒棒糖	Lollipop
+口香糖	Chewing Gum
+巧克力	Chocolate
+黑巧克力	Dark Chocolate
+牛奶巧克力	Milk Chocolate
+德芙	Dove Chocolate
+士力架	Snickers
+奥利奥	Oreo
+威化饼干	Wafers
+苏打饼干	Soda Crackers
+夹心饼干	Sandwich Cookies
+蛋黄派零食	Egg Yolk Pie
+沙琪玛零食	Sachima
+雪饼	Rice Crackers
+仙贝	Senbei Rice Crackers
+旺旺雪饼	Want Want Rice Crackers
+旺旺仙贝	Want Want Senbei
+爆米花	Popcorn
+冰淇淋雪糕	Ice Cream
+冰品雪糕	Frozen Treats
+可爱多	Cornetto
+梦龙	Magnum
+钟薛高	Chicecream
+自热米饭	Self-Heating Rice
+螺蛳粉袋装	Packaged Luosifen
+方便粉丝	Instant Vermicelli
+火腿肠零食	Ham Sausage Snack
+卤蛋零食	Braised Egg Snack
+鹌鹑蛋零食	Quail Egg Snack
+# --- Household ---
+抽纸	Facial Tissues
+卷纸	Toilet Paper
+卫生纸	Toilet Paper
+厨房纸	Kitchen Paper
+湿巾	Wet Wipes
+湿纸巾	Wet Wipes
+垃圾袋	Trash Bags
+保鲜膜	Cling Wrap
+保鲜袋	Food Storage Bags
+洗洁精	Dish Soap
+洗衣液	Laundry Detergent
+洗衣粉	Washing Powder
+洗衣凝珠	Laundry Pods
+柔顺剂	Fabric Softener
+消毒液	Disinfectant
+84消毒液	Bleach Disinfectant
+酒精	Rubbing Alcohol
+酒精湿巾	Alcohol Wipes
+洁厕灵	Toilet Cleaner
+清洁剂	Cleaner
+抹布	Cleaning Cloth
+拖把	Mop
+扫把	Broom
+电池	Batteries
+数据线	Charging Cable
+充电器	Charger
+雨伞	Umbrella
+一次性杯子	Disposable Cups
+打火机	Lighter
+蚊香	Mosquito Coils
+驱蚊液	Mosquito Repellent
+灯泡	Light Bulb
+# --- Personal care ---
+洗发水	Shampoo
+护发素	Conditioner
+沐浴露	Body Wash
+香皂	Soap
+肥皂	Soap
+洗手液	Hand Soap
+牙膏	Toothpaste
+牙刷	Toothbrush
+电动牙刷	Electric Toothbrush
+牙线	Dental Floss
+漱口水	Mouthwash
+洗面奶	Facial Cleanser
+面膜	Face Mask
+防晒霜	Sunscreen
+身体乳	Body Lotion
+护手霜	Hand Cream
+润唇膏	Lip Balm
+剃须刀	Razor
+卫生巾	Sanitary Pads
+护垫	Panty Liners
+棉签	Cotton Swabs
+化妆棉	Cotton Pads
+口罩	Face Masks
+避孕套	Condoms
+# --- Baby ---
+纸尿裤	Diapers
+尿不湿	Diapers
+拉拉裤	Pull-Up Diapers
+婴儿奶粉	Infant Formula
+奶瓶	Baby Bottle
+婴儿湿巾	Baby Wipes
+辅食	Baby Food
+米粉辅食	Baby Rice Cereal
+# --- Pet ---
+猫粮	Cat Food
+狗粮	Dog Food
+猫砂	Cat Litter
+猫罐头	Canned Cat Food
+狗罐头	Canned Dog Food
+宠物零食	Pet Treats
+猫条	Cat Treat Sticks
+# --- Pharmacy ---
+感冒药	Cold Medicine
+退烧药	Fever Reducer
+止痛药	Painkillers
+布洛芬	Ibuprofen
+对乙酰氨基酚	Acetaminophen (Paracetamol)
+创可贴	Band-Aids
+体温计	Thermometer
+抗原检测	Antigen Test
+维生素	Vitamins
+维生素C	Vitamin C
+钙片	Calcium Tablets
+板蓝根	Banlangen (Herbal Cold Remedy)
+连花清瘟	Lianhua Qingwen
+藿香正气水	Huoxiang Zhengqi Liquid
+胃药	Stomach Medicine
+止泻药	Anti-Diarrheal
+眼药水	Eye Drops
+碘伏	Povidone-Iodine
+医用口罩	Medical Masks
+# --- Flowers ---
+玫瑰花	Roses
+红玫瑰	Red Roses
+康乃馨	Carnations
+百合花	Lilies
+向日葵	Sunflowers
+郁金香	Tulips
+满天星	Baby's Breath
+花束	Bouquet
+花篮	Flower Basket
+永生花	Preserved Flowers
+多肉	Succulents

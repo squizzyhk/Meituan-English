@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/overlay_bubble_root"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/overlay_bubble_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/overlay_handle"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/overlay_button_bg"
+        android:contentDescription="@string/overlay_bubble_handle"
+        android:padding="8dp"
+        android:src="@drawable/overlay_ic_translate" />
+
+    <ImageView
+        android:id="@+id/overlay_toggle"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/overlay_button_bg"
+        android:contentDescription="@string/overlay_toggle_labels"
+        android:padding="8dp"
+        android:src="@drawable/overlay_ic_eye" />
+
+    <FrameLayout
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="2dp">
+
+        <ImageView
+            android:id="@+id/overlay_images"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/overlay_button_bg"
+            android:contentDescription="@string/overlay_translate_images"
+            android:padding="8dp"
+            android:src="@drawable/overlay_ic_camera" />
+
+        <ProgressBar
+            android:id="@+id/overlay_progress"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:indeterminateTint="@color/mt_yellow"
+            android:visibility="gone" />
+    </FrameLayout>
+</LinearLayout>

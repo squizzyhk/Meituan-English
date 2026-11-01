@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>美团外卖 - 附近商家</title>
+<style>
+  body { font-family: sans-serif; margin: 0; }
+  .tabs a { display: inline-block; padding: 6px; }
+  .shop-card { display: flex; padding: 8px; border-bottom: 1px solid #eee; }
+  .shop-name { width: 120px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: bold; }
+  .badge { display: inline-block; font-size: 11px; border: 1px solid #f60; color: #f60; margin-right: 4px; }
+  .banner-bg { width: 400px; height: 150px; background-image: url("/img/bg-banner.png"); }
+</style>
+<script>window.__fixtureData = { greeting: "你好，这段脚本里的中文不能被翻译" };</script>
+</head>
+<body>
+<header class="top-bar">
+  <div class="location" id="loc">送至：<span class="addr-text">北京市朝阳区望京SOHO</span></div>
+  <input id="search" class="search-input" type="search" placeholder="搜索商家、商品名称" aria-label="搜索">
+</header>
+<nav class="tabs" role="tablist">
+  <a href="#" role="tab" id="tab-rec"> 推荐 </a>
+  <a href="#" role="tab">美食</a>
+  <a href="#" role="tab">甜点饮品</a>
+  <a href="#" role="tab">超市便利</a>
+</nav>
+<img id="banner" class="banner" src="/img/banner.png" alt="新人专享 首单立减">
+<div id="bgbanner" class="banner-bg"></div>
+<div class="sort-bar"><span>综合排序</span><span>销量最高</span><span>距离最近</span><span>筛选</span></div>
+<ul id="shops">
+  <li class="shop-card">
+    <img class="shop-logo" src="/img/icon.png" alt="商家图标" width="20" height="20">
+    <div class="shop-info">
+      <div class="shop-name" id="shop1">老北京炸酱面馆（望京店）</div>
+      <div class="shop-meta"><span class="score">4.8分</span> <span class="sales">月售1000+</span></div>
+      <div class="shop-delivery"><span>起送¥20</span> <span>配送费¥3</span> <span>人均¥35</span></div>
+      <div class="shop-promos"><span class="badge">满30减5</span><span class="badge">新客立减</span><span class="badge">免配送费</span></div>
+    </div>
+  </li>
+  <li class="shop-card">
+    <img class="shop-logo" src="/img/icon.png" alt="商家图标" width="20" height="20">
+    <div class="shop-info">
+      <div class="shop-name">川味小厨</div>
+      <div class="shop-meta"><span class="score">4.6分</span> <span class="sales">月售500+</span></div>
+      <div class="shop-delivery"><span>起送¥15</span> <span>配送费¥2</span></div>
+      <div class="shop-promos"><span class="badge">满30减5</span><span class="badge">准时宝</span></div>
+    </div>
+  </li>
+</ul>
+<pre class="note">说明：<code id="code1">接口返回中文</code></pre>
+<div id="editor" contenteditable="true">用户正在编辑的中文</div>
+<textarea id="memo" placeholder="请输入备注">用户输入的内容</textarea>
+<x-coupon id="coupon"></x-coupon>
+<iframe id="frame" srcdoc="<!DOCTYPE html><html><head><meta charset='utf-8'></head><body><p id='fp'>天天特价</p><button>立即领取</button></body></html>" width="300" height="80"></iframe>
+<footer class="tabbar"><a href="#">首页</a><a href="#">订单</a><a href="#">我的</a></footer>
+<script>
+  customElements.define('x-coupon', class extends HTMLElement {
+    constructor() {
+      super();
+      const root = this.attachShadow({ mode: 'open' });
+      root.innerHTML = '<div class="coupon"><span>红包</span><b>领券中心</b></div>';
+    }
+  });
+</script>
+</body>
+</html>

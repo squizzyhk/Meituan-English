@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>回归测试</title>
+<style>
+  .ell { width: 60px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+</style>
+</head>
+<body>
+  <!-- React 18 renders 月售{n}+ as three adjacent text nodes -->
+  <div id="split"></div>
+  <p id="mixed">满<b>30</b>减<b>5</b></p>
+  <div id="tabs"><span>首页</span><span>订单</span></div>
+  <div class="ell" id="ell"><span>老北京炸酱面馆望京店</span></div>
+  <form id="f" onsubmit="return false">
+    <select id="spice" name="spice"><option>微辣</option><option>中辣</option></select>
+    <input type="submit" id="named" name="action" value="提交订单" data-test-keep>
+  </form>
+  <div id="closed-host"></div>
+  <div id="osc" data-test-keep>正在加载</div>
+  <script>
+    const s = document.getElementById('split');
+    ['月售', '1000', '+'].forEach((t) => s.appendChild(document.createTextNode(t)));
+    window.__closedRoot = document.getElementById('closed-host').attachShadow({ mode: 'closed' });
+    window.__closedRoot.innerHTML = '<i>封闭影子文本</i>';
+    // A self-healing widget that synchronously reverts any change to its text.
+    const osc = document.getElementById('osc');
+    new MutationObserver(() => { if (osc.textContent !== '正在加载') osc.textContent = '正在加载'; })
+      .observe(osc, { childList: true, characterData: true, subtree: true });
+  </script>
+</body>
+</html>

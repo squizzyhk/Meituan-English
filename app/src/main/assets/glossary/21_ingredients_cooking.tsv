@@ -1,0 +1,969 @@
+# 21_ingredients_cooking.tsv - Menu-naming words (cooking methods, flavors, spice levels, customizations),
+# proteins, offal, seafood, vegetables, tofu, mushrooms, noodles, staples, sauces and seasonings.
+# Format: chinese<TAB>english. Owner: glossary-food.
+# --- Menu naming words ---
+秘制	Secret Recipe
+特制	Specially Made
+自制	Homemade
+手工	Handmade
+手打	Hand-Made
+手撕	Hand-Torn
+手作	Handcrafted
+现做	Made to Order
+现炒	Freshly Stir-Fried
+现烤	Freshly Grilled
+现煮	Freshly Cooked
+现熬	Freshly Simmered
+现包	Freshly Wrapped
+现磨	Freshly Ground
+现切	Freshly Cut
+现榨	Freshly Squeezed
+鲜榨	Freshly Squeezed
+古法	Traditional Recipe
+传统	Traditional
+正宗	Authentic
+地道	Authentic
+农家	Farmhouse
+家常	Home-Style
+妈妈味	Mom's Recipe
+外婆	Grandma's
+老字号	Time-Honored
+私房	Private Kitchen
+秘方	Secret Recipe
+精品	Premium
+特级	Premium Grade
+特色	Specialty
+经典	Classic
+原味	Original
+原汁原味	Original Flavor
+原汤	Original Broth
+# --- Flavors ---
+香辣	Spicy
+微麻微辣	Mildly Spicy & Numbing
+酸辣	Hot & Sour
+甜辣	Sweet & Spicy
+鲜辣	Fresh Chili
+糊辣	Toasted Chili
+干辣	Dry Chili
+红油	Chili Oil
+藤椒	Green Sichuan Pepper
+青花椒	Green Sichuan Pepper
+花椒	Sichuan Peppercorn
+椒麻	Sichuan Pepper & Chili
+椒盐	Salt & Pepper
+孜然	Cumin
+蒜蓉	Garlic
+蒜香	Garlic
+蒜泥	Mashed Garlic
+葱香	Scallion
+葱油	Scallion Oil
+葱爆	Scallion Stir-Fried
+姜葱	Ginger & Scallion
+姜汁	Ginger Sauce
+酱香	Savory Soy
+酱爆	Sauce Stir-Fried
+酱烧	Sauce-Braised
+豉汁	Black Bean Sauce
+豉香	Black Bean
+蚝油	Oyster Sauce
+黑椒	Black Pepper
+黑胡椒	Black Pepper
+白胡椒	White Pepper
+咖喱	Curry
+糖醋	Sweet & Sour
+酸甜	Sweet & Sour
+鱼香	Yu-Shiang (Garlic Chili Sauce)
+宫保	Kung Pao
+怪味	Strange Flavor (Sweet, Sour & Spicy)
+五香	Five-Spice
+十三香	Thirteen-Spice
+卤香	Braised Spiced
+酱汁	Sauce
+照烧	Teriyaki
+蜜汁	Honey-Glazed
+蜂蜜	Honey
+奥尔良	New Orleans-Style
+烧烤味	BBQ Flavor
+番茄味	Tomato Flavor
+番茄	Tomato
+芝士	Cheese
+奶酪	Cheese
+奶油	Cream
+黄油	Butter
+咸蛋黄	Salted Egg Yolk
+金沙	Salted Egg Yolk
+柠檬	Lemon
+酸汤	Sour Soup
+酸菜	Pickled Mustard Greens
+泡椒	Pickled Chilies
+剁椒	Chopped Chilies
+干锅味	Dry Pot Style
+香酥	Crispy
+酥脆	Crispy
+脆皮	Crispy Skin
+香脆	Crispy
+嫩滑	Tender & Silky
+滑嫩	Silky
+软糯	Soft & Chewy
+Q弹	Bouncy
+劲道	Chewy
+筋道	Chewy
+爽口	Crisp & Refreshing
+清爽	Refreshing
+清淡	Light
+鲜香	Savory
+浓郁	Rich
+浓香	Rich Aroma
+醇香	Mellow
+咸鲜	Savory
+鲜甜	Fresh & Sweet
+清甜	Lightly Sweet
+甘甜	Sweet
+微甜	Lightly Sweet
+咸香	Salty & Savory
+焦香	Charred
+烟熏	Smoked
+熏	Smoked
+腊	Cured
+腌	Pickled
+醉	Drunken (Wine-Marinated)
+糟	Wine Lees-Marinated
+酱	Sauce
+# --- Spice levels ---
+免辣	No Spice
+小辣	Mild-Medium Spicy
+少辣	Less Spicy
+变态辣	Insanely Spicy
+超辣	Super Spicy
+麻辣度	Spice Level
+不麻	No Numbing
+微麻	Mildly Numbing
+中麻	Medium Numbing
+特麻	Extra Numbing
+# --- Cooking methods ---
+红烧	Braised in Soy Sauce
+清蒸	Steamed
+蒸	Steamed
+清炖	Clear-Stewed
+炖	Stewed
+焖	Braised
+煲	Claypot
+煨	Simmered
+熬	Slow-Simmered
+煮	Boiled
+水煮	Poached in Chili Broth
+白灼	Blanched
+汆	Quick-Boiled
+涮	Hot Pot-Dipped
+炒	Stir-Fried
+小炒	Stir-Fried
+爆炒	Quick Stir-Fried
+清炒	Plain Stir-Fried
+干炒	Dry Stir-Fried
+滑炒	Velvet Stir-Fried
+生炒	Raw Stir-Fried
+炝炒	Chili-Seared
+干煸	Dry-Fried
+煸炒	Dry Stir-Fried
+煎	Pan-Fried
+香煎	Pan-Seared
+炸	Deep-Fried
+油炸	Deep-Fried
+干炸	Dry-Fried
+软炸	Batter-Fried
+酥炸	Crispy Fried
+炸物	Fried Food
+烤	Grilled
+炭烤	Charcoal-Grilled
+炭火	Charcoal
+碳烤	Charcoal-Grilled
+碳火	Charcoal
+火烤	Flame-Grilled
+烘烤	Baked
+焗	Baked
+芝士焗	Cheese-Baked
+烧	Roasted
+卤	Braised in Master Stock
+酱卤	Soy-Braised
+凉拌	Cold-Tossed
+拌	Mixed
+炝拌	Chili-Tossed
+蘸	Dipped
+溜	Glazed
+熘	Glazed
+烩	Stewed in Gravy
+扒	Braised & Glazed
+拔丝	Candied
+挂霜	Sugar-Coated
+铁板	Sizzling Plate
+石锅	Stone Pot
+锡纸	Foil-Baked
+锡纸烤	Foil-Baked
+竹筒	Bamboo Tube
+砂锅炖	Claypot Stewed
+瓦罐	Clay Jar
+干锅烧	Dry Pot
+炖煮	Stewed
+慢炖	Slow-Cooked
+低温慢煮	Sous Vide
+腌制	Marinated
+风干	Air-Dried
+# --- Customization / dietary ---
+温	Warm
+冷	Cold
+不要冰	No Ice
+微糖	Low Sugar
+不加糖	No Sugar Added
+代糖	Sugar Substitute
+零卡糖	Zero-Calorie Sweetener
+不要香菜	No Cilantro
+不要葱	No Scallions
+不要葱花	No Scallions
+不要蒜	No Garlic
+不要姜	No Ginger
+不要辣	Not Spicy
+不吃辣	No Spice
+少油	Less Oil
+少盐	Less Salt
+不要味精	No MSG
+无味精	No MSG
+清真	Halal
+素	Vegetarian
+纯素	Vegan
+全素	Vegan
+荤	Meat
+低脂	Low-Fat
+低卡	Low-Calorie
+低糖	Low-Sugar
+高蛋白	High-Protein
+无麸质	Gluten-Free
+健身餐	Fitness Meal
+减脂餐	Fat-Loss Meal
+# --- Proteins ---
+猪肉丝	Shredded Pork
+肉丝	Shredded Pork
+肉片	Sliced Pork
+肉末	Minced Pork
+肉沫	Minced Pork
+肉馅	Ground Meat
+猪肉馅	Ground Pork
+五花肉	Pork Belly
+猪五花	Pork Belly
+三层肉	Pork Belly
+梅花肉	Pork Shoulder
+前腿肉	Pork Shoulder
+后腿肉	Pork Leg
+里脊	Tenderloin
+里脊肉	Pork Tenderloin
+猪里脊	Pork Tenderloin
+猪排	Pork Chop
+大排	Pork Chop
+小排	Pork Ribs
+肋排	Rack of Ribs
+猪肋排	Pork Ribs
+仔排	Baby Back Ribs
+猪大骨	Pork Bones
+筒骨	Pork Leg Bones
+猪尾	Pork Tail
+猪耳	Pig Ear
+猪头肉	Pork Head Meat
+猪颈肉	Pork Neck
+猪皮	Pork Skin
+肉皮	Pork Skin
+猪油	Lard
+猪油渣	Pork Cracklings
+培根	Bacon
+火腿	Ham
+金华火腿	Jinhua Ham
+火腿肠	Ham Sausage
+香肠	Sausage
+午餐肉	Spam (Luncheon Meat)
+肉松	Pork Floss
+鸡肉丝	Shredded Chicken
+鸡丝	Shredded Chicken
+鸡丁	Diced Chicken
+鸡腿肉	Chicken Thigh
+鸡胸	Chicken Breast
+鸡爪	Chicken Feet
+鸡皮	Chicken Skin
+鸡架	Chicken Frame
+鸡心	Chicken Heart
+鸡胗	Chicken Gizzard
+鸡肝	Chicken Liver
+鸡杂	Chicken Giblets
+鸡脖	Chicken Neck
+鸡蛋	Egg
+蛋	Egg
+鸭蛋	Duck Egg
+咸鸭蛋	Salted Duck Egg
+咸蛋	Salted Egg
+皮蛋	Century Egg
+松花蛋	Century Egg
+鹌鹑蛋	Quail Egg
+蛋清	Egg White
+蛋白	Egg White
+蛋黄	Egg Yolk
+土鸡	Free-Range Chicken
+走地鸡	Free-Range Chicken
+乌鸡	Black-Bone Chicken
+老母鸡	Old Hen
+三黄鸡	Three-Yellow Chicken
+童子鸡	Spring Chicken
+鸡	Chicken
+鸭	Duck
+鹅	Goose
+鸽子	Pigeon
+乳鸽	Squab
+烤乳鸽	Roast Squab
+鹌鹑	Quail
+兔肉	Rabbit
+兔子	Rabbit
+驴肉	Donkey Meat
+马肉	Horse Meat
+狗肉	Dog Meat
+蛇	Snake
+牛蛙腿	Bullfrog Legs
+田鸡	Frog
+牛肉片	Sliced Beef
+牛肉丝	Shredded Beef
+牛肉粒	Diced Beef
+牛柳	Beef Tenderloin
+牛里脊	Beef Tenderloin
+牛腩	Beef Brisket
+牛腱	Beef Shank
+牛腱子	Beef Shank
+牛筋	Beef Tendon
+牛蹄筋	Beef Tendon
+牛板筋	Beef Tendon Strips
+牛尾	Oxtail
+牛排骨	Beef Ribs
+牛仔骨	Beef Short Ribs
+牛舌	Beef Tongue
+牛肚	Beef Tripe
+毛肚	Beef Tripe
+鲜毛肚	Fresh Beef Tripe
+千层肚	Beef Omasum
+百叶	Beef Omasum
+牛百叶丝	Shredded Beef Omasum
+黄喉	Beef Aorta (Huang Hou)
+牛心	Beef Heart
+牛肝	Beef Liver
+牛鞭	Bull Pizzle
+肥牛	Sliced Fatty Beef
+肥牛卷	Sliced Fatty Beef Rolls
+雪花肥牛	Marbled Fatty Beef
+精品肥牛	Premium Fatty Beef
+嫩牛肉	Tender Beef
+麻辣牛肉	Spicy Beef
+吊龙	Beef Rib Fingers (Diao Long)
+匙柄	Beef Chuck Tender
+匙仁	Beef Chuck Eye
+胸口朝	Beef Brisket Fat
+三花趾	Beef Shin
+五花趾	Beef Shank Muscle
+嫩肉	Tender Beef
+雪花牛肉	Marbled Beef
+和牛	Wagyu
+安格斯牛肉	Angus Beef
+牛油	Beef Tallow
+羊肉片	Sliced Lamb
+羊肉卷	Lamb Rolls
+羊肉丝	Shredded Lamb
+羊腿	Leg of Lamb
+羊蝎子块	Lamb Spine
+羊杂	Lamb Offal
+羊肚	Lamb Tripe
+羊肝	Lamb Liver
+羊腰	Lamb Kidney
+羊鞭	Lamb Pizzle
+羊血	Lamb Blood
+羊肉丸	Lamb Balls
+羊尾油	Lamb Tail Fat
+# --- Offal / hot pot items ---
+肥肠	Pork Intestines
+大肠	Pork Large Intestine
+小肠	Pork Small Intestine
+猪肚	Pork Tripe
+猪肝	Pork Liver
+猪心	Pork Heart
+猪腰	Pork Kidney
+腰花	Pork Kidney
+猪舌	Pork Tongue
+猪血	Pork Blood Curd
+鸭血	Duck Blood
+毛血	Blood Curd
+血豆腐	Blood Tofu
+脑花	Pork Brain
+猪脑	Pork Brain
+脆骨	Cartilage
+软骨	Cartilage
+鸡软骨	Chicken Cartilage
+骨髓	Bone Marrow
+牛骨髓	Beef Bone Marrow
+天梯	Pork Aorta Rings
+郡肝	Chicken Gizzard
+鹅肠	Goose Intestines
+鸭肠王	Premium Duck Intestines
+牛黄喉	Beef Aorta
+猪黄喉	Pork Aorta
+虾滑	Shrimp Paste
+手打虾滑	Hand-Made Shrimp Paste
+墨鱼滑	Cuttlefish Paste
+鱼滑	Fish Paste
+牛肉滑	Beef Paste
+丸子	Meatballs
+肉丸	Meatballs
+猪肉丸	Pork Balls
+牛筋丸	Beef Tendon Balls
+撒尿牛丸	Juicy Beef Balls
+虾丸	Shrimp Balls
+墨鱼丸	Cuttlefish Balls
+鱼豆腐	Fish Tofu
+鱼饼	Fish Cake
+鱼糕	Fish Cake
+蟹棒	Crab Sticks
+蟹柳	Crab Sticks
+蟹肉棒	Crab Sticks
+包心鱼丸	Stuffed Fish Balls
+芝士丸	Cheese Balls
+芝士包心丸	Cheese-Filled Balls
+蛋饺	Egg Dumplings
+燕饺	Swallow Dumplings
+福袋	Lucky Bag Dumplings
+鱼籽福袋	Fish Roe Lucky Bags
+龙虾丸	Lobster Balls
+贡丸	Pork Balls (Gong Wan)
+台湾贡丸	Taiwanese Pork Balls
+酥肉	Crispy Fried Pork
+小酥肉	Crispy Fried Pork Bites
+炸酥肉	Crispy Fried Pork
+# --- Seafood ---
+鱼	Fish
+鱼片	Fish Slices
+鱼块	Fish Pieces
+鱼头	Fish Head
+鱼尾	Fish Tail
+鱼皮	Fish Skin
+鱼肚	Fish Maw
+鱼腩	Fish Belly
+鱼排	Fish Fillet
+鱼柳	Fish Fillet
+草鱼	Grass Carp
+鲤鱼	Carp
+鲫鱼	Crucian Carp
+鲢鱼	Silver Carp
+鳙鱼	Bighead Carp
+胖头鱼	Bighead Carp
+花鲢	Bighead Carp
+黑鱼	Snakehead
+乌鱼	Snakehead
+鲈鱼	Sea Bass
+桂鱼	Mandarin Fish
+鳜鱼	Mandarin Fish
+黄鱼	Yellow Croaker
+大黄鱼	Large Yellow Croaker
+小黄鱼	Small Yellow Croaker
+黄花鱼	Yellow Croaker
+带鱼	Hairtail
+鳕鱼	Cod
+银鳕鱼	Black Cod
+龙利鱼	Sole Fillet
+巴沙鱼	Basa Fish
+三文鱼	Salmon
+金枪鱼	Tuna
+吞拿鱼	Tuna
+鲷鱼	Sea Bream
+石斑鱼	Grouper
+多宝鱼	Turbot
+鲳鱼	Pomfret
+鲶鱼	Catfish
+清江鱼	Qingjiang Catfish
+江团	Chinese Longsnout Catfish
+黄辣丁	Yellow Catfish
+黄骨鱼	Yellow Catfish
+鳗鱼片	Eel Slices
+鳝鱼	Eel
+黄鳝	Rice Field Eel
+泥鳅	Loach
+秋刀鱼	Pacific Saury
+鲅鱼	Spanish Mackerel
+马鲛鱼	Spanish Mackerel
+鲭鱼	Mackerel
+沙丁鱼	Sardine
+多春鱼	Capelin
+银鱼	Whitebait
+鱿鱼	Squid
+鱿鱼须	Squid Tentacles
+鱿鱼圈	Squid Rings
+墨鱼	Cuttlefish
+墨鱼仔	Baby Cuttlefish
+章鱼	Octopus
+八爪鱼	Octopus
+小章鱼	Baby Octopus
+虾	Shrimp
+虾仁	Shelled Shrimp
+大虾	Prawns
+明虾	Prawns
+对虾	Prawns
+基围虾	Greasyback Shrimp
+罗氏虾	Giant River Prawn
+河虾	River Shrimp
+皮皮虾	Mantis Shrimp
+濑尿虾	Mantis Shrimp
+虾皮	Dried Baby Shrimp
+虾米	Dried Shrimp
+甜虾	Sweet Shrimp
+北极甜虾	Arctic Sweet Shrimp
+牡丹虾	Botan Shrimp
+龙虾	Lobster
+波士顿龙虾	Boston Lobster
+澳洲龙虾	Australian Lobster
+蟹	Crab
+螃蟹	Crab
+梭子蟹	Swimming Crab
+青蟹	Mud Crab
+肉蟹	Meat Crab
+膏蟹	Roe Crab
+帝王蟹	King Crab
+面包蟹	Brown Crab
+蟹黄	Crab Roe
+蟹粉	Crab Meat & Roe
+蟹肉	Crab Meat
+贝类	Shellfish
+扇贝	Scallop
+扇贝柱	Scallop
+干贝	Dried Scallop
+瑶柱	Dried Scallop
+生蚝	Oyster
+牡蛎	Oyster
+海蛎	Oyster
+蚝	Oyster
+蛤蜊	Clams
+蛤蜊肉	Clam Meat
+花蛤	Manila Clams
+蛏子	Razor Clams
+竹蛏	Razor Clams
+青口	Mussels
+淡菜	Mussels
+贻贝	Mussels
+鲍鱼	Abalone
+海参	Sea Cucumber
+海胆	Sea Urchin
+北极贝	Surf Clam
+象拔蚌	Geoduck
+田螺	River Snails
+螺蛳	River Snails
+海螺	Sea Snail
+香螺	Whelk
+花螺	Babylon Snail
+鱼籽	Fish Roe
+蟹籽	Crab Roe
+鱼子酱	Caviar
+三文鱼籽	Salmon Roe
+海蜇	Jellyfish
+海蜇皮	Jellyfish
+海鲜	Seafood
+河鲜	Freshwater Fish
+水产	Aquatic Products
+# --- Vegetables ---
+白菜	Napa Cabbage
+大白菜	Napa Cabbage
+娃娃菜	Baby Napa Cabbage
+小白菜	Bok Choy
+青菜	Greens
+上海青	Shanghai Bok Choy
+油菜	Rapeseed Greens
+菜心	Choy Sum
+芥兰	Chinese Broccoli (Gai Lan)
+芥蓝	Chinese Broccoli (Gai Lan)
+包菜	Cabbage
+卷心菜	Cabbage
+圆白菜	Cabbage
+紫甘蓝	Red Cabbage
+西兰花	Broccoli
+花菜	Cauliflower
+菜花	Cauliflower
+有机花菜	Organic Cauliflower
+菠菜	Spinach
+生菜	Lettuce
+油麦菜	Indian Lettuce (A-Choy)
+莴笋	Celtuce
+莴苣	Lettuce Stem
+空心菜	Water Spinach
+通菜	Water Spinach
+苋菜	Amaranth Greens
+茼蒿	Crown Daisy
+蒿子杆	Crown Daisy Stems
+韭菜	Chinese Chives
+韭黄	Yellow Chives
+韭菜花	Chive Flowers
+芹菜	Celery
+西芹	Celery
+香芹	Chinese Celery
+香菜	Cilantro
+芫荽	Cilantro
+葱	Scallion
+小葱	Scallion
+大葱	Leek (Chinese Scallion)
+葱花	Chopped Scallions
+洋葱	Onion
+紫洋葱	Red Onion
+蒜	Garlic
+大蒜	Garlic
+蒜苗	Garlic Shoots
+蒜薹	Garlic Scapes
+蒜苔	Garlic Scapes
+姜	Ginger
+生姜	Ginger
+小米辣	Bird's Eye Chili
+朝天椒	Facing-Heaven Chili
+二荆条	Erjingtiao Chili
+辣椒	Chili Pepper
+红辣椒	Red Chili
+青辣椒	Green Chili
+尖椒	Green Chili
+青椒	Green Pepper
+彩椒	Bell Pepper
+甜椒	Sweet Pepper
+红椒	Red Pepper
+杭椒	Hangzhou Pepper
+线椒	Long Green Pepper
+干辣椒	Dried Chilies
+辣椒面	Chili Powder
+辣椒粉	Chili Powder
+土豆	Potato
+土豆丝	Shredded Potato
+土豆片	Potato Slices
+马铃薯	Potato
+红薯	Sweet Potato
+地瓜	Sweet Potato
+紫薯	Purple Sweet Potato
+山药	Chinese Yam
+铁棍山药	Iron Stick Yam
+芋头	Taro
+香芋	Taro
+荔浦芋头	Lipu Taro
+魔芋	Konjac
+魔芋丝	Konjac Noodles
+魔芋结	Konjac Knots
+莲藕	Lotus Root
+藕	Lotus Root
+藕片	Lotus Root Slices
+藕带	Lotus Shoots
+萝卜	Radish
+白萝卜	Daikon Radish
+胡萝卜	Carrot
+青萝卜	Green Radish
+樱桃萝卜	Cherry Radish
+冬瓜	Winter Melon
+南瓜	Pumpkin
+老南瓜	Mature Pumpkin
+西葫芦	Zucchini
+丝瓜	Luffa (Sponge Gourd)
+苦瓜	Bitter Melon
+黄瓜	Cucumber
+青瓜	Cucumber
+茄子	Eggplant
+西红柿	Tomato
+圣女果	Cherry Tomatoes
+小番茄	Cherry Tomatoes
+玉米	Corn
+甜玉米	Sweet Corn
+糯玉米	Waxy Corn
+玉米粒	Corn Kernels
+玉米笋	Baby Corn
+豌豆	Peas
+青豆	Green Peas
+荷兰豆	Snow Peas
+甜豆	Sugar Snap Peas
+四季豆	Green Beans
+豆角	Long Beans
+长豆角	Long Beans
+扁豆	Flat Beans
+蚕豆	Broad Beans
+黄豆	Soybeans
+黄豆芽	Soybean Sprouts
+绿豆芽	Mung Bean Sprouts
+豆芽	Bean Sprouts
+豌豆苗	Pea Shoots
+豆苗	Pea Shoots
+笋	Bamboo Shoots
+竹笋	Bamboo Shoots
+春笋	Spring Bamboo Shoots
+冬笋	Winter Bamboo Shoots
+笋干	Dried Bamboo Shoots
+笋尖	Bamboo Shoot Tips
+芦笋	Asparagus
+秋葵	Okra
+牛油果	Avocado
+羽衣甘蓝	Kale
+芝麻菜	Arugula
+苦菊	Frisée
+紫苏	Perilla
+罗勒	Basil
+九层塔	Thai Basil
+薄荷	Mint
+香茅	Lemongrass
+折耳根	Fish Mint (Houttuynia)
+鱼腥草	Fish Mint (Houttuynia)
+荠菜	Shepherd's Purse
+马兰头	Indian Aster
+香椿	Chinese Toon
+蕨菜	Fiddlehead Ferns
+马齿苋	Purslane
+雪菜	Pickled Mustard Greens
+雪里蕻	Pickled Mustard Greens
+梅干菜	Preserved Mustard Greens
+梅菜	Preserved Mustard Greens
+榨菜	Zhacai (Pickled Mustard Root)
+芽菜	Sichuan Preserved Greens
+酸豆角	Pickled Long Beans
+酸萝卜	Pickled Radish
+泡萝卜	Pickled Radish
+酸白菜	Pickled Napa Cabbage
+东北酸菜	Northeastern Sauerkraut
+橄榄菜	Olive Vegetable
+咸菜	Pickled Vegetables
+腌菜	Pickled Vegetables
+海带	Kelp
+海带丝	Shredded Kelp
+海带结	Kelp Knots
+紫菜	Seaweed (Laver)
+海苔	Roasted Seaweed
+裙带菜丝	Wakame Strips
+木耳	Wood Ear Mushroom
+黑木耳	Black Fungus
+银耳	White Fungus
+# --- Mushrooms ---
+蘑菇	Mushrooms
+菌菇	Mushrooms
+香菇	Shiitake Mushroom
+花菇	Flower Shiitake
+冬菇	Dried Shiitake
+金针菇	Enoki Mushroom
+杏鲍菇	King Oyster Mushroom
+平菇	Oyster Mushroom
+秀珍菇	Pleurotus Mushroom
+茶树菇	Tea Tree Mushroom
+蟹味菇	Shimeji Mushroom
+白玉菇	White Beech Mushroom
+海鲜菇	Seafood Mushroom
+口蘑	Button Mushroom
+白蘑菇	White Mushroom
+草菇	Straw Mushroom
+鸡腿菇	Shaggy Mane Mushroom
+猴头菇	Lion's Mane Mushroom
+牛肝菌	Porcini
+松茸	Matsutake
+鸡枞	Termite Mushroom (Jizong)
+鸡枞菌	Termite Mushroom (Jizong)
+羊肚菌	Morel
+竹荪	Bamboo Fungus
+虫草花	Cordyceps Flower
+野生菌	Wild Mushrooms
+菌汤	Mushroom Broth
+# --- Tofu & soy ---
+豆腐	Tofu
+嫩豆腐	Soft Tofu
+老豆腐	Firm Tofu
+北豆腐	Firm Tofu
+南豆腐	Soft Tofu
+内酯豆腐	Silken Tofu
+冻豆腐	Frozen Tofu
+油豆腐	Fried Tofu Puffs
+豆泡	Fried Tofu Puffs
+豆腐泡	Fried Tofu Puffs
+日本豆腐	Egg Tofu
+玉子豆腐	Egg Tofu
+千叶豆腐	Thousand-Leaf Tofu
+千页豆腐	Thousand-Leaf Tofu
+豆干	Dried Tofu
+豆腐干	Dried Tofu
+香干	Smoked Dried Tofu
+千张	Tofu Sheets
+百叶结	Tofu Sheet Knots
+豆皮	Tofu Skin
+油豆皮	Fried Tofu Skin
+腐竹	Tofu Skin Sticks
+腐皮	Tofu Skin
+响铃卷	Crispy Tofu Skin Rolls
+素鸡	Vegetarian Chicken (Rolled Tofu)
+面筋	Wheat Gluten
+油面筋	Fried Gluten Balls
+腐乳	Fermented Tofu
+豆豉	Fermented Black Beans
+纳豆	Natto
+# --- Noodles & staples ---
+面条	Noodles
+面	Noodles
+挂面	Dried Noodles
+鲜面	Fresh Noodles
+手擀面	Hand-Rolled Noodles
+宽粉	Wide Glass Noodles
+粉条	Glass Noodles
+红薯粉	Sweet Potato Noodles
+红薯粉条	Sweet Potato Noodles
+苕粉	Sweet Potato Noodles
+土豆粉条	Potato Noodles
+米粉	Rice Noodles
+河粉	Flat Rice Noodles (Ho Fun)
+粿条	Kway Teow
+米粉条	Rice Noodles
+方便面	Instant Noodles
+泡面	Instant Noodles
+方便面块	Instant Noodle Block
+乌冬面条	Udon Noodles
+意面条	Spaghetti
+油面	Yellow Noodles
+碱水面	Alkaline Noodles
+荞麦	Buckwheat
+年糕	Rice Cake
+年糕条	Rice Cake Sticks
+糍粑	Glutinous Rice Cake
+糯米	Glutinous Rice
+大米	Rice
+香米	Fragrant Rice
+糙米	Brown Rice
+黑米	Black Rice
+紫米	Purple Rice
+小米	Millet
+杂粮	Multigrain
+五谷杂粮	Mixed Grains
+燕麦	Oats
+藜麦	Quinoa
+薏米	Job's Tears
+红豆	Red Beans
+绿豆	Mung Beans
+黑豆	Black Beans
+芸豆	Kidney Beans
+花生	Peanuts
+芝麻	Sesame
+黑芝麻	Black Sesame
+白芝麻	White Sesame
+核桃	Walnuts
+腰果	Cashews
+杏仁	Almonds
+松子	Pine Nuts
+栗子	Chestnuts
+板栗	Chestnuts
+莲子	Lotus Seeds
+红枣	Red Dates (Jujube)
+枸杞	Goji Berries
+桂圆	Longan
+龙眼	Longan
+百合	Lily Bulb
+银杏	Ginkgo Nuts
+白果	Ginkgo Nuts
+陈皮	Dried Tangerine Peel
+桂花	Osmanthus
+玫瑰	Rose
+人参	Ginseng
+当归	Angelica Root
+黄芪	Astragalus
+党参	Codonopsis
+虫草	Cordyceps
+燕窝	Bird's Nest
+花胶	Fish Maw
+雪蛤	Hasma
+面粉	Flour
+淀粉	Starch
+面包糠	Breadcrumbs
+饺子皮	Dumpling Wrappers
+馄饨皮	Wonton Wrappers
+春卷皮	Spring Roll Wrappers
+# --- Sauces & seasonings ---
+酱油	Soy Sauce
+生抽	Light Soy Sauce
+老抽	Dark Soy Sauce
+醋	Vinegar
+陈醋	Aged Vinegar
+香醋	Black Vinegar
+米醋	Rice Vinegar
+白醋	White Vinegar
+盐	Salt
+糖	Sugar
+白糖	White Sugar
+冰糖	Rock Sugar
+红糖	Brown Sugar
+黑糖	Black Sugar
+味精	MSG
+鸡精	Chicken Bouillon
+料酒	Cooking Wine
+黄酒	Shaoxing Wine
+花雕	Huadiao Wine
+香油	Sesame Oil
+芝麻油	Sesame Oil
+麻油	Sesame Oil
+花椒油	Sichuan Pepper Oil
+藤椒油	Green Sichuan Pepper Oil
+辣椒油	Chili Oil
+油辣子	Chili Oil
+老干妈	Lao Gan Ma Chili Crisp
+辣椒酱	Chili Sauce
+蒜蓉辣酱	Garlic Chili Sauce
+豆瓣酱	Broad Bean Paste
+郫县豆瓣	Pixian Broad Bean Paste
+黄豆酱	Soybean Paste
+甜面酱	Sweet Bean Sauce
+大酱	Soybean Paste
+芝麻酱	Sesame Paste
+麻酱	Sesame Paste
+花生酱	Peanut Butter
+沙茶酱	Satay Sauce
+沙爹酱	Satay Sauce
+海鲜酱	Hoisin Sauce
+柱侯酱	Chu Hou Paste
+XO酱	XO Sauce
+番茄酱	Ketchup
+沙拉酱	Mayonnaise
+蛋黄酱	Mayonnaise
+千岛酱	Thousand Island Dressing
+芥末	Wasabi
+芥末酱	Mustard
+黄芥末	Yellow Mustard
+蜂蜜芥末酱	Honey Mustard
+烧烤酱	BBQ Sauce
+甜辣酱	Sweet Chili Sauce
+鱼露	Fish Sauce
+咖喱块	Curry Roux
+咖喱粉	Curry Powder
+孜然粉	Cumin Powder
+五香粉	Five-Spice Powder
+十三香粉	Thirteen-Spice Powder
+胡椒粉	Pepper
+白胡椒粉	White Pepper
+黑胡椒粉	Black Pepper
+八角	Star Anise
+桂皮	Cinnamon Bark
+香叶	Bay Leaf
+草果	Black Cardamom
+蘸料	Dipping Sauce
+蘸水	Dipping Sauce
+油碟	Sesame Oil Dip
+干碟	Dry Chili Dip
+麻酱蘸料	Sesame Dipping Sauce
+调料	Seasonings
+调味料	Seasonings
+酱料	Sauces
+底料	Soup Base
+火锅底料	Hot Pot Soup Base
+汤底	Broth
+高汤	Stock
+骨汤	Bone Broth
+鸡汤	Chicken Broth
+清汤	Clear Broth
+红汤	Spicy Red Broth
+浓汤	Rich Broth
+金汤	Golden Broth
+上汤	Superior Broth
+食用油	Cooking Oil
+花生油	Peanut Oil
+菜籽油	Rapeseed Oil
+大豆油	Soybean Oil
+玉米油	Corn Oil
+橄榄油	Olive Oil
+葵花籽油	Sunflower Oil
+调和油	Blended Oil
+
+# Review fixes
+大辣	Very Spicy

@@ -1,0 +1,371 @@
+# 14_promos_badges.tsv - Promotions, coupons, vouchers (红包), membership perks, store badges and service guarantees.
+# Format: chinese<TAB>english. Owner: glossary-ui.
+# --- Promotion types ---
+满减	Spend & Save
+满减优惠	Spend & Save
+满减活动	Spend & Save
+满赠	Free Gift with Purchase
+满返	Cashback Offer
+满折	Spend & Get % Off
+折扣商品	Discounted Items
+折扣菜	Discounted Dishes
+特价商品	Special Price Items
+特价	Special Price
+特价菜	Special Price Dishes
+限时特价	Limited-Time Price
+限时折扣	Limited-Time Discount
+限时优惠	Limited-Time Offer
+限时抢购	Flash Sale
+限时秒杀	Flash Sale
+秒杀	Flash Sale
+整点秒杀	Hourly Flash Sale
+今日秒杀	Today's Flash Sale
+抢购中	Selling Now
+即将开抢	Starting Soon
+已抢光	All Gone
+已抢完	All Gone
+抢光了	All Gone
+已结束	Ended
+距结束	Ends in
+距开始	Starts in
+距离结束	Ends in
+距离开始	Starts in
+爆款	Hot Item
+爆品	Hot Item
+爆款推荐	Hot Picks
+超值	Great Value
+超值套餐	Value Combo
+超值优惠	Great Deal
+优惠信息	Offers
+优惠活动：	Offers:
+全部优惠	All Offers
+更多优惠	More Offers
+优惠详情	Offer Details
+活动	Promotion
+活动规则	Promotion Rules
+活动详情	Promotion Details
+活动时间	Promotion Period
+活动说明	Promotion Terms
+参与活动	Join Promotion
+不参与活动	Not Eligible for Promotions
+不参与满减	Not Eligible for Spend & Save
+不与其他优惠同享	Can't be combined with other offers
+不可与其他优惠同享	Can't be combined with other offers
+可与其他优惠同享	Can be combined with other offers
+可叠加	Stackable
+不可叠加	Not Stackable
+可叠加使用	Stackable
+新客专享	New Customers Only
+新客立减	New Customer Discount
+新客	New Customer
+新用户专享	New Users Only
+新人专享	New Users Only
+新人礼包	New User Gift Pack
+新人红包	New User Voucher
+新人福利	New User Perks
+首单立减	First Order Discount
+首单优惠	First Order Discount
+首单减	First Order Off
+首单	First Order
+门店新客立减	New-to-Store Discount
+会员专享	Members Only
+会员价	Member Price
+会员专享价	Member Price
+会员特价	Member Special
+会员红包	Member Voucher
+会员权益	Member Benefits
+会员福利	Member Perks
+会员日	Member Day
+超级会员	Super Member
+开通超级会员	Join Super Member
+神会员	Super Member
+神券	Super Coupon
+天天神券	Daily Super Coupons
+神券节	Super Coupon Festival
+膨胀神券	Boosted Super Coupon
+膨胀	Boost
+去膨胀	Boost It
+已膨胀	Boosted
+最高膨胀至	Boost up to
+天天领红包	Daily Vouchers
+天天特价	Daily Specials
+每日特价	Daily Specials
+今日特价	Today's Specials
+每日福利	Daily Perks
+周末特惠	Weekend Special
+节日特惠	Holiday Special
+品牌特惠	Brand Deals
+大牌特惠	Top Brand Deals
+大额红包	Big Voucher
+惊喜红包	Surprise Voucher
+拼手气红包	Lucky Voucher
+分享红包	Share a Voucher
+分享得红包	Share to Get Vouchers
+津贴	Allowance
+购物津贴	Shopping Allowance
+立减	Instant Discount
+直降	Price Drop
+立享	Get
+低至	As low as
+最高	Up to
+最高减	Save up to
+最高立减	Save up to
+一口价套餐	Fixed-Price Combo
+第二份半价	2nd item half price
+第二杯半价	2nd drink half price
+买一送一	Buy 1 Get 1 Free
+买一赠一	Buy 1 Get 1 Free
+赠品	Free Gift
+赠	Free
+返现	Cashback
+返券	Coupon Back
+下单返红包	Get a Voucher with Your Order
+加价购	Add-on Deal
+换购	Add-on Deal
+特惠换购	Add-on Deal
+拼单	Group Order
+拼单享优惠	Group Order Discount
+一起拼单	Order Together
+发起拼单	Start Group Order
+邀请好友拼单	Invite Friends to Order
+团购价	Deal Price
+门市价	Regular Price
+到店价	In-Store Price
+券后价	Price after Coupon
+券后	After Coupon
+到手价	Final Price
+抢购价	Sale Price
+秒杀价	Flash Sale Price
+新客价	New Customer Price
+专享价	Exclusive Price
+优惠价	Discounted Price
+活动价	Promo Price
+预估到手价	Est. Final Price
+省钱	Save Money
+已省	Saved
+共省	Total Saved
+本单已省	Saved on this order
+为你省	Saved for You
+立省	Save
+省	Save
+# --- Coupons / vouchers (红包) ---
+领券	Get Coupons
+领劵	Get Coupons
+领取	Claim
+立即领取	Claim Now
+一键领取	Claim All
+全部领取	Claim All
+领取成功	Claimed
+已领取	Claimed
+已领	Claimed
+已领完	All Claimed
+领红包	Get Vouchers
+抢红包	Grab Vouchers
+领优惠券	Get Coupons
+去使用	Use Now
+立即使用	Use Now
+使用	Use
+去查看	View
+有效期至	Valid until
+有效期至：	Valid until:
+今日到期	Expires Today
+明日到期	Expires Tomorrow
+即将到期	Expiring Soon
+即将过期	Expiring Soon
+已失效	Expired
+已到期	Expired
+无门槛	No Minimum
+无门槛红包	No-Minimum Voucher
+无门槛券	No-Minimum Coupon
+通用红包	Universal Voucher
+通用券	Universal Coupon
+全场通用	Valid Store-wide
+全品类通用	Valid on All Categories
+指定商品可用	Valid on Selected Items
+指定商家可用	Valid at Selected Stores
+限品类	Category Restricted
+限商家	Store Restricted
+仅限外卖使用	Delivery Orders Only
+仅限到店使用	In-Store Only
+仅限新用户	New Users Only
+可用商家	Eligible Stores
+可用商品	Eligible Items
+使用说明	How to Use
+使用条件	Conditions
+使用门槛	Minimum Spend
+历史红包	Past Vouchers
+历史优惠券	Past Coupons
+查看历史红包	View Past Vouchers
+兑换码	Redemption Code
+兑换红包	Redeem Voucher
+输入兑换码	Enter redemption code
+请输入兑换码	Enter redemption code
+兑换成功	Redeemed
+兑换码无效	Invalid redemption code
+商家券	Store Coupon
+店铺券	Store Coupon
+平台券	Platform Coupon
+运费券	Delivery Coupon
+配送费券	Delivery Fee Coupon
+免配送费券	Free Delivery Coupon
+免运费	Free Shipping
+包邮	Free Shipping
+折扣券	Discount Coupon
+满减券	Spend & Save Coupon
+红包已到账	Voucher added
+恭喜获得	Congratulations! You got
+恭喜你获得	Congratulations! You got
+恭喜您获得	Congratulations! You got
+收下	Accept
+开心收下	Accept
+放弃	Give Up
+残忍拒绝	No Thanks
+不了，谢谢	No, thanks
+抽奖	Lucky Draw
+立即抽奖	Draw Now
+幸运大转盘	Lucky Wheel
+再抽一次	Draw Again
+谢谢参与	Better luck next time
+中奖记录	Prize History
+我的奖品	My Prizes
+做任务	Complete Tasks
+去完成	Go
+已完成任务	Task Completed
+领奖励	Claim Reward
+奖励	Reward
+助力	Help Out
+帮好友助力	Help a Friend
+助力成功	Help sent
+# --- Store badges / guarantees ---
+品质保障	Quality Assured
+放心吃	Eat with Confidence
+放心点	Order with Confidence
+准时达	On-Time Delivery
+准时达保障	On-Time Guarantee
+超时赔付	Late Delivery Compensation
+超时必赔	Late Delivery Compensation
+极速退款	Express Refund
+闪电退款	Instant Refund
+极速达	Express Delivery
+极速送达	Express Delivery
+快速送达	Fast Delivery
+平均送达	Avg. Delivery
+食安保障	Food Safety Guarantee
+食安险	Food Safety Insurance
+食品安全险	Food Safety Insurance
+明厨亮灶	Open Kitchen
+放心餐厅	Trusted Restaurant
+安心送	Safe Delivery
+无接触配送	Contactless Delivery
+无接触	Contactless
+放心购	Shop with Confidence
+正品保障	Authenticity Guaranteed
+假一赔十	10x Refund if Fake
+七天无理由退货	7-Day No-Reason Returns
+7天无理由退货	7-Day No-Reason Returns
+坏单包赔	Damaged Order Compensated
+破损包赔	Damage Compensated
+缺重包退	Refund for Short Weight
+官方旗舰店	Official Flagship Store
+旗舰店	Flagship Store
+官方	Official
+认证	Verified
+已认证	Verified
+官方认证	Officially Verified
+连锁	Chain
+连锁品牌	Chain Brand
+金牌商家	Gold Store
+金牌店铺	Gold Store
+优质商家	Quality Store
+明星商家	Star Store
+回头客多	Many Repeat Customers
+回头客	Repeat Customers
+老顾客	Regulars
+复购率高	High Reorder Rate
+好评如潮	Rave Reviews
+口碑好店	Highly Rated Store
+人气好店	Popular Store
+人气王	Most Popular
+销量冠军	#1 best seller
+销量第一	#1 best seller
+热卖	Hot Seller
+热卖中	Selling Fast
+热卖榜	Hot Sellers
+热销第1名	#1 best seller
+热销第一	#1 best seller
+上榜	Ranked
+入选必吃榜	On the Must-Eat List
+黑珍珠	Black Pearl
+黑珍珠餐厅	Black Pearl Restaurant
+必吃榜餐厅	Must-Eat List Restaurant
+点评必吃榜	Dianping Must-Eat List
+网红店	Trending Spot
+网红	Trending
+打卡	Check In
+网红打卡	Trending Hotspot
+新品首发	New Launch
+首发	New Launch
+独家	Exclusive
+专享	Exclusive
+独家优惠	Exclusive Deal
+限量	Limited Edition
+限量供应	Limited Supply
+季节限定	Seasonal Limited
+限定	Limited
+今日推荐商品	Today's Featured
+店铺推荐	Store Picks
+本店推荐	Store Picks
+大家都在点	What Others Are Ordering
+大家都在买	Everyone's Buying
+近期热卖	Trending Now
+月售过千	1,000+ sold/month
+好评率高	Highly Rated
+高分好店	Top-Rated Store
+距离近	Nearby
+配送快	Fast Delivery
+起送低	Low Min. Order
+支持开发票	Invoice Available
+可开发票	Invoice Available
+支持到店自取	Pickup Available
+美团专送·准时达	Meituan Delivery · On Time
+跨天预订	Next-Day Pre-order
+接受预订单	Accepting Pre-orders
+预订单	Pre-order
+提前预订	Order Ahead
+广告	Ad
+推广	Sponsored
+赞助	Sponsored
+付费推广	Paid Promotion
+
+# Review fixes
+美团红包	Meituan Voucher
+商家红包	Store Voucher
+店铺红包	Store Voucher
+评价得红包	Review to Get a Voucher
+会员领红包	Members: Get Vouchers
+减	Deal
+首	1st Order
+新	New
+折	Sale
+券	Coupon
+免	Free
+返	Cashback
+特	Special
+津	Allowance
+送	Free
+会	Member
+味道赞	Great Taste
+味道好	Tasty
+分量足	Generous Portions
+包装精美	Nice Packaging
+包装好	Well Packaged
+送餐及时	On-Time Delivery
+送餐快	Fast Delivery
+很好吃	Delicious
+好吃	Tasty
+一般般	So-So
+不推荐	Not Recommended
+性价比高	Great Value
+服务热情	Friendly Service
+环境优雅	Nice Ambience
+骑手很好	Great Courier

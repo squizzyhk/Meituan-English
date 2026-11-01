@@ -1,0 +1,416 @@
+# 12_orders_payment.tsv - Checkout, order confirmation, payment, order status and tracking, refunds and after-sales, invoices.
+# Format: chinese<TAB>english. Owner: glossary-ui.
+# --- Checkout ---
+提交订单	Place Order
+确认订单	Confirm Order
+确认下单	Place Order
+立即下单	Order Now
+去下单	Order Now
+下单	Order
+订单确认	Order Confirmation
+送达时间	Delivery Time
+预计送达	Estimated Arrival
+预计送达时间	Estimated Arrival Time
+预计	Est.
+立即送出	ASAP
+尽快送达	ASAP
+立即配送	Deliver Now
+选择送达时间	Choose Delivery Time
+指定时间	Scheduled Time
+预约送达	Scheduled Delivery
+预约配送	Scheduled Delivery
+预约时间	Scheduled Time
+选择时间	Choose Time
+自取时间	Pickup Time
+到店自取时间	Pickup Time
+预留电话	Contact Phone
+自取地址	Pickup Address
+外卖配送	Delivery
+配送地址	Delivery Address
+送餐地址	Delivery Address
+备注	Notes
+订单备注	Order Notes
+添加备注	Add Notes
+口味、偏好等要求	Taste preferences or requests
+口味、偏好	Taste & preferences
+请输入口味、偏好等要求，不支持额外加菜	Taste preferences or requests (no extra dishes)
+快捷输入	Quick Notes
+餐具数量	Utensils
+餐具	Utensils
+无需餐具	No Utensils
+不需要餐具	No Utensils
+依据餐量提供	Based on Order Size
+商家依据餐量提供	Store will provide based on order size
+需要餐具	Need Utensils
+份餐具	sets of utensils
+选择餐具数量	Choose Utensil Count
+为响应环保，商家将不再主动提供餐具	To reduce waste, utensils are not included by default
+环保	Eco-Friendly
+发票	Invoice
+不需要发票	No Invoice
+需要发票	Need Invoice
+开发票	Request Invoice
+开具发票	Issue Invoice
+申请开票	Request Invoice
+发票抬头	Invoice Title
+个人	Personal
+单位	Company
+企业	Company
+税号	Tax ID
+纳税人识别号	Taxpayer ID
+请输入税号	Enter tax ID
+请输入发票抬头	Enter invoice title
+电子发票	E-Invoice
+纸质发票	Paper Invoice
+发票类型	Invoice Type
+增值税普通发票	VAT Invoice
+增值税专用发票	Special VAT Invoice
+本店不支持开发票	This store does not issue invoices
+商家不支持开发票	Store does not issue invoices
+开票金额	Invoice Amount
+商品金额	Item Total
+商品总价	Item Total
+商品合计	Item Total
+优惠	Discount
+优惠金额	Discount
+总优惠	Total Savings
+共优惠	Total Saved
+实付	Total
+实付款	Amount Paid
+实付金额	Amount Paid
+待支付	Amount Due
+应付	Amount Due
+应付金额	Amount Due
+需付款	Amount Due
+合计：	Total:
+小计：	Subtotal:
+总价	Total Price
+订单金额	Order Total
+订单总价	Order Total
+配送费：	Delivery fee:
+打包费：	Packaging fee:
+餐盒费：	Packaging fee:
+减配送费	Delivery Fee Discount
+减免配送费	Delivery Fee Waived
+红包抵扣	Voucher Applied
+使用红包	Use Voucher
+选择红包	Choose Voucher
+暂无可用红包	No vouchers available
+无可用红包	No vouchers available
+不使用红包	Don't Use Voucher
+可用红包	Available Vouchers
+不可用红包	Unavailable Vouchers
+商家代金券	Store Voucher
+使用优惠券	Use Coupon
+选择优惠券	Choose Coupon
+暂无可用优惠券	No coupons available
+无可用优惠券	No coupons available
+不使用优惠券	Don't Use Coupon
+可用优惠券	Available Coupons
+不可用优惠券	Unavailable Coupons
+已选最优优惠	Best offer applied
+已为您选择最大优惠	Best offer applied for you
+号码保护	Number Protection
+号码保护已开启	Number protection is on
+为保护您的隐私，商家和骑手将看到您的虚拟号码	To protect your privacy, the store and courier will see a virtual number
+隐私号	Virtual Number
+虚拟号码	Virtual Number
+确认地址	Confirm Address
+请确认收货地址	Please confirm your delivery address
+订单提交中	Placing order…
+下单失败	Order failed
+提交失败	Submission failed
+商品信息已变更	Item details have changed
+商品价格有变动	Prices have changed
+部分商品已售罄	Some items are sold out
+订单已提交	Order placed
+# --- Payment ---
+选择支付方式	Choose Payment Method
+支付方式	Payment Method
+其他支付方式	Other Payment Methods
+更多支付方式	More Payment Methods
+美团支付	Meituan Pay
+微信支付	WeChat Pay
+支付宝	Alipay
+支付宝支付	Alipay
+云闪付	UnionPay QuickPass
+银联	UnionPay
+银联支付	UnionPay
+Apple Pay	Apple Pay
+花呗	Huabei
+信用卡支付	Credit Card
+找人代付	Ask a Friend to Pay
+好友代付	Friend Pays
+代付	Pay for Someone
+月付	Monthly Pay
+美团月付	Meituan Monthly Pay
+先用后付	Use Now, Pay Later
+确认支付	Confirm Payment
+立即支付	Pay Now
+去支付	Pay Now
+支付	Pay
+付款	Pay
+继续支付	Continue Payment
+重新支付	Pay Again
+确认付款	Confirm Payment
+支付成功	Payment Successful
+付款成功	Payment Successful
+支付失败	Payment Failed
+支付失败，请重试	Payment failed. Please try again.
+支付超时	Payment timed out
+支付中	Processing payment…
+支付处理中	Processing payment…
+正在支付	Processing payment…
+支付金额	Payment Amount
+付款金额	Payment Amount
+支付剩余时间	Time Left to Pay
+剩余支付时间	Time Left to Pay
+请在15分钟内完成支付	Please pay within 15 minutes
+订单超时未支付将自动取消	Unpaid orders will be canceled automatically
+确定要放弃付款吗？	Abandon payment?
+确认放弃支付？	Abandon payment?
+放弃支付	Abandon Payment
+继续付款	Continue Payment
+余额不足	Insufficient balance
+银行卡余额不足	Insufficient card balance
+支付密码已锁定	Payment PIN locked
+返回首页	Back to Home
+查看订单	View Order
+# --- Orders list & status ---
+我的订单	My Orders
+全部订单	All Orders
+订单详情	Order Details
+订单号	Order No.
+订单编号	Order No.
+订单号：	Order No.:
+下单时间	Order Time
+下单时间：	Order time:
+支付时间	Payment Time
+付款时间	Payment Time
+送达时间：	Delivery time:
+完成时间	Completed At
+取消时间	Canceled At
+配送骑手	Courier
+骑手	Courier
+骑士	Courier
+配送员	Courier
+配送服务：	Delivery service:
+订单信息	Order Info
+配送信息：	Delivery info:
+再来一单	Order Again
+再次购买	Buy Again
+再买一单	Buy Again
+申请退款	Request Refund
+退款	Refund
+申请售后	Request After-Sales
+联系商家	Contact Store
+联系骑手	Contact Courier
+致电商家	Call Store
+致电骑手	Call Courier
+给骑手打赏	Tip Courier
+打赏骑手	Tip Courier
+打赏	Tip
+催单	Remind Store
+提醒商家	Remind Store
+已提醒商家	Store reminded
+修改订单	Modify Order
+修改地址	Change Address
+修改收货信息	Change Delivery Info
+取消订单	Cancel Order
+确定取消订单吗？	Cancel this order?
+确认取消订单？	Cancel this order?
+取消原因	Cancellation Reason
+请选择取消原因	Please choose a reason
+我不想要了	I don't want it anymore
+信息填写错误，重新下单	Wrong info, reordering
+地址填写错误	Wrong address
+商家缺货	Store is out of stock
+商家联系我取消	Store asked me to cancel
+骑手联系我取消	Courier asked me to cancel
+送达时间选错了	Wrong delivery time
+忘记使用红包	Forgot to use a voucher
+其他原因	Other Reason
+订单已取消	Order canceled
+取消成功	Canceled
+删除订单	Delete Order
+确定删除订单吗？	Delete this order?
+订单删除后将无法恢复	Deleted orders can't be restored
+待付款	Pending Payment
+待支付订单	Unpaid Orders
+待接单	Awaiting Acceptance
+待使用	To Use
+待评价	To Review
+待收货	To Receive
+待发货	To Ship
+待配送	Awaiting Delivery
+待出行	Upcoming Trips
+待入住	Upcoming Stays
+退款/售后	Refunds & After-Sales
+退款售后	Refunds & After-Sales
+售后	After-Sales
+已完成	Completed
+订单已完成	Order completed
+已取消	Canceled
+已退款	Refunded
+退款中	Refund in Progress
+退款成功	Refund Successful
+退款失败	Refund Failed
+部分退款	Partial Refund
+已过期	Expired
+已使用	Used
+未使用	Unused
+已支付	Paid
+已付款	Paid
+未支付	Unpaid
+已评价	Reviewed
+进行中	In Progress
+已送达	Delivered
+订单已送达	Order delivered
+已签收	Received
+等待支付	Awaiting Payment
+等待商家接单	Waiting for store to accept
+商家已接单	Store accepted your order
+商家正在备餐	Store is preparing your order
+商家已出餐	Order is ready
+备餐中	Preparing
+出餐中	Preparing
+商家备货中	Store is preparing
+正在为您分配骑手	Finding a courier for you
+正在为您寻找骑手	Finding a courier for you
+骑手已接单	Courier assigned
+骑手正在赶往商家	Courier is heading to the store
+骑手已到店	Courier has arrived at the store
+骑手已取餐	Courier has picked up your order
+骑手正在送货	Courier is on the way
+骑手正在送餐	Courier is on the way
+骑手正在配送	Courier is on the way
+骑手即将送达	Courier is almost there
+骑手已送达	Courier has delivered
+配送中	Out for Delivery
+正在配送	Out for Delivery
+已出发	On the Way
+距您	From you
+骑手距您	Courier distance
+已超时	Late
+订单已超时	Order is late
+预计送达时间已过	Estimated arrival time has passed
+商家已拒单	Store declined your order
+商家拒单	Store Declined
+订单已退款	Order refunded
+请及时取餐	Please pick up your order
+已出餐，请及时取餐	Ready — please pick up your order
+取餐号	Pickup No.
+取餐码	Pickup Code
+取件码	Pickup Code
+核销码	Redemption Code
+券码	Voucher Code
+券码：	Voucher code:
+到店出示券码	Show code in store
+我已收到餐品	I received my order
+确认收货	Confirm Receipt
+确认送达	Confirm Delivery
+确认已收到	Confirm Received
+订单跟踪	Track Order
+查看配送进度	Track Delivery
+配送进度	Delivery Progress
+配送轨迹	Delivery Route
+订单状态	Order Status
+近三个月订单	Last 3 Months
+查看更早订单	View Earlier Orders
+三个月前的订单	Orders older than 3 months
+暂无订单	No orders yet
+您还没有订单	You don't have any orders yet
+您还没有相关订单	No matching orders
+去下单吧	Start ordering
+去逛逛吧	Start browsing
+# --- Refunds & after-sales ---
+退款原因	Refund Reason
+请选择退款原因	Please choose a refund reason
+退款金额	Refund Amount
+退款方式	Refund Method
+退款说明	Refund Details
+退款进度	Refund Progress
+退款详情	Refund Details
+退回原支付方式	Refund to original payment method
+原路退回	Refund to original payment method
+预计1-7个工作日到账	Expected in 1-7 business days
+申请部分退款	Request Partial Refund
+全额退款	Full Refund
+商品退款	Item Refund
+选择退款商品	Choose Items to Refund
+问题描述	Problem Description
+请详细描述问题	Please describe the problem in detail
+上传凭证	Upload Proof
+上传图片凭证	Upload Photo Proof
+最多上传9张	Up to 9 photos
+提交申请	Submit Request
+撤销申请	Withdraw Request
+撤销退款申请	Withdraw Refund Request
+退款申请已提交	Refund request submitted
+等待商家处理	Waiting for store to respond
+商家已同意退款	Store approved your refund
+商家拒绝退款	Store declined your refund
+申请客服介入	Escalate to Support
+客服介入	Support Involved
+平台处理中	Under Platform Review
+处理结果	Result
+送达超时	Late Delivery
+餐品撒漏	Food spilled
+餐品洒漏	Food spilled
+商品撒漏	Item spilled
+少送	Missing items
+商家少送	Missing items
+送错餐品	Wrong items delivered
+送错	Wrong delivery
+餐品质量问题	Food quality issue
+商品质量问题	Item quality issue
+有异物	Foreign object found
+味道不好	Didn't taste good
+未收到餐品	Didn't receive order
+未收到商品	Didn't receive item
+骑手服务问题	Courier service issue
+骑手态度差	Rude courier
+包装破损	Damaged packaging
+商品破损	Damaged item
+与描述不符	Not as described
+食品安全问题	Food safety issue
+投诉	Complaint
+投诉商家	Report Store
+投诉骑手	Report Courier
+我要投诉	File a Complaint
+评价骑手	Rate Courier
+评价商家	Rate Store
+匿名评价	Review Anonymously
+匿名	Anonymous
+对骑手满意吗？	How was your courier?
+对商家满意吗？	How was the store?
+这单外卖怎么样？	How was this order?
+口味如何？	How did it taste?
+包装如何？	How was the packaging?
+发表评价	Post Review
+发布	Post
+分享你的用餐体验	Share your experience
+说说哪里满意，帮大家选择	Tell others what you liked
+请输入评价内容	Write your review
+添加图片	Add Photos
+添加视频	Add Video
+晒图评价	Review with Photos
+准时送达	On Time
+送达超快	Super fast delivery
+穿着专业	Professional appearance
+礼貌热情	Polite and friendly
+餐品完好	Order arrived intact
+送达慢	Slow delivery
+态度差	Rude
+未送到指定位置	Not delivered to the right spot
+提前点送达	Marked delivered early
+# --- Invoice center ---
+发票中心	Invoice Center
+开票记录	Invoice History
+可开票订单	Invoiceable Orders
+发票详情	Invoice Details
+发票已开具	Invoice issued
+下载发票	Download Invoice
+发送到邮箱	Send to Email
+抬头管理	Manage Invoice Titles
+添加抬头	Add Invoice Title

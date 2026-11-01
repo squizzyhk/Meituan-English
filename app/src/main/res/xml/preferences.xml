@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_cat_translation">
+
+        <EditTextPreference
+            app:dialogMessage="@string/pref_api_key_dialog_message"
+            app:dialogTitle="@string/pref_api_key_title"
+            app:iconSpaceReserved="false"
+            app:key="claude_api_key"
+            app:persistent="true"
+            app:title="@string/pref_api_key_title" />
+
+        <ListPreference
+            app:defaultValue="claude-opus-5-5"
+            app:entries="@array/pref_model_entries"
+            app:entryValues="@array/pref_model_values"
+            app:iconSpaceReserved="false"
+            app:key="claude_model"
+            app:title="@string/pref_model_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="ui_test_api_key"
+            app:persistent="false"
+            app:summary="@string/pref_test_key_summary"
+            app:title="@string/pref_test_key_title" />
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="offline_fallback"
+            app:summary="@string/pref_offline_summary"
+            app:title="@string/pref_offline_title" />
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="ui_download_offline_model"
+            app:persistent="false"
+            app:title="@string/pref_download_title" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_cat_display">
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="translate_images"
+            app:summary="@string/pref_images_summary"
+            app:title="@string/pref_images_title" />
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="show_original_long_press"
+            app:summary="@string/pref_show_original_summary"
+            app:title="@string/pref_show_original_title" />
+
+        <SwitchPreferenceCompat
+            app:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="overlay_enabled"
+            app:summary="@string/pref_overlay_summary"
+            app:title="@string/pref_overlay_title" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_cat_storage">
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="ui_clear_cache"
+            app:persistent="false"
+            app:summary="@string/pref_clear_cache_summary_plain"
+            app:title="@string/pref_clear_cache_title" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:initialExpandedChildrenCount="0"
+        app:key="ui_cat_advanced"
+        app:title="@string/pref_cat_advanced">
+
+        <EditTextPreference
+            app:defaultValue="https://api.anthropic.com"
+            app:dialogMessage="@string/pref_base_url_dialog_message"
+            app:dialogTitle="@string/pref_base_url_title"
+            app:iconSpaceReserved="false"
+            app:key="claude_base_url"
+            app:title="@string/pref_base_url_title"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/pref_cat_about">
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="ui_about"
+            app:persistent="false"
+            app:selectable="false"
+            app:singleLineTitle="false"
+            app:title="@string/pref_about_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

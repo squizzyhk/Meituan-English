@@ -1,0 +1,724 @@
+# 10_ui.tsv - General app UI: tab bars, channels, home, search, sort/filter, store page, common buttons, toasts and errors.
+# Format: chinese<TAB>english. Owner: glossary-ui.
+# --- Bottom tab bars ---
+首页	Home
+订单	Orders
+我的	Me
+消息	Messages
+外卖	Delivery
+美团外卖	Meituan Food Delivery
+发现	Discover
+会员	Membership
+购物车	Cart
+附近	Nearby
+逛逛	Explore
+视频	Videos
+社区	Community
+关注	Following
+推荐	Recommended
+精选	Featured
+看看	Browse
+# --- Channels / service grid ---
+美食	Food
+酒店	Hotels
+民宿	Homestays
+酒店民宿	Hotels & Homestays
+电影	Movies
+电影演出	Movies & Shows
+电影/演出	Movies & Shows
+演出	Shows
+打车	Taxi
+美团打车	Meituan Taxi
+买菜	Groceries
+美团买菜	Meituan Groceries
+小象超市	Xiaoxiang Supermarket
+闪购	Instant Shopping
+美团闪购	Meituan Instant Shopping
+跑腿	Errands
+美团跑腿	Meituan Errands
+优选	Select
+美团优选	Meituan Select
+团购	Group Deals
+休闲娱乐	Leisure & Fun
+休闲玩乐	Leisure & Fun
+丽人	Beauty
+丽人/美发	Beauty & Hair
+美发	Hair Salons
+美甲	Nails
+美甲美睫	Nails & Lashes
+医美	Medical Aesthetics
+医疗美容	Medical Aesthetics
+周边游	Day Trips
+周边游/旅游	Trips & Travel
+旅游	Travel
+旅行	Travel
+景点门票	Attraction Tickets
+景点	Attractions
+门票	Tickets
+机票	Flights
+火车票	Train Tickets
+机票/火车票	Flights & Trains
+火车票/机票	Trains & Flights
+汽车票	Bus Tickets
+船票	Ferry Tickets
+共享单车	Bike Sharing
+单车	Bikes
+美团单车	Meituan Bikes
+电单车	E-Bikes
+充电宝	Power Banks
+美团充电宝	Meituan Power Banks
+药品	Medicine
+买药	Pharmacy
+美团买药	Meituan Pharmacy
+看病买药	Health & Pharmacy
+医药健康	Health & Pharmacy
+送药上门	Medicine Delivery
+甜点饮品	Desserts & Drinks
+超市便利	Supermarkets
+超市	Supermarket
+便利店	Convenience Store
+水果	Fruit
+鲜花	Flowers
+鲜花绿植	Flowers & Plants
+蛋糕	Cakes
+母婴	Mother & Baby
+宠物	Pets
+数码家电	Electronics
+美妆	Beauty Products
+酒水	Alcohol
+休闲娱乐/KTV	Leisure & KTV
+KTV	KTV
+足疗按摩	Massage
+洗浴	Spa & Baths
+洗浴汗蒸	Spa & Sauna
+健身	Fitness
+运动健身	Sports & Fitness
+亲子	Family & Kids
+结婚	Weddings
+婚纱摄影	Wedding Photography
+学习培训	Classes & Training
+教育培训	Education
+家居	Home
+装修	Home Renovation
+家政	Housekeeping
+生活服务	Local Services
+维修	Repairs
+洗衣	Laundry
+汽车服务	Car Services
+洗车	Car Wash
+停车	Parking
+加油	Fuel
+宠物服务	Pet Services
+摄影写真	Photo Studios
+酒吧	Bars
+密室逃脱	Escape Rooms
+剧本杀	Murder Mystery
+桌游	Board Games
+网吧	Internet Cafes
+网咖	Internet Cafes
+台球	Billiards
+电玩	Arcades
+温泉	Hot Springs
+景点玩乐	Attractions & Fun
+全部分类	All Categories
+全部频道	All Channels
+更多服务	More Services
+全部服务	All Services
+品质外卖	Quality Delivery
+大牌必吃	Top Brands
+神抢手	Hot Deals
+拼好饭	Pinhaofan Budget Meals
+品牌卡	Brand Pass
+外卖会员	Delivery Membership
+美团会员	Meituan Membership
+# --- Location / address bar ---
+定位中	Locating…
+定位中...	Locating…
+定位中…	Locating…
+正在定位	Locating…
+正在定位...	Locating…
+当前位置	Current Location
+当前定位	Current Location
+重新定位	Relocate
+选择收货地址	Choose Delivery Address
+选择地址	Choose Address
+选择城市	Choose City
+切换城市	Change City
+当前城市	Current City
+热门城市	Popular Cities
+定位城市	Located City
+附近地址	Nearby Addresses
+我的收货地址	My Addresses
+搜索地址	Search Address
+请输入地址	Enter an address
+请输入收货地址	Enter delivery address
+小区/写字楼/学校等	Building, office, school, etc.
+定位失败	Location failed
+定位失败，请重试	Location failed. Please try again.
+未开启定位	Location is off
+开启定位	Enable Location
+去开启	Turn On
+开启定位，发现附近好店	Turn on location to find great stores nearby
+无法获取位置信息	Unable to get your location
+# --- Search ---
+搜索	Search
+搜索商家或商品	Search stores or items
+搜索商家、商品名称	Search stores or items
+搜索商家/商品	Search stores or items
+搜索商家、品类或商圈	Search stores, categories or areas
+搜索美食、商家	Search food or stores
+搜索店内商品	Search this store
+搜索店内商品名称	Search items in this store
+搜索历史	Search History
+历史搜索	Recent Searches
+最近搜索	Recent Searches
+热门搜索	Trending Searches
+搜索发现	Discover
+猜你想搜	You might search for
+大家都在搜	Popular searches
+清除历史	Clear History
+清空历史	Clear History
+清除搜索历史	Clear search history
+确定清除搜索历史吗？	Clear search history?
+确认删除全部历史记录？	Delete all history?
+没有找到相关商家	No matching stores found
+没有找到相关商品	No matching items found
+没有找到相关结果	No results found
+暂无搜索结果	No results
+换个关键词试试	Try a different keyword
+搜索结果	Search Results
+相关商家	Related Stores
+相关商品	Related Items
+# --- Home feed / store lists ---
+附近商家	Nearby Stores
+附近好店	Great Stores Nearby
+附近美食	Food Nearby
+推荐商家	Recommended Stores
+为你推荐	Recommended for You
+猜你喜欢	You May Like
+猜你喜欢的	You May Like
+今日推荐	Today's Picks
+热门推荐	Hot Picks
+全部商家	All Stores
+品牌商家	Brand Stores
+品牌	Brands
+新店	New Store
+新店开业	Newly Opened
+新开业	Newly Opened
+人气商家	Popular Stores
+人气	Popularity
+口碑商家	Top-Rated Stores
+附近热卖	Selling Fast Nearby
+排行榜	Rankings
+热销榜	Best-Seller List
+必吃榜	Must-Eat List
+好评榜	Top-Rated List
+# --- Sort & filter ---
+综合排序	Recommended
+综合	Recommended
+排序	Sort
+智能排序	Smart Sort
+销量最高	Most Popular
+销量	Sales
+距离最近	Nearest
+距离	Distance
+评分最高	Highest Rated
+评分	Rating
+好评优先	Best Reviewed First
+起送价最低	Lowest Min. Order
+起送价	Min. Order
+配送费最低	Lowest Delivery Fee
+配送最快	Fastest Delivery
+速度最快	Fastest
+人均高到低	Price: High to Low
+人均低到高	Price: Low to High
+人均价格	Price per Person
+价格最低	Lowest Price
+价格最高	Highest Price
+价格从低到高	Price: Low to High
+价格从高到低	Price: High to Low
+筛选	Filter
+全部筛选	All Filters
+重置	Reset
+完成	Done
+商家特色	Store Features
+商家服务	Store Services
+优惠活动	Offers
+人均价	Price per Person
+人均	Per Person
+配送方式	Delivery Method
+美团专送	Meituan Delivery
+美团快送	Meituan Express
+商家自配	Store Delivery
+商家配送	Store Delivery
+到店自取	Pickup
+自取	Pickup
+到店取	In-Store Pickup
+支持自取	Pickup Available
+可自取	Pickup Available
+蜂鸟专送	Fengniao Delivery
+准时宝	On-Time Guarantee
+预订	Pre-order
+可预订	Pre-order Available
+支持预订	Pre-order Available
+营业中	Open
+休息中	Closed
+已打烊	Closed
+本店已打烊	This store is closed
+商家已打烊	Store is closed
+商家休息中	Store is closed
+即将开始营业	Opening Soon
+即将营业	Opening Soon
+暂停营业	Temporarily Closed
+商家暂停营业	Store temporarily closed
+今日休息	Closed Today
+营业时间	Opening Hours
+接受预订	Accepting Pre-orders
+只接受预订	Pre-orders Only
+24小时营业	Open 24 Hours
+超出配送范围	Outside delivery area
+不在配送范围内	Outside delivery area
+距离您	From you
+免配送费	Free delivery
+免费配送	Free delivery
+0元起送	No Min. Order
+配送费	Delivery Fee
+起送	Min. Order
+# --- Store page ---
+点菜	Menu
+点餐	Order
+菜单	Menu
+评价	Reviews
+商家	Store
+商家信息	Store Info
+商家详情	Store Details
+公告	Announcement
+商家公告	Store Announcement
+商家资质	Store Licenses
+营业资质	Business Licenses
+食品安全档案	Food Safety Records
+食品安全	Food Safety
+配送说明	Delivery Info
+配送信息	Delivery Info
+配送时间	Delivery Time
+配送服务	Delivery Service
+商家地址	Store Address
+商家电话	Store Phone
+商家实景	Store Photos
+商家环境	Store Environment
+查看商家	View Store
+进店	Visit Store
+进店看看	Visit Store
+进入店铺	Visit Store
+店铺	Store
+本店	This Store
+收藏店铺	Save Store
+收藏商家	Save Store
+已收藏	Saved
+取消收藏	Unsave
+加入购物车	Add to Cart
+加入购物车成功	Added to cart
+已加入购物车	Added to cart
+已选	Selected
+已选：	Selected:
+规格	Options
+选规格	Choose Options
+选择规格	Choose Options
+请选择规格	Please choose options
+加料	Add-ons
+小料	Toppings
+加小料	Add Toppings
+份量	Portion
+大份	Large
+中份	Medium
+小份	Small
+标准	Standard
+大杯	Large
+中杯	Medium
+小杯	Small
+超大杯	Extra Large
+辣度	Spice Level
+不辣	Not Spicy
+微辣	Mild Spicy
+中辣	Medium Spicy
+特辣	Extra Spicy
+麻辣	Numbing & Spicy
+重辣	Very Spicy
+温度	Temperature
+常温	Room Temp
+去冰	No Ice
+少冰	Less Ice
+多冰	Extra Ice
+正常冰	Regular Ice
+热	Hot
+温热	Warm
+冰	Iced
+甜度	Sweetness
+无糖	No Sugar
+不另外加糖	No Added Sugar
+三分糖	30% Sugar
+五分糖	50% Sugar
+七分糖	70% Sugar
+全糖	Full Sugar
+标准糖	Regular Sugar
+少糖	Less Sugar
+半糖	Half Sugar
+口味	Flavor
+做法	Preparation
+招牌	Signature
+招牌菜	Signature Dishes
+热销	Best Seller
+热销榜单	Best Sellers
+必点	Must-Try
+推荐菜	Recommended Dishes
+折扣	Discount
+套餐	Combos
+单人套餐	Meal for One
+双人套餐	Meal for Two
+主食	Mains
+饮品	Drinks
+小吃	Snacks
+凉菜	Cold Dishes
+汤类	Soups
+新品	New
+新品上市	New Arrivals
+店长推荐	Manager's Pick
+人气推荐	Popular Picks
+月售	Sold/month
+售罄	Sold Out
+已售罄	Sold Out
+已售完	Sold Out
+库存不足	Low Stock
+仅剩	Only a few left
+商品已下架	Item no longer available
+已下架	Unavailable
+暂不可售	Unavailable
+非可售时间	Not Available Now
+清空	Clear
+清空购物车	Clear Cart
+确定清空购物车？	Clear your cart?
+确定清空购物车吗？	Clear your cart?
+去结算	Checkout
+结算	Checkout
+未选购商品	Your cart is empty
+购物车是空的	Your cart is empty
+购物车空空如也	Your cart is empty
+打包费	Packaging Fee
+餐盒费	Packaging Fee
+包装费	Packaging Fee
+另需配送费	Plus delivery fee
+免配送费起	Free delivery from
+还差	Add
+满起送	Min. order reached
+已满足起送	Min. order reached
+商品详情	Item Details
+商品描述	Description
+商品	Items
+主料	Main Ingredients
+配料	Ingredients
+规格说明	Option Details
+图片	Photos
+图片仅供参考	Image for reference only
+图片仅供参考，请以实物为准	Image for reference only
+数量	Quantity
+单价	Unit Price
+原价	Original Price
+现价	Now
+合计	Total
+总计	Total
+小计	Subtotal
+每份	per serving
+限购	Limit
+每单限购	Limit per order
+限购1份	Limit 1 per order
+超出限购数量	Purchase limit exceeded
+起购	Min. purchase
+必选	Required
+可选	Optional
+必选品	Required Item
+请选择必选品	Please add a required item
+已减	Saved
+已优惠	Saved
+# --- Reviews ---
+全部	All
+全部评价	All Reviews
+有图	With Photos
+有图评价	With Photos
+晒图	With Photos
+好评	Positive
+中评	Neutral
+差评	Negative
+最新	Newest
+最热	Most Popular
+包装	Packaging
+配送	Delivery
+商家评分	Store Rating
+味道	Taste
+服务	Service
+环境	Ambience
+性价比	Value
+商家回复	Store Reply
+商家回复：	Store reply:
+匿名用户	Anonymous
+查看全部评价	See All Reviews
+写评价	Write a Review
+去评价	Review
+评价成功	Review submitted
+追评	Follow-up Review
+有用	Helpful
+赞	Like
+点赞	Like
+已赞	Liked
+回复	Reply
+评论	Comments
+条评价	reviews
+超赞	Excellent
+满意	Satisfied
+一般	Average
+不满意	Unsatisfied
+很差	Very Poor
+非常满意	Very Satisfied
+吐槽	Complain
+# --- Common buttons / actions ---
+确定	OK
+确认	Confirm
+取消	Cancel
+知道了	Got It
+我知道了	Got It
+好的	OK
+返回	Back
+关闭	Close
+更多	More
+查看更多	See More
+查看全部	See All
+全部展开	Expand All
+展开	Expand
+展开全部	Show All
+收起	Collapse
+分享	Share
+分享给好友	Share with Friends
+复制	Copy
+复制成功	Copied
+已复制	Copied
+复制链接	Copy Link
+举报	Report
+编辑	Edit
+删除	Delete
+保存	Save
+提交	Submit
+下一步	Next
+上一步	Previous
+跳过	Skip
+重试	Retry
+刷新	Refresh
+下拉刷新	Pull to refresh
+释放立即刷新	Release to refresh
+正在刷新	Refreshing…
+上拉加载更多	Pull up to load more
+加载中	Loading…
+加载中...	Loading…
+加载中…	Loading…
+正在加载	Loading…
+正在加载...	Loading…
+加载更多	Load More
+加载失败	Failed to load
+加载失败，点击重试	Failed to load. Tap to retry.
+重新加载	Reload
+点击重试	Tap to Retry
+点击刷新	Tap to Refresh
+没有更多了	No more results
+没有更多了~	No more results
+没有更多啦	No more results
+已经到底了	You've reached the end
+到底了	You've reached the end
+暂无数据	No data yet
+暂无内容	Nothing here yet
+暂无记录	No records yet
+暂无相关内容	Nothing found
+空空如也	Nothing here yet
+请稍候	Please wait
+请稍候...	Please wait…
+请稍后	Please wait
+处理中	Processing…
+处理中...	Processing…
+提交中	Submitting…
+提交中...	Submitting…
+网络异常	Network error
+网络异常，请稍后重试	Network error. Please try again later.
+网络异常，请检查网络设置	Network error. Please check your connection.
+网络不给力	Weak connection
+网络不给力，请稍后重试	Weak connection. Please try again later.
+网络连接失败	Connection failed
+网络连接失败，请检查网络	Connection failed. Please check your network.
+网络错误	Network error
+网络请求失败	Request failed
+当前网络不可用	No network connection
+服务器开小差了	Something went wrong on our end
+服务异常，请稍后重试	Service error. Please try again later.
+系统繁忙，请稍后重试	System busy. Please try again later.
+系统繁忙	System busy
+操作失败	Action failed
+操作成功	Done
+操作太频繁，请稍后再试	Too many attempts. Please try again later.
+请先登录	Please log in first
+请登录	Please log in
+登录后查看	Log in to view
+登录后可查看更多	Log in to see more
+页面不存在	Page not found
+页面加载失败	Page failed to load
+出错了	Something went wrong
+出错了，请稍后再试	Something went wrong. Please try again later.
+哎呀，出错了	Oops, something went wrong
+活动已结束	This offer has ended
+活动未开始	This offer hasn't started yet
+敬请期待	Coming Soon
+即将上线	Coming Soon
+去看看	Take a Look
+去逛逛	Start Browsing
+立即体验	Try It Now
+立即查看	View Now
+马上去	Go Now
+前往	Go
+去设置	Go to Settings
+允许	Allow
+拒绝	Deny
+不允许	Don't Allow
+始终允许	Always Allow
+仅使用期间允许	Allow While Using
+以后再说	Maybe Later
+暂不	Not Now
+暂不需要	Not Now
+稍后再说	Later
+不再提示	Don't Show Again
+立即更新	Update Now
+发现新版本	New Version Available
+版本更新	App Update
+检查更新	Check for Updates
+已是最新版本	You're up to date
+扫一扫	Scan
+扫码	Scan QR Code
+二维码	QR Code
+付款码	Payment Code
+拍照	Take Photo
+从相册选择	Choose from Album
+相册	Album
+上传图片	Upload Photo
+上传照片	Upload Photo
+保存图片	Save Image
+保存到相册	Save to Album
+已保存到相册	Saved to album
+预览	Preview
+全选	Select All
+取消全选	Deselect All
+选择	Select
+已选择	Selected
+请选择	Please select
+不限	Any
+其他	Other
+其它	Other
+默认	Default
+搜索框	Search Box
+地图	Map
+查看地图	View Map
+导航	Navigate
+到这去	Directions
+路线	Route
+电话	Phone
+拨打电话	Call
+拨打	Call
+呼叫	Call
+在线咨询	Chat Now
+咨询	Inquire
+在线客服	Live Chat
+联系客服	Contact Support
+客服	Customer Service
+今天	Today
+明天	Tomorrow
+后天	Day After Tomorrow
+昨天	Yesterday
+周一	Mon
+周二	Tue
+周三	Wed
+周四	Thu
+周五	Fri
+周六	Sat
+周日	Sun
+星期一	Monday
+星期二	Tuesday
+星期三	Wednesday
+星期四	Thursday
+星期五	Friday
+星期六	Saturday
+星期日	Sunday
+星期天	Sunday
+刚刚	Just now
+分钟前	min ago
+小时前	hr ago
+天前	days ago
+上午	AM
+下午	PM
+晚上	Evening
+全天	All Day
+# --- Messages ---
+消息中心	Message Center
+系统消息	System Messages
+通知	Notifications
+系统通知	System Notifications
+订单消息	Order Updates
+活动消息	Promotions
+优惠消息	Deals
+互动消息	Interactions
+聊天	Chat
+暂无消息	No messages yet
+全部已读	Mark All as Read
+标为已读	Mark as Read
+未读	Unread
+已读	Read
+
+# Review fixes
+去凑单	Add More Items
+凑单	Add Items
+进店领券	Get Store Coupons
+单点不送	Can't Be Ordered Alone
+暂停接单	Not Taking Orders
+该商家已打烊	This store is closed
+品质联盟	Quality Partner
+默认排序	Default
+暂无评价	No reviews yet
+商家已回复	Store replied
+追加评价	Follow-up Review
+自提	Pickup
+门店自提	In-Store Pickup
+打包带走	To Go
+送货上门	Door Delivery
+配送范围	Delivery Area
+加购物车	Add to Cart
+已选商品	Selected Items
+清除	Clear
+今日售罄	Sold Out Today
+该商品已售罄	This item is sold out
+口味偏好	Taste Preferences
+日韩料理	Japanese & Korean
+炸鸡汉堡	Fried Chicken & Burgers
+汉堡披萨	Burgers & Pizza
+人均价高到低	Price: High to Low
+人均价低到高	Price: Low to High
+本店满减	Store Deals
+本店新客	New to This Store
+新店特惠	New Store Deal
+特惠	Special Offer
+热销商品	Best Sellers
+推荐商品	Recommended Items
+招牌必点	Signature Must-Try
+拼单中	Group Order in Progress
+加入会员	Join Membership
+入会	Join
+小时达	Delivered in 1 Hour
+30分钟达	Delivered in 30 Min
+次日达	Next-Day Delivery
+准时	On Time
+超时	Late
+由美团提供配送服务	Delivered by Meituan
+由商家提供配送服务	Delivered by the store
+集点	Collect Stamps
+口碑	Reputation

@@ -1,0 +1,535 @@
+# 22_drinks_desserts_bakery.tsv - Milk tea and toppings, fruit tea, coffee, juice, soy/traditional drinks,
+# soft drinks, alcohol, desserts, ice cream and bakery.
+# Format: chinese<TAB>english. Owner: glossary-food.
+# --- Milk tea ---
+奶茶	Milk Tea
+珍珠奶茶	Bubble Milk Tea
+波霸奶茶	Boba Milk Tea
+黑糖珍珠奶茶	Brown Sugar Bubble Milk Tea
+黑糖波霸奶茶	Brown Sugar Boba Milk Tea
+黑糖珍珠鲜奶	Brown Sugar Boba Fresh Milk
+黑糖鲜奶	Brown Sugar Fresh Milk
+脏脏茶	Brown Sugar Tiger Milk Tea
+珍珠鲜奶	Boba Fresh Milk
+原味奶茶	Classic Milk Tea
+经典奶茶	Classic Milk Tea
+招牌奶茶	Signature Milk Tea
+椰果奶茶	Coconut Jelly Milk Tea
+布丁奶茶	Pudding Milk Tea
+红豆奶茶	Red Bean Milk Tea
+芋头奶茶	Taro Milk Tea
+香芋奶茶	Taro Milk Tea
+芋泥奶茶	Taro Paste Milk Tea
+芋泥波波奶茶	Taro Paste Boba Milk Tea
+芋圆奶茶	Taro Ball Milk Tea
+抹茶奶茶	Matcha Milk Tea
+抹茶拿铁	Matcha Latte
+焦糖奶茶	Caramel Milk Tea
+香草奶茶	Vanilla Milk Tea
+巧克力奶茶	Chocolate Milk Tea
+烤奶	Roasted Milk Tea
+烤黑糖奶茶	Roasted Brown Sugar Milk Tea
+阿萨姆奶茶	Assam Milk Tea
+伯爵奶茶	Earl Grey Milk Tea
+茉莉奶绿	Jasmine Green Milk Tea
+奶绿	Green Milk Tea
+四季奶青	Four Seasons Oolong Milk Tea
+乌龙奶茶	Oolong Milk Tea
+铁观音奶茶	Tieguanyin Milk Tea
+大红袍奶茶	Da Hong Pao Milk Tea
+普洱奶茶	Pu'er Milk Tea
+桂花乌龙奶茶	Osmanthus Oolong Milk Tea
+奶盖	Milk Foam
+芝士奶盖	Cheese Foam
+海盐奶盖	Sea Salt Foam
+奶盖茶	Cheese Foam Tea
+芝士奶盖绿茶	Cheese Foam Green Tea
+芝士奶盖红茶	Cheese Foam Black Tea
+芝士莓莓	Cheese Foam Strawberry Tea
+芝芝莓莓	Cheese Foam Strawberry Tea
+芝芝芒芒	Cheese Foam Mango Tea
+芝芝桃桃	Cheese Foam Peach Tea
+芝芝葡萄	Cheese Foam Grape Tea
+多肉葡萄	Grape Tea with Pulp
+多肉芒芒	Mango Tea with Pulp
+满杯红柚	Full Cup Grapefruit Tea
+满杯水果茶	Full Cup Fruit Tea
+满杯百香果	Full Cup Passion Fruit Tea
+鲜奶茶	Fresh Milk Tea
+厚乳奶茶	Thick Milk Tea
+厚乳拿铁	Thick Milk Latte
+牛乳茶	Fresh Milk Tea
+鲜牛乳	Fresh Milk
+鲜奶	Fresh Milk
+酸奶	Yogurt
+酸奶饮	Yogurt Drink
+牛油果酸奶	Avocado Yogurt
+牛油果奶昔	Avocado Smoothie
+酸奶紫米	Yogurt with Purple Rice
+杨枝甘露饮	Mango Pomelo Sago Drink
+# --- Toppings ---
+珍珠	Boba (Tapioca Pearls)
+波霸	Large Boba
+黑糖珍珠	Brown Sugar Boba
+椰果	Coconut Jelly
+芋泥	Taro Paste
+布丁	Pudding
+仙草	Grass Jelly
+烧仙草冻	Grass Jelly
+西米	Sago
+脆波波	Crystal Boba
+寒天	Agar Jelly
+寒天晶球	Crystal Agar Boba
+爆爆珠	Popping Boba
+爆珠	Popping Boba
+奶冻	Milk Jelly
+芝士奶冻	Cheese Milk Jelly
+燕麦粒	Oat Grains
+麻薯	Mochi
+麻糬	Mochi
+芋泥麻薯	Taro Mochi
+桃胶	Peach Gum
+血糯米	Black Glutinous Rice
+椰奶	Coconut Milk
+椰浆	Coconut Cream
+奶油顶	Whipped Cream Topping
+芦荟	Aloe Vera
+芦荟粒	Aloe Vera Cubes
+脆啵啵	Crystal Boba
+# --- Fruit tea / tea ---
+水果茶	Fruit Tea
+果茶	Fruit Tea
+柠檬茶	Lemon Tea
+柠檬红茶	Lemon Black Tea
+柠檬绿茶	Lemon Green Tea
+手打柠檬茶	Hand-Pounded Lemon Tea
+暴打柠檬茶	Hand-Pounded Lemon Tea
+鸭屎香柠檬茶	Yashixiang Oolong Lemon Tea
+鸭屎香	Yashixiang Oolong
+柠檬水	Lemonade
+冰鲜柠檬水	Iced Lemonade
+蜂蜜柠檬水	Honey Lemonade
+金桔柠檬	Kumquat Lemon Tea
+百香果茶	Passion Fruit Tea
+百香果双响炮	Passion Fruit Double Shot
+满杯百香	Full Cup Passion Fruit Tea
+葡萄冻冻	Grape Jelly Tea
+西柚茶	Grapefruit Tea
+柚子茶	Yuzu Tea
+蜂蜜柚子茶	Honey Yuzu Tea
+桃桃乌龙	Peach Oolong Tea
+白桃乌龙	White Peach Oolong
+蜜桃乌龙	Peach Oolong
+芒果绿茶	Mango Green Tea
+芒果冰沙	Mango Smoothie
+草莓奶昔	Strawberry Milkshake
+草莓冰沙	Strawberry Smoothie
+冰沙	Smoothie
+奶昔	Milkshake
+香草奶昔	Vanilla Milkshake
+巧克力奶昔	Chocolate Milkshake
+冰淇淋奶昔	Ice Cream Milkshake
+杨枝甘露冰沙	Mango Pomelo Sago Smoothie
+椰子水	Coconut Water
+椰汁	Coconut Juice
+生椰	Fresh Coconut
+生椰奶	Fresh Coconut Milk
+红茶	Black Tea
+绿茶	Green Tea
+乌龙茶	Oolong Tea
+茉莉花茶	Jasmine Tea
+茉莉绿茶	Jasmine Green Tea
+普洱	Pu'er Tea
+普洱茶	Pu'er Tea
+铁观音	Tieguanyin Tea
+龙井	Longjing Tea
+龙井茶	Longjing (Dragon Well) Tea
+碧螺春	Biluochun Tea
+大红袍	Da Hong Pao Tea
+白茶	White Tea
+花茶	Flower Tea
+菊花茶	Chrysanthemum Tea
+玫瑰花茶	Rose Tea
+大麦茶	Barley Tea
+麦茶	Barley Tea
+荞麦茶	Buckwheat Tea
+柠檬片	Lemon Slices
+四季春	Four Seasons Oolong
+金萱	Jin Xuan Oolong
+伯爵红茶	Earl Grey
+阿萨姆红茶	Assam Black Tea
+锡兰红茶	Ceylon Black Tea
+英式红茶	English Breakfast Tea
+港式柠檬茶	Hong Kong Lemon Tea
+冰红茶	Iced Black Tea
+冰绿茶	Iced Green Tea
+奶茶粉	Milk Tea Powder
+茶饮	Tea Drinks
+新式茶饮	Modern Tea Drinks
+纯茶	Pure Tea
+原叶茶	Whole Leaf Tea
+# --- Coffee ---
+咖啡	Coffee
+美式	Americano
+美式咖啡	Americano
+冰美式	Iced Americano
+热美式	Hot Americano
+拿铁	Latte
+拿铁咖啡	Latte
+冰拿铁	Iced Latte
+生椰拿铁	Coconut Latte
+厚乳拿铁咖啡	Thick Milk Latte
+燕麦拿铁	Oat Milk Latte
+丝绒拿铁	Velvet Latte
+香草拿铁	Vanilla Latte
+焦糖拿铁	Caramel Latte
+榛果拿铁	Hazelnut Latte
+摩卡	Mocha
+卡布奇诺	Cappuccino
+玛奇朵	Macchiato
+焦糖玛奇朵	Caramel Macchiato
+澳白	Flat White
+馥芮白	Flat White
+浓缩	Espresso
+意式浓缩	Espresso
+浓缩咖啡	Espresso
+冷萃	Cold Brew
+冷萃咖啡	Cold Brew Coffee
+手冲	Pour-Over
+手冲咖啡	Pour-Over Coffee
+挂耳咖啡	Drip Bag Coffee
+速溶咖啡	Instant Coffee
+冻干咖啡	Freeze-Dried Coffee
+咖啡豆	Coffee Beans
+单品咖啡	Single-Origin Coffee
+脏咖啡	Dirty Coffee
+阿芙佳朵	Affogato
+爱尔兰咖啡	Irish Coffee
+椰云拿铁	Coconut Cloud Latte
+生酪拿铁	Cheese Latte
+酱香拿铁	Baijiu Latte
+加浓	Extra Shot
+加一份浓缩	Add Espresso Shot
+换燕麦奶	Switch to Oat Milk
+燕麦奶	Oat Milk
+脱脂奶	Skim Milk
+全脂奶	Whole Milk
+低脂奶	Low-Fat Milk
+糖浆	Syrup
+香草糖浆	Vanilla Syrup
+焦糖糖浆	Caramel Syrup
+# --- Juice & smoothies ---
+果汁	Juice
+鲜榨果汁	Fresh Juice
+橙汁	Orange Juice
+鲜橙汁	Fresh Orange Juice
+苹果汁	Apple Juice
+西瓜汁	Watermelon Juice
+葡萄汁	Grape Juice
+芒果汁	Mango Juice
+菠萝汁	Pineapple Juice
+柠檬汁	Lemon Juice
+番茄汁	Tomato Juice
+胡萝卜汁	Carrot Juice
+猕猴桃汁	Kiwi Juice
+雪梨汁	Pear Juice
+百香果汁	Passion Fruit Juice
+石榴汁	Pomegranate Juice
+甘蔗汁	Sugarcane Juice
+玉米汁	Corn Juice
+山楂汁	Hawthorn Juice
+蔬菜汁	Vegetable Juice
+果蔬汁	Fruit & Vegetable Juice
+NFC果汁	NFC Juice (Not From Concentrate)
+# --- Soy & traditional drinks ---
+豆浆	Soy Milk
+原味豆浆	Plain Soy Milk
+黑豆浆	Black Soy Milk
+红枣豆浆	Red Date Soy Milk
+豆奶	Soy Milk Drink
+米浆	Rice Milk
+核桃奶	Walnut Milk
+花生奶	Peanut Milk
+杏仁露	Almond Drink
+椰奶饮料	Coconut Milk Drink
+酸梅汤	Sour Plum Drink
+老北京酸梅汤	Old Beijing Sour Plum Drink
+凉茶	Herbal Tea
+王老吉	Wong Lo Kat Herbal Tea
+加多宝	JDB Herbal Tea
+绿豆汤	Mung Bean Soup
+银耳汤	White Fungus Soup
+冰糖雪梨	Rock Sugar Pear Soup
+红枣枸杞茶	Red Date & Goji Tea
+姜茶	Ginger Tea
+红糖姜茶	Brown Sugar Ginger Tea
+姜汁可乐	Ginger Cola
+热牛奶	Hot Milk
+热可可	Hot Chocolate
+可可	Cocoa
+巧克力饮	Chocolate Drink
+酸奶昔	Yogurt Smoothie
+乳酸菌饮料	Probiotic Drink
+养乐多	Yakult
+奶	Milk
+牛奶	Milk
+纯牛奶	Pure Milk
+早餐奶	Breakfast Milk
+甜牛奶	Sweet Milk
+草莓牛奶	Strawberry Milk
+香蕉牛奶	Banana Milk
+巧克力牛奶	Chocolate Milk
+羊奶	Goat Milk
+# --- Soft drinks & water ---
+可乐	Cola
+可口可乐	Coca-Cola
+百事可乐	Pepsi
+零度可乐	Coke Zero
+无糖可乐	Sugar-Free Cola
+健怡可乐	Diet Coke
+雪碧	Sprite
+芬达	Fanta
+美年达	Mirinda
+七喜	7 Up
+汽水	Soda
+苏打水	Soda Water
+气泡水	Sparkling Water
+元气森林	Genki Forest Sparkling Water
+北冰洋	Arctic Ocean Soda
+冰峰	Bingfeng Orange Soda
+矿泉水	Mineral Water
+纯净水	Purified Water
+饮用水	Drinking Water
+农夫山泉	Nongfu Spring Water
+怡宝	C'estbon Water
+百岁山	Ganten Water
+依云	Evian
+红牛	Red Bull
+东鹏特饮	Eastroc Energy Drink
+功能饮料	Energy Drink
+运动饮料	Sports Drink
+脉动	Mizone
+宝矿力	Pocari Sweat
+佳得乐	Gatorade
+电解质水	Electrolyte Water
+冰红茶饮料	Iced Tea Drink
+康师傅冰红茶	Master Kong Iced Tea
+统一绿茶	Uni-President Green Tea
+东方树叶	Oriental Leaf Tea
+茶π	Tea Pi
+维他柠檬茶	Vita Lemon Tea
+维他奶	Vitasoy
+旺仔牛奶	Want Want Milk
+AD钙奶	AD Calcium Milk
+营养快线	Nutri-Express
+椰树椰汁	Coconut Palm Coconut Juice
+露露	Lolo Almond Drink
+六个核桃	Six Walnuts Drink
+酸梅汁	Sour Plum Juice
+冰镇	Chilled
+冰饮	Cold Drinks
+热饮	Hot Drinks
+# --- Alcohol ---
+酒	Alcohol
+啤酒	Beer
+生啤	Draft Beer
+扎啤	Draft Beer
+精酿	Craft Beer
+精酿啤酒	Craft Beer
+鲜啤	Fresh Beer
+黑啤	Dark Beer
+白啤	Wheat Beer
+小麦啤	Wheat Beer
+果啤	Fruit Beer
+无醇啤酒	Non-Alcoholic Beer
+青岛啤酒	Tsingtao Beer
+雪花啤酒	Snow Beer
+燕京啤酒	Yanjing Beer
+哈尔滨啤酒	Harbin Beer
+百威	Budweiser
+科罗娜	Corona
+喜力	Heineken
+乐堡	Tuborg
+福佳白	Hoegaarden
+白酒	Baijiu
+茅台	Moutai
+五粮液	Wuliangye
+二锅头	Erguotou
+红星二锅头	Red Star Erguotou
+江小白	Jiang Xiao Bai Baijiu
+汾酒	Fenjiu
+泸州老窖	Luzhou Laojiao
+洋河	Yanghe Baijiu
+剑南春	Jiannanchun
+米酒	Rice Wine
+甜酒酿	Sweet Rice Wine
+清酒	Sake
+烧酒	Soju
+韩国烧酒	Soju
+梅酒	Plum Wine
+青梅酒	Green Plum Wine
+果酒	Fruit Wine
+红酒	Red Wine
+葡萄酒	Wine
+白葡萄酒	White Wine
+干红	Dry Red Wine
+干白	Dry White Wine
+起泡酒	Sparkling Wine
+香槟	Champagne
+威士忌	Whisky
+伏特加	Vodka
+朗姆酒	Rum
+金酒	Gin
+龙舌兰	Tequila
+白兰地	Brandy
+鸡尾酒	Cocktail
+预调酒	Ready-to-Drink Cocktail
+锐澳	RIO Cocktail
+莫吉托	Mojito
+长岛冰茶	Long Island Iced Tea
+高球	Highball
+啤酒桶	Beer Tower
+# --- Desserts ---
+冰淇淋	Ice Cream
+冰激凌	Ice Cream
+雪糕	Ice Cream Bar
+冰棍	Ice Pop
+冰棒	Ice Pop
+甜筒	Ice Cream Cone
+圣代	Sundae
+麦旋风	McFlurry
+暴风雪	Blizzard
+意式冰淇淋	Gelato
+软冰淇淋	Soft Serve
+冰淇淋球	Ice Cream Scoop
+雪顶	Ice Cream Float
+刨冰	Shaved Ice
+绵绵冰	Snow Ice
+芒果绵绵冰	Mango Snow Ice
+雪花冰	Snowflake Ice
+凉糕	Cold Rice Cake
+芒果班戟	Mango Pancake Roll
+班戟	Pancake Roll
+榴莲班戟	Durian Pancake Roll
+芒果西米露	Mango Sago
+西米露	Sago Pudding
+椰汁西米露	Coconut Sago
+椰汁糕	Coconut Milk Jelly
+芋圆烧仙草	Grass Jelly with Taro Balls
+芋圆甜品	Taro Ball Dessert
+糖不甩	Tong Bat Lat (Glutinous Rice Balls)
+擂沙汤圆	Peanut-Coated Glutinous Rice Balls
+炖奶	Steamed Milk Custard
+木瓜炖奶	Papaya Milk Custard
+炖蛋	Steamed Egg Custard
+杏仁豆腐	Almond Tofu
+奶酪包	Cheese Bun
+慕斯	Mousse
+提拉米苏	Tiramisu
+芝士蛋糕	Cheesecake
+重芝士蛋糕	New York Cheesecake
+轻芝士蛋糕	Japanese Cheesecake
+巴斯克	Basque Cheesecake
+巴斯克蛋糕	Basque Cheesecake
+生日蛋糕	Birthday Cake
+奶油蛋糕	Cream Cake
+水果蛋糕	Fruit Cake
+巧克力蛋糕	Chocolate Cake
+黑森林蛋糕	Black Forest Cake
+红丝绒蛋糕	Red Velvet Cake
+千层蛋糕	Mille Crepe Cake
+榴莲千层	Durian Mille Crepe
+芒果千层	Mango Mille Crepe
+抹茶千层	Matcha Mille Crepe
+戚风蛋糕	Chiffon Cake
+海绵蛋糕	Sponge Cake
+纸杯蛋糕	Cupcake
+磅蛋糕	Pound Cake
+瑞士卷	Swiss Roll
+蛋糕卷	Cake Roll
+毛巾卷	Towel Roll Cake
+半熟芝士	Half-Baked Cheesecake
+舒芙蕾	Soufflé
+松饼	Pancakes
+华夫饼	Waffle
+可丽饼	Crêpe
+铜锣烧	Dorayaki
+大福	Daifuku
+草莓大福	Strawberry Daifuku
+雪媚娘	Snow Skin Mochi
+青团子	Green Rice Balls
+月饼	Mooncake
+蛋黄酥	Egg Yolk Pastry
+绿豆糕	Mung Bean Cake
+桂花糕	Osmanthus Cake
+红豆糕	Red Bean Cake
+年糕甜品	Sweet Rice Cake
+糕点	Pastries
+中式糕点	Chinese Pastries
+西点	Western Pastries
+甜甜圈	Donut
+马卡龙	Macaron
+泡芙	Cream Puff
+闪电泡芙	Éclair
+蛋挞皮	Tart Shell
+水果挞	Fruit Tart
+柠檬挞	Lemon Tart
+布朗尼	Brownie
+曲奇	Cookies
+饼干	Biscuits
+蔓越莓饼干	Cranberry Cookies
+黄油曲奇	Butter Cookies
+蛋卷	Egg Rolls (Cookies)
+凤梨酥	Pineapple Cake
+老婆饼	Wife Cake
+鸡仔饼	Chicken Biscuit
+杏仁饼	Almond Cookie
+桃酥	Walnut Cookie
+沙琪玛	Sachima
+麻花糖	Sweet Dough Twist
+酥饼	Flaky Pastry
+南瓜饼	Pumpkin Pancake
+红薯饼	Sweet Potato Cake
+糖水铺	Dessert Shop
+# --- Bakery ---
+面包	Bread
+吐司面包	Sliced Bread
+全麦面包	Whole Wheat Bread
+全麦吐司	Whole Wheat Toast
+白吐司	White Toast
+法棍	Baguette
+法式面包	French Bread
+欧包	European-Style Bread
+贝果	Bagel
+可颂	Croissant
+牛角包	Croissant
+羊角包	Croissant
+丹麦面包	Danish Pastry
+肉松面包	Pork Floss Bread
+肉松小贝	Pork Floss Cake
+肉松卷	Pork Floss Roll
+奶油面包	Cream Bun
+红豆面包	Red Bean Bun
+椰蓉面包	Coconut Bun
+菠萝面包	Pineapple Bun
+菠萝油包	Pineapple Bun with Butter
+餐包	Dinner Roll
+小餐包	Mini Dinner Rolls
+汉堡胚	Burger Bun
+热狗面包	Hot Dog Bun
+手撕面包	Pull-Apart Bread
+脏脏包	Dirty Chocolate Bun
+麻薯面包	Mochi Bread
+碱水面包	Pretzel Bread
+碱水结	Pretzel
+司康	Scone
+玛芬	Muffin
+马芬	Muffin
+蛋黄派	Egg Yolk Pie
+派	Pie
+苹果派	Apple Pie
+菠萝派	Pineapple Pie
+蛋挞王	Signature Egg Tart
+烘焙	Bakery
+面包房	Bakery
+现烤面包	Freshly Baked Bread

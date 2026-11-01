@@ -1,0 +1,1778 @@
+# 20_dishes.tsv - Named dishes across Chinese regional cuisines and international food commonly sold on Meituan,
+# plus portion sizes and set-meal wording used in menus.
+# Format: chinese<TAB>english. Owner: glossary-food.
+# --- Sichuan ---
+宫保鸡丁	Kung Pao Chicken
+宫爆鸡丁	Kung Pao Chicken
+宫保虾球	Kung Pao Shrimp
+宫保豆腐	Kung Pao Tofu
+鱼香肉丝	Yu-Shiang Shredded Pork
+鱼香茄子	Yu-Shiang Eggplant
+鱼香茄子煲	Yu-Shiang Eggplant Claypot
+鱼香鸡丝	Yu-Shiang Shredded Chicken
+麻婆豆腐	Mapo Tofu
+回锅肉	Twice-Cooked Pork
+盐煎肉	Sichuan Salt-Fried Pork
+水煮鱼	Sichuan Boiled Fish in Chili Oil
+水煮肉片	Sichuan Boiled Pork in Chili Oil
+水煮牛肉	Sichuan Boiled Beef in Chili Oil
+水煮鱼片	Sichuan Boiled Fish Slices in Chili Oil
+酸菜鱼	Fish with Pickled Mustard Greens
+老坛酸菜鱼	Fish with Aged Pickled Mustard Greens
+金汤酸菜鱼	Golden Broth Fish with Pickled Greens
+番茄鱼	Fish in Tomato Broth
+藤椒鱼	Green Sichuan Pepper Fish
+麻辣鱼	Spicy Numbing Fish
+口水鸡	Mouthwatering Chicken (Chili Oil Chicken)
+棒棒鸡	Bang Bang Chicken
+辣子鸡	Chongqing Chili Chicken
+辣子鸡丁	Diced Chili Chicken
+歌乐山辣子鸡	Geleshan Chili Chicken
+夫妻肺片	Fuqi Feipian (Spicy Beef & Offal Slices)
+蒜泥白肉	Sliced Pork with Garlic Sauce
+干煸四季豆	Dry-Fried Green Beans
+干煸豆角	Dry-Fried Green Beans
+干煸牛肉丝	Dry-Fried Shredded Beef
+干煸肥肠	Dry-Fried Pork Intestines
+毛血旺	Mao Xue Wang (Spicy Duck Blood Stew)
+冒菜	Maocai (Sichuan Spicy Stew)
+麻辣香锅	Mala Xiang Guo (Spicy Stir-Fry Pot)
+麻辣烫	Malatang (Spicy Hot Pot Skewers)
+串串香	Chuan Chuan Xiang (Hot Pot Skewers)
+冷锅串串	Cold-Pot Skewers in Chili Oil
+钵钵鸡	Bobo Chicken (Cold Skewers in Chili Oil)
+樟茶鸭	Tea-Smoked Duck
+东坡肘子	Dongpo Pork Knuckle
+咸烧白	Steamed Pork Belly with Preserved Greens
+甜烧白	Sweet Steamed Pork Belly with Glutinous Rice
+粉蒸肉	Steamed Pork with Rice Flour
+粉蒸排骨	Steamed Spare Ribs with Rice Flour
+粉蒸牛肉	Steamed Beef with Rice Flour
+蚂蚁上树	Ants Climbing a Tree (Glass Noodles with Minced Pork)
+开水白菜	Cabbage in Clear Broth
+鸡豆花	Chicken Tofu Pudding Soup
+灯影牛肉	Lantern Shadow Beef (Crispy Spiced Beef)
+陈皮兔丁	Diced Rabbit with Tangerine Peel
+冷吃兔	Sichuan Cold Spicy Rabbit
+麻辣兔头	Spicy Rabbit Heads
+双椒兔	Rabbit with Two Chilies
+跳水兔	Sichuan Poached Rabbit with Pickled Chilies
+尖椒鸡	Chicken with Green Chilies
+泡椒鸡杂	Chicken Giblets with Pickled Chilies
+泡椒牛蛙	Bullfrog with Pickled Chilies
+泡椒凤爪	Chicken Feet with Pickled Chilies
+辣子肥肠	Chili Pork Intestines
+肥肠鸡	Chicken with Pork Intestines
+鸡公煲	Chicken Pot (Spicy Rooster Pot)
+芋儿鸡	Chicken with Taro
+啤酒鸭	Beer Braised Duck
+血旺	Duck Blood Curd
+红油抄手	Wontons in Chili Oil
+龙抄手	Long's Wontons
+钟水饺	Zhong Dumplings in Sweet Chili Sauce
+担担面	Dan Dan Noodles
+重庆小面	Chongqing Spicy Noodles
+豌杂面	Pea & Minced Pork Noodles
+豌豆杂酱面	Pea & Minced Pork Noodles
+肥肠面	Pork Intestine Noodles
+牛肉面	Beef Noodles
+红烧牛肉面	Braised Beef Noodle Soup
+宜宾燃面	Yibin Burning Noodles
+甜水面	Chengdu Sweet Soy Noodles
+酸辣粉	Hot & Sour Glass Noodles
+重庆酸辣粉	Chongqing Hot & Sour Glass Noodles
+肥肠粉	Glass Noodles with Pork Intestines
+冰粉	Bingfen (Jelly Dessert)
+红糖冰粉	Bingfen with Brown Sugar
+红糖糍粑	Brown Sugar Glutinous Rice Cakes
+三大炮	San Da Pao (Glutinous Rice Balls)
+叶儿粑	Steamed Glutinous Rice Cakes in Leaves
+赖汤圆	Lai Tangyuan (Glutinous Rice Balls)
+伤心凉粉	Spicy Cold Jelly Noodles
+川北凉粉	Northern Sichuan Cold Jelly Noodles
+乐山钵钵鸡	Leshan Bobo Chicken
+跷脚牛肉	Qiaojiao Beef Soup
+甜皮鸭	Sweet-Skin Duck
+兔头	Rabbit Head
+芋儿烧鸡	Braised Chicken with Taro
+魔芋烧鸭	Braised Duck with Konjac
+家常豆腐	Home-Style Tofu
+熊掌豆腐	Pan-Fried Tofu in Spicy Sauce
+麻辣豆腐	Spicy Numbing Tofu
+鱼香豆腐	Yu-Shiang Tofu
+酸辣土豆丝	Hot & Sour Shredded Potato
+炝炒土豆丝	Stir-Fried Shredded Potato with Chili
+青椒土豆丝	Shredded Potato with Green Pepper
+醋溜土豆丝	Vinegar Shredded Potato
+炝炒圆白菜	Stir-Fried Cabbage with Chili
+手撕包菜	Hand-Torn Cabbage
+手撕包菜炒肉	Hand-Torn Cabbage with Pork
+炝炒莲白	Stir-Fried Cabbage with Chili
+# --- Hunan ---
+剁椒鱼头	Fish Head with Chopped Chilies
+双色剁椒鱼头	Fish Head with Red & Green Chopped Chilies
+小炒肉	Hunan Stir-Fried Pork with Chilies
+农家小炒肉	Farmhouse Stir-Fried Pork with Chilies
+辣椒炒肉	Stir-Fried Pork with Chilies
+青椒炒肉	Stir-Fried Pork with Green Peppers
+毛氏红烧肉	Chairman Mao's Braised Pork
+湘西外婆菜	Grandma's Pickled Greens
+外婆菜炒蛋	Scrambled Eggs with Pickled Greens
+外婆菜	Grandma's Pickled Greens
+腊味合蒸	Steamed Assorted Cured Meats
+腊肉炒蒜苗	Cured Pork with Garlic Shoots
+腊肉炒蒜薹	Cured Pork with Garlic Scapes
+腊肉炒笋	Cured Pork with Bamboo Shoots
+湘味腊肉	Hunan Cured Pork
+干锅花菜	Dry Pot Cauliflower
+干锅有机花菜	Dry Pot Organic Cauliflower
+干锅肥肠	Dry Pot Pork Intestines
+干锅牛蛙	Dry Pot Bullfrog
+干锅鸡	Dry Pot Chicken
+干锅虾	Dry Pot Shrimp
+干锅茶树菇	Dry Pot Tea Tree Mushrooms
+干锅千页豆腐	Dry Pot Thousand-Leaf Tofu
+干锅土豆片	Dry Pot Potato Slices
+干锅包菜	Dry Pot Cabbage
+干锅鸭头	Dry Pot Duck Heads
+干锅排骨	Dry Pot Spare Ribs
+干锅牛肚	Dry Pot Beef Tripe
+干锅鱿鱼	Dry Pot Squid
+香干炒肉	Smoked Tofu with Pork
+擂辣椒皮蛋	Pounded Chilies with Century Egg
+擂椒皮蛋	Pounded Chilies with Century Egg
+口味虾	Hunan Spicy Crayfish
+口味蛇	Hunan Spicy Snake
+臭豆腐	Stinky Tofu
+长沙臭豆腐	Changsha Stinky Tofu
+糖油粑粑	Caramelized Fried Glutinous Rice Cakes
+常德米粉	Changde Rice Noodles
+湖南米粉	Hunan Rice Noodles
+衡阳鱼粉	Hengyang Fish Rice Noodles
+酱板鸭	Hunan Spiced Dried Duck
+永州血鸭	Yongzhou Blood Duck
+东安子鸡	Dong'an Chicken
+啤酒烧鸭	Beer Braised Duck
+紫苏煎黄瓜	Pan-Fried Cucumber with Perilla
+蒜蓉粉丝蒸娃娃菜	Steamed Baby Cabbage with Garlic & Vermicelli
+酸豆角炒肉末	Pickled Long Beans with Minced Pork
+酸豆角肉末	Pickled Long Beans with Minced Pork
+肉末茄子	Eggplant with Minced Pork
+肉末豆腐	Tofu with Minced Pork
+青椒炒蛋	Scrambled Eggs with Green Pepper
+尖椒炒蛋	Scrambled Eggs with Green Chilies
+小炒黄牛肉	Stir-Fried Beef with Chilies
+小炒牛肉	Stir-Fried Beef with Chilies
+小炒鸡	Stir-Fried Chicken with Chilies
+小炒鸡杂	Stir-Fried Chicken Giblets
+酸辣鸡杂	Hot & Sour Chicken Giblets
+小炒猪肝	Stir-Fried Pork Liver
+爆炒猪肝	Quick-Fried Pork Liver
+爆炒腰花	Quick-Fried Pork Kidney
+小炒肥肠	Stir-Fried Pork Intestines
+# --- Cantonese / Hong Kong ---
+白切鸡	Poached Chicken (Bai Qie Ji)
+白斩鸡	Poached Chicken (Bai Zhan Ji)
+清远鸡	Qingyuan Chicken
+豉油鸡	Soy Sauce Chicken
+盐焗鸡	Salt-Baked Chicken
+手撕鸡	Hand-Shredded Chicken
+沙姜鸡	Sand Ginger Chicken
+葱油鸡	Scallion Oil Chicken
+花雕鸡	Shaoxing Wine Chicken
+脆皮鸡	Crispy Skin Chicken
+脆皮烧鹅	Crispy Roast Goose
+烧鹅	Roast Goose
+烧鸭	Roast Duck
+烧肉	Crispy Roast Pork
+脆皮烧肉	Crispy Roast Pork Belly
+叉烧	Char Siu (BBQ Pork)
+蜜汁叉烧	Honey-Glazed Char Siu
+叉烧包	Char Siu Bao (BBQ Pork Bun)
+叉烧饭	Char Siu Rice
+烧腊	Cantonese Roast Meats
+烧腊饭	Cantonese Roast Meat Rice
+烧腊双拼饭	Two Roast Meats Rice
+烧鹅饭	Roast Goose Rice
+烧鸭饭	Roast Duck Rice
+白切鸡饭	Poached Chicken Rice
+油鸡饭	Soy Sauce Chicken Rice
+豉油鸡饭	Soy Sauce Chicken Rice
+叉烧烧肉饭	Char Siu & Roast Pork Rice
+卤水拼盘	Chaozhou Braised Platter
+卤水鹅	Chaozhou Braised Goose
+卤鹅	Braised Goose
+卤水鹅肝	Braised Goose Liver
+潮汕牛肉丸	Chaoshan Beef Balls
+牛肉丸	Beef Balls
+潮汕牛肉火锅	Chaoshan Beef Hot Pot
+牛肉火锅	Beef Hot Pot
+砂锅粥	Claypot Congee
+潮汕砂锅粥	Chaoshan Claypot Congee
+生滚粥	Cantonese Fresh Congee
+艇仔粥	Sampan Congee
+及第粥	Pork Offal Congee
+鱼片粥	Fish Fillet Congee
+滑鸡粥	Chicken Congee
+牛肉粥	Beef Congee
+虾仁粥	Shrimp Congee
+海鲜粥	Seafood Congee
+皮蛋瘦肉粥	Century Egg & Lean Pork Congee
+煲仔饭	Claypot Rice
+腊味煲仔饭	Claypot Rice with Cured Meats
+腊肠煲仔饭	Claypot Rice with Chinese Sausage
+排骨煲仔饭	Claypot Rice with Spare Ribs
+滑鸡煲仔饭	Claypot Rice with Chicken
+窝蛋牛肉煲仔饭	Claypot Rice with Beef & Egg
+黄鳝煲仔饭	Claypot Rice with Eel
+肠粉	Rice Noodle Rolls
+鲜虾肠粉	Shrimp Rice Noodle Rolls
+牛肉肠粉	Beef Rice Noodle Rolls
+叉烧肠粉	Char Siu Rice Noodle Rolls
+鸡蛋肠粉	Egg Rice Noodle Rolls
+猪肉肠粉	Pork Rice Noodle Rolls
+斋肠	Plain Rice Noodle Rolls
+炸两	Rice Noodle Rolls with Fried Dough
+布拉肠	Steamed Rice Noodle Rolls
+虾饺	Har Gow (Shrimp Dumplings)
+水晶虾饺	Crystal Shrimp Dumplings
+烧卖	Siu Mai
+干蒸烧卖	Pork Siu Mai
+凤爪	Chicken Feet
+豉汁凤爪	Chicken Feet in Black Bean Sauce
+豉汁蒸排骨	Steamed Spare Ribs in Black Bean Sauce
+豉汁排骨	Spare Ribs in Black Bean Sauce
+蒸排骨	Steamed Spare Ribs
+流沙包	Salted Egg Custard Bun
+奶黄包	Custard Bun
+马拉糕	Ma Lai Cake (Steamed Sponge Cake)
+萝卜糕	Turnip Cake
+马蹄糕	Water Chestnut Cake
+芋头糕	Taro Cake
+蛋挞	Egg Tart
+葡式蛋挞	Portuguese Egg Tart
+葡挞	Portuguese Egg Tart
+糯米鸡	Lo Mai Gai (Sticky Rice in Lotus Leaf)
+珍珠鸡	Mini Sticky Rice in Lotus Leaf
+咸水角	Fried Glutinous Dumplings
+腐皮卷	Beancurd Skin Rolls
+鲜竹卷	Beancurd Skin Rolls
+春卷	Spring Rolls
+炸春卷	Fried Spring Rolls
+牛百叶	Beef Omasum
+金钱肚	Honeycomb Tripe
+陈皮牛肉球	Beef Balls with Tangerine Peel
+早茶	Dim Sum Breakfast
+港式点心	Hong Kong Dim Sum
+点心	Dim Sum
+干炒牛河	Dry-Fried Beef Ho Fun
+炒河粉	Stir-Fried Rice Noodles (Ho Fun)
+牛河	Beef Ho Fun
+湿炒牛河	Beef Ho Fun in Gravy
+豉椒牛河	Beef Ho Fun with Black Bean & Pepper
+星洲炒米	Singapore Fried Vermicelli
+星洲炒米粉	Singapore Fried Vermicelli
+豉油皇炒面	Soy Sauce Fried Noodles
+云吞面	Wonton Noodles
+鲜虾云吞面	Shrimp Wonton Noodles
+鲜虾云吞	Shrimp Wontons
+云吞	Wontons
+牛腩面	Beef Brisket Noodles
+咖喱牛腩	Curry Beef Brisket
+咖喱牛腩饭	Curry Beef Brisket Rice
+清汤牛腩	Beef Brisket in Clear Broth
+柱侯牛腩	Chu Hou Braised Beef Brisket
+萝卜牛腩	Beef Brisket with Daikon
+猪脚姜	Pork Trotters in Ginger Vinegar
+姜葱炒蟹	Crab with Ginger & Scallion
+避风塘炒蟹	Typhoon Shelter Crab
+避风塘炒虾	Typhoon Shelter Shrimp
+白灼虾	Poached Shrimp
+白灼菜心	Blanched Choy Sum
+白灼生菜	Blanched Lettuce
+蚝油生菜	Lettuce in Oyster Sauce
+蒜蓉菜心	Choy Sum with Garlic
+蒜蓉西兰花	Broccoli with Garlic
+上汤娃娃菜	Baby Cabbage in Superior Broth
+清蒸石斑鱼	Steamed Grouper
+清蒸鲈鱼	Steamed Sea Bass
+清蒸鱼	Steamed Fish
+豉汁蒸鱼	Steamed Fish in Black Bean Sauce
+蒸水蛋	Steamed Egg Custard
+肉饼蒸蛋	Steamed Pork Patty with Egg
+梅菜扣肉	Braised Pork Belly with Preserved Mustard Greens
+咕噜肉	Sweet & Sour Pork
+菠萝咕噜肉	Sweet & Sour Pork with Pineapple
+糖醋排骨	Sweet & Sour Spare Ribs
+糖醋里脊	Sweet & Sour Pork Tenderloin
+椒盐排骨	Salt & Pepper Spare Ribs
+椒盐鸡翅	Salt & Pepper Chicken Wings
+椒盐虾	Salt & Pepper Shrimp
+椒盐濑尿虾	Salt & Pepper Mantis Shrimp
+椒盐鱿鱼	Salt & Pepper Squid
+椒盐九肚鱼	Salt & Pepper Bombay Duck
+椒盐豆腐	Salt & Pepper Tofu
+椒盐蘑菇	Salt & Pepper Mushrooms
+菠萝包	Pineapple Bun
+菠萝油	Pineapple Bun with Butter
+西多士	Hong Kong French Toast
+港式西多士	Hong Kong French Toast
+餐蛋面	Spam & Egg Instant Noodles
+沙爹牛肉面	Satay Beef Noodles
+公仔面	Instant Noodles
+出前一丁	Instant Noodles (Demae Iccho)
+猪扒包	Pork Chop Bun
+猪扒饭	Pork Chop Rice
+焗猪扒饭	Baked Pork Chop Rice
+焗饭	Baked Rice
+芝士焗饭	Cheese Baked Rice
+葡国鸡饭	Portuguese Chicken Rice
+葡国鸡	Portuguese Chicken
+干炒牛肉意粉	Stir-Fried Beef Spaghetti
+茶餐厅	Hong Kong Café (Cha Chaan Teng)
+港式奶茶	Hong Kong Milk Tea
+丝袜奶茶	Hong Kong Silk Stocking Milk Tea
+鸳鸯	Half & Half (Split Pot)
+冻柠茶	Iced Lemon Tea
+热柠茶	Hot Lemon Tea
+双皮奶	Double-Skin Milk Pudding
+姜撞奶	Ginger Milk Curd
+杨枝甘露	Mango Pomelo Sago
+龟苓膏	Herbal Jelly (Guilinggao)
+糖水	Cantonese Sweet Soup
+红豆沙	Red Bean Sweet Soup
+绿豆沙	Mung Bean Sweet Soup
+芝麻糊	Black Sesame Soup
+核桃糊	Walnut Sweet Soup
+番薯糖水	Sweet Potato Sweet Soup
+腊肠	Chinese Sausage
+腊味	Cantonese Cured Meats
+老火靓汤	Cantonese Slow-Cooked Soup
+老火汤	Cantonese Slow-Cooked Soup
+例汤	Soup of the Day
+炖汤	Double-Boiled Soup
+椰子鸡	Coconut Chicken Hot Pot
+椰子鸡火锅	Coconut Chicken Hot Pot
+猪肚鸡	Pork Tripe Chicken Soup
+胡椒猪肚鸡	Peppery Pork Tripe Chicken Soup
+猪肚鸡火锅	Pork Tripe Chicken Hot Pot
+啫啫煲	Sizzling Claypot
+啫啫鸡煲	Sizzling Chicken Claypot
+鸡煲	Chicken Pot
+啫啫生菜	Sizzling Lettuce
+啫啫黄鳝	Sizzling Eel Claypot
+虾酱通菜	Water Spinach with Shrimp Paste
+腐乳通菜	Water Spinach with Fermented Tofu
+腐乳空心菜	Water Spinach with Fermented Tofu
+蒜蓉空心菜	Water Spinach with Garlic
+清炒时蔬	Stir-Fried Seasonal Greens
+清炒时菜	Stir-Fried Seasonal Greens
+上汤时蔬	Seasonal Greens in Superior Broth
+时令蔬菜	Seasonal Vegetables
+扬州炒饭	Yangzhou Fried Rice
+福建炒饭	Fujian Fried Rice
+咸鱼鸡粒炒饭	Salted Fish & Chicken Fried Rice
+菠萝炒饭	Pineapple Fried Rice
+虾仁炒饭	Shrimp Fried Rice
+蛋炒饭	Egg Fried Rice
+牛肉炒饭	Beef Fried Rice
+火腿炒饭	Ham Fried Rice
+腊肠炒饭	Chinese Sausage Fried Rice
+酱油炒饭	Soy Sauce Fried Rice
+黄金炒饭	Golden Egg Fried Rice
+蟹黄炒饭	Crab Roe Fried Rice
+虾仁蛋炒饭	Shrimp & Egg Fried Rice
+鸡肉炒饭	Chicken Fried Rice
+猪肉炒饭	Pork Fried Rice
+泡菜炒饭	Kimchi Fried Rice
+咖喱炒饭	Curry Fried Rice
+蛋包饭	Omurice (Omelette Rice)
+# --- Shanghai / Jiangsu / Zhejiang ---
+小笼包	Xiaolongbao (Soup Dumplings)
+小笼	Xiaolongbao (Soup Dumplings)
+鲜肉小笼	Pork Soup Dumplings
+蟹粉小笼	Crab Roe Soup Dumplings
+蟹黄小笼包	Crab Roe Soup Dumplings
+灌汤包	Soup Buns
+生煎包	Shengjian (Pan-Fried Pork Buns)
+生煎	Shengjian (Pan-Fried Pork Buns)
+鲜肉生煎	Pork Pan-Fried Buns
+虾仁生煎	Shrimp Pan-Fried Buns
+红烧肉	Red-Braised Pork Belly
+本帮红烧肉	Shanghai Red-Braised Pork
+东坡肉	Dongpo Pork
+糖醋小排	Sweet & Sour Pork Ribs
+无锡排骨	Wuxi Spare Ribs
+腌笃鲜	Bamboo Shoot & Pork Soup
+油爆虾	Oil-Fried Shrimp
+龙井虾仁	Longjing Tea Shrimp
+西湖醋鱼	West Lake Fish in Vinegar Sauce
+叫花鸡	Beggar's Chicken
+松鼠桂鱼	Squirrel-Shaped Mandarin Fish
+松鼠鳜鱼	Squirrel-Shaped Mandarin Fish
+清炒虾仁	Stir-Fried River Shrimp
+响油鳝丝	Sizzling Shredded Eel
+葱油拌面	Scallion Oil Noodles
+葱油面	Scallion Oil Noodles
+阳春面	Yangchun Noodles (Plain Noodle Soup)
+雪菜肉丝面	Pickled Greens & Pork Noodles
+大排面	Pork Chop Noodles
+大肠面	Pork Intestine Noodles
+黄鱼面	Yellow Croaker Noodles
+片儿川	Pian'erchuan (Pork & Bamboo Noodles)
+虾爆鳝面	Shrimp & Eel Noodles
+苏式汤面	Suzhou Noodle Soup
+奥灶面	Aozao Noodles
+蟹黄面	Crab Roe Noodles
+蟹粉面	Crab Roe Noodles
+蟹黄拌面	Crab Roe Mixed Noodles
+腰花面	Pork Kidney Noodles
+辣肉面	Spicy Pork Noodles
+菜肉馄饨	Pork & Vegetable Wontons
+荠菜馄饨	Shepherd's Purse Wontons
+鲜肉馄饨	Pork Wontons
+小馄饨	Mini Wontons
+大馄饨	Large Wontons
+虾仁馄饨	Shrimp Wontons
+柴火馄饨	Firewood-Cooked Wontons
+酒酿圆子	Sweet Rice Wine Dumplings
+酒酿小圆子	Sweet Rice Wine Mini Dumplings
+桂花糖藕	Osmanthus Lotus Root with Sticky Rice
+糖藕	Sweet Lotus Root with Sticky Rice
+四喜烤麸	Braised Wheat Gluten
+烤麸	Braised Wheat Gluten
+醉鸡	Drunken Chicken
+糟卤鸡爪	Wine-Marinated Chicken Feet
+糟毛豆	Wine-Marinated Edamame
+熏鱼	Shanghai Smoked Fish
+油焖笋	Braised Bamboo Shoots
+油焖春笋	Braised Spring Bamboo Shoots
+狮子头	Lion's Head Meatballs
+红烧狮子头	Braised Lion's Head Meatballs
+清炖狮子头	Lion's Head Meatballs in Clear Broth
+蟹粉狮子头	Crab Roe Lion's Head Meatballs
+盐水鸭	Nanjing Salted Duck
+鸭血粉丝汤	Duck Blood & Vermicelli Soup
+鸭血粉丝	Duck Blood & Vermicelli Soup
+大煮干丝	Braised Shredded Tofu
+文思豆腐	Wensi Tofu Soup
+扬州炒饭套餐	Yangzhou Fried Rice Combo
+排骨年糕	Pork Chop with Rice Cakes
+炒年糕	Stir-Fried Rice Cakes
+荠菜炒年糕	Rice Cakes with Shepherd's Purse
+青团	Qingtuan (Green Rice Balls)
+粢饭团	Sticky Rice Roll
+粢饭	Sticky Rice Roll
+双酿团	Double-Filled Glutinous Rice Ball
+鲜肉月饼	Pork Mooncake
+蟹壳黄	Crab-Shell Sesame Pastry
+葱油饼	Scallion Pancake
+排骨	Spare Ribs
+腌笃鲜汤	Bamboo Shoot & Pork Soup
+宁波汤圆	Ningbo Tangyuan
+黄鱼年糕	Yellow Croaker with Rice Cakes
+雪菜黄鱼	Yellow Croaker with Pickled Greens
+红烧带鱼	Braised Hairtail
+干炸带鱼	Deep-Fried Hairtail
+红烧鲫鱼	Braised Crucian Carp
+葱烤鲫鱼	Scallion-Baked Crucian Carp
+大闸蟹	Hairy Crab
+清蒸大闸蟹	Steamed Hairy Crab
+醉蟹	Drunken Crab
+醉虾	Drunken Shrimp
+糖醋鱼	Sweet & Sour Fish
+红烧鱼块	Braised Fish Pieces
+红烧鱼	Braised Fish
+红烧排骨	Braised Spare Ribs
+红烧鸡块	Braised Chicken Pieces
+红烧鸡翅	Braised Chicken Wings
+红烧茄子	Braised Eggplant
+红烧豆腐	Braised Tofu
+红烧冬瓜	Braised Winter Melon
+红烧猪蹄	Braised Pork Trotters
+红烧牛肉	Braised Beef
+红烧牛腩	Braised Beef Brisket
+红烧羊肉	Braised Lamb
+红烧大肠	Braised Pork Intestines
+红烧肉饭	Red-Braised Pork Rice
+可乐鸡翅	Coca-Cola Chicken Wings
+# --- Northern / Beijing / Shandong ---
+北京烤鸭	Peking Duck
+烤鸭	Roast Duck
+京酱肉丝	Shredded Pork in Sweet Bean Sauce
+炸酱面	Zhajiang Noodles (Noodles with Soybean Paste)
+老北京炸酱面	Old Beijing Zhajiang Noodles
+宫廷炸酱面	Imperial Zhajiang Noodles
+卤煮	Luzhu (Beijing Offal Stew)
+卤煮火烧	Luzhu (Offal Stew with Bread)
+炒肝	Beijing Liver & Intestine Stew (Chaogan)
+爆肚	Quick-Boiled Tripe
+豆汁	Fermented Mung Bean Drink (Douzhi)
+焦圈	Fried Dough Rings
+驴打滚	Lü Da Gun (Rolling Donkey Rice Cakes)
+艾窝窝	Aiwowo (Glutinous Rice Balls)
+豌豆黄	Pea Flour Cake
+糖葫芦	Candied Haws (Tanghulu)
+冰糖葫芦	Candied Haws (Tanghulu)
+涮羊肉	Instant-Boiled Mutton
+铜锅涮肉	Copper Pot Hot Pot
+老北京铜锅涮肉	Old Beijing Copper Pot Hot Pot
+葱爆羊肉	Stir-Fried Lamb with Scallions
+葱爆牛肉	Stir-Fried Beef with Scallions
+酱牛肉	Braised Beef in Soy Sauce
+宫保肉丁	Kung Pao Pork
+木须肉	Moo Shu Pork
+木樨肉	Moo Shu Pork
+焦溜肉段	Crispy Glazed Pork Strips
+溜肉段	Glazed Pork Strips
+糖醋鲤鱼	Sweet & Sour Carp
+九转大肠	Braised Pork Intestines in Brown Sauce
+葱烧海参	Braised Sea Cucumber with Scallions
+油焖大虾	Braised Prawns
+德州扒鸡	Dezhou Braised Chicken
+把子肉	Bazirou (Braised Pork Belly)
+煎饼	Chinese Crepe
+煎饼果子	Jianbing (Chinese Crepe)
+天津煎饼果子	Tianjin Jianbing
+山东煎饼	Shandong Crepe
+杂粮煎饼	Multigrain Crepe
+狗不理包子	Goubuli Steamed Buns
+天津包子	Tianjin Steamed Buns
+麻花	Fried Dough Twist
+耳朵眼炸糕	Fried Glutinous Rice Cake
+锅巴菜	Guobacai (Crispy Crepe Strips in Gravy)
+肉饼	Meat Pie
+馅饼	Pan-Fried Stuffed Pie
+牛肉馅饼	Beef Pie
+猪肉大葱馅饼	Pork & Scallion Pie
+褡裢火烧	Dalian Huoshao (Pan-Fried Pork Pockets)
+驴肉火烧	Donkey Meat Burger
+火烧	Huoshao (Baked Flatbread)
+烧饼	Sesame Flatbread
+芝麻烧饼	Sesame Flatbread
+糖火烧	Sweet Baked Flatbread
+羊蝎子	Lamb Spine Hot Pot
+羊蝎子火锅	Lamb Spine Hot Pot
+疙瘩汤	Dough Drop Soup
+西红柿鸡蛋疙瘩汤	Tomato & Egg Dough Drop Soup
+西红柿炒鸡蛋	Tomato & Egg Stir-Fry
+番茄炒蛋	Tomato & Egg Stir-Fry
+西红柿鸡蛋面	Tomato & Egg Noodles
+番茄鸡蛋面	Tomato & Egg Noodles
+西红柿鸡蛋汤	Tomato & Egg Soup
+番茄蛋汤	Tomato & Egg Soup
+番茄鸡蛋盖饭	Tomato & Egg Rice Bowl
+西红柿鸡蛋盖饭	Tomato & Egg Rice Bowl
+紫菜蛋花汤	Seaweed & Egg Drop Soup
+蛋花汤	Egg Drop Soup
+酸辣汤	Hot & Sour Soup
+胡辣汤	Hu La Tang (Peppery Spicy Soup)
+河南胡辣汤	Henan Peppery Spicy Soup
+烩面	Henan Braised Noodles (Huimian)
+羊肉烩面	Lamb Braised Noodles
+道口烧鸡	Daokou Braised Chicken
+# --- Shaanxi / Shanxi / Northwest ---
+肉夹馍	Roujiamo (Chinese Pork Burger)
+腊汁肉夹馍	Braised Pork Roujiamo
+牛肉夹馍	Beef Roujiamo
+鸡蛋夹馍	Egg Flatbread Sandwich
+凉皮	Liangpi (Cold Skin Noodles)
+擀面皮	Rolled Cold Noodles
+秦镇米皮	Qinzhen Rice Noodle Sheets
+米皮	Cold Rice Noodle Sheets
+麻酱凉皮	Liangpi with Sesame Sauce
+凉面	Cold Noodles
+麻酱凉面	Cold Noodles with Sesame Sauce
+鸡丝凉面	Cold Noodles with Shredded Chicken
+冷面	Cold Noodles (Naengmyeon)
+朝鲜冷面	Korean Cold Noodles
+羊肉泡馍	Lamb Soup with Torn Flatbread
+牛肉泡馍	Beef Soup with Torn Flatbread
+泡馍	Paomo (Soup with Torn Flatbread)
+葫芦头泡馍	Pork Intestine Paomo
+biangbiang面	Biangbiang Noodles
+油泼面	Oil-Splashed Noodles
+油泼扯面	Oil-Splashed Belt Noodles
+扯面	Hand-Pulled Belt Noodles
+裤带面	Belt Noodles
+臊子面	Saozi Noodles (Minced Pork Noodle Soup)
+岐山臊子面	Qishan Saozi Noodles
+岐山面	Qishan Noodles
+刀削面	Knife-Cut Noodles
+山西刀削面	Shanxi Knife-Cut Noodles
+刀削面套餐	Knife-Cut Noodle Combo
+猫耳朵	Cat Ear Pasta
+莜面栲栳栳	Oat Noodle Rolls
+莜面	Oat Noodles
+剔尖	Tijian (Pared Noodles)
+过油肉	Shanxi Fried Pork
+油泼辣子	Oil-Splashed Chili
+蘸水面	Dipping Noodles
+岐山擀面皮	Qishan Rolled Cold Noodles
+甑糕	Steamed Sticky Rice Cake with Dates
+镜糕	Mirror Cake
+肉丸胡辣汤	Meatball Peppery Soup
+兰州拉面	Lanzhou Hand-Pulled Noodles
+兰州牛肉面	Lanzhou Beef Noodles
+兰州牛肉拉面	Lanzhou Beef Hand-Pulled Noodles
+牛肉拉面	Beef Hand-Pulled Noodles
+拉面	Hand-Pulled Noodles
+手拉面	Hand-Pulled Noodles
+毛细	Extra-Thin Noodles
+细面	Thin Noodles
+二细	Medium-Thin Noodles
+三细	Medium Noodles
+韭叶	Flat Noodles (Leek-Leaf Width)
+宽面	Wide Noodles
+大宽	Extra-Wide Noodles
+荞麦棱	Buckwheat-Shaped Noodles
+牛肉炒拉面	Stir-Fried Hand-Pulled Noodles with Beef
+炒拉面	Stir-Fried Hand-Pulled Noodles
+干拌面	Dry Mixed Noodles
+拌面	Mixed Noodles
+甘肃酿皮	Gansu Liangpi
+手抓羊肉	Hand-Held Mutton
+手抓饭	Xinjiang Pilaf (Polo)
+羊肉手抓饭	Lamb Pilaf
+# --- Xinjiang ---
+大盘鸡	Big Plate Chicken
+新疆大盘鸡	Xinjiang Big Plate Chicken
+大盘鸡拌面	Big Plate Chicken with Noodles
+羊肉串	Lamb Skewers
+红柳羊肉串	Red Willow Lamb Skewers
+红柳大串	Red Willow Big Skewers
+烤羊肉串	Grilled Lamb Skewers
+烤包子	Samsa (Baked Lamb Buns)
+馕	Naan
+烤馕	Baked Naan
+馕坑肉	Tandoor Lamb
+烤全羊	Whole Roast Lamb
+烤羊腿	Roast Leg of Lamb
+烤羊排	Roast Lamb Ribs
+羊排	Lamb Ribs
+拉条子	Xinjiang Pulled Noodles (Laghman)
+新疆拌面	Xinjiang Laghman Noodles
+过油肉拌面	Laghman with Stir-Fried Lamb
+丁丁炒面	Diced Stir-Fried Noodles
+炒米粉	Fried Rice Noodles
+新疆炒米粉	Xinjiang Spicy Fried Rice Noodles
+椒麻鸡	Sichuan Pepper Chicken
+架子肉	Rack-Grilled Lamb
+抓饭	Pilaf
+酸奶粽子	Rice Dumpling with Yogurt
+缸子肉	Mug-Stewed Lamb
+新疆炒面	Xinjiang Fried Noodles
+# --- Northeastern ---
+锅包肉	Guo Bao Rou (Sweet & Sour Crispy Pork)
+地三鲜	Di San Xian (Potato, Eggplant & Pepper)
+小鸡炖蘑菇	Chicken Stewed with Mushrooms
+猪肉炖粉条	Pork Stewed with Glass Noodles
+酸菜白肉	Sauerkraut with Pork Belly
+酸菜炖排骨	Sauerkraut Stewed with Ribs
+酸菜白肉锅	Sauerkraut & Pork Belly Pot
+东北乱炖	Northeastern Mixed Stew
+乱炖	Mixed Stew
+杀猪菜	Pork & Sauerkraut Stew
+铁锅炖	Iron Pot Stew
+铁锅炖大鹅	Iron Pot Stewed Goose
+铁锅炖鱼	Iron Pot Stewed Fish
+拔丝地瓜	Candied Sweet Potato
+拔丝香蕉	Candied Banana
+拔丝苹果	Candied Apple
+溜肉段子	Glazed Pork Strips
+酱大骨	Braised Pork Bones
+酱骨架	Braised Pork Spine
+大拉皮	Glass Noodle Sheets Salad
+东北大拉皮	Northeastern Glass Noodle Salad
+拍黄瓜	Smashed Cucumber Salad
+凉拌黄瓜	Cucumber Salad
+老虎菜	Tiger Salad (Chili, Cilantro & Scallion)
+干豆腐卷	Dried Tofu Rolls
+东北饺子	Northeastern Dumplings
+酸菜饺子	Sauerkraut Dumplings
+烤冷面	Grilled Cold Noodles
+东北烤冷面	Northeastern Grilled Cold Noodles
+东北烧烤	Northeastern BBQ
+熘肝尖	Stir-Fried Pork Liver
+尖椒干豆腐	Dried Tofu with Green Chilies
+家常凉菜	Home-Style Cold Dish
+东北炖菜	Northeastern Stew
+# --- Yunnan / Guizhou / Guangxi ---
+过桥米线	Crossing-the-Bridge Rice Noodles
+云南过桥米线	Yunnan Crossing-the-Bridge Rice Noodles
+米线	Rice Noodles (Mixian)
+小锅米线	Small Pot Rice Noodles
+砂锅米线	Claypot Rice Noodles
+酸菜米线	Pickled Greens Rice Noodles
+肥肠米线	Pork Intestine Rice Noodles
+牛肉米线	Beef Rice Noodles
+番茄米线	Tomato Rice Noodles
+花甲米线	Clam Rice Noodles
+麻辣米线	Spicy Rice Noodles
+鸡汤米线	Chicken Soup Rice Noodles
+骨汤米线	Bone Broth Rice Noodles
+凉米线	Cold Rice Noodles
+汽锅鸡	Steam Pot Chicken
+宣威火腿	Xuanwei Ham
+菌子火锅	Wild Mushroom Hot Pot
+野生菌火锅	Wild Mushroom Hot Pot
+牛干巴	Yunnan Dried Beef
+傣味	Dai-Style Food
+傣味烤鱼	Dai-Style Grilled Fish
+香茅草烤鱼	Lemongrass Grilled Fish
+菠萝饭	Pineapple Rice
+鲜花饼	Flower Cake
+破酥包	Flaky Steamed Bun
+饵块	Erkuai (Yunnan Rice Cake)
+烧饵块	Grilled Rice Cake Wrap
+饵丝	Erkuai Noodles
+建水烧豆腐	Jianshui Grilled Tofu
+包浆豆腐	Molten Grilled Tofu
+酸汤鱼	Sour Soup Fish
+贵州酸汤鱼	Guizhou Sour Soup Fish
+红酸汤	Red Sour Soup
+花溪牛肉粉	Huaxi Beef Rice Noodles
+羊肉粉	Lamb Rice Noodles
+肠旺面	Intestine & Blood Curd Noodles
+丝娃娃	Siwawa (Vegetable Wraps)
+辣子鸡火锅	Chili Chicken Hot Pot
+螺蛳粉	Luosifen (River Snail Rice Noodles)
+柳州螺蛳粉	Liuzhou Luosifen
+桂林米粉	Guilin Rice Noodles
+老友粉	Laoyou Rice Noodles
+南宁老友粉	Nanning Laoyou Rice Noodles
+卷筒粉	Rolled Rice Noodles
+生榨米粉	Fermented Rice Noodles
+啤酒鱼	Beer Fish
+阳朔啤酒鱼	Yangshuo Beer Fish
+柠檬鸭	Lemon Duck
+酸嘢	Guangxi Pickled Fruit
+# --- Hubei / Jiangxi / Fujian / others ---
+热干面	Hot Dry Noodles (Reganmian)
+武汉热干面	Wuhan Hot Dry Noodles
+三鲜豆皮	Wuhan Sticky Rice Tofu-Skin Wrap (Doupi)
+周黑鸭	Zhou Hei Ya Braised Duck
+鸭脖	Spicy Duck Neck
+鸭锁骨	Duck Collarbone
+鸭架	Duck Frame
+鸭翅	Duck Wings
+鸭掌	Duck Feet
+鸭肠	Duck Intestines
+鸭胗	Duck Gizzard
+鸭头	Duck Head
+鸭舌	Duck Tongue
+排骨藕汤	Pork Rib & Lotus Root Soup
+莲藕排骨汤	Pork Rib & Lotus Root Soup
+武昌鱼	Wuchang Fish
+清蒸武昌鱼	Steamed Wuchang Fish
+面窝	Mianwo (Fried Dough Ring)
+糊汤粉	Fish Soup Rice Noodles
+油焖大虾套餐	Braised Prawns Combo
+南昌拌粉	Nanchang Mixed Rice Noodles
+南昌炒粉	Nanchang Fried Rice Noodles
+瓦罐汤	Clay Jar Soup
+瓦罐煨汤	Clay Jar Simmered Soup
+三杯鸡	Three-Cup Chicken
+沙县小吃	Shaxian Snacks
+拌面扁食	Mixed Noodles & Wontons
+扁食	Fujian Wontons
+蒸饺	Steamed Dumplings
+炖罐	Stewed Soup Jar
+乌鸡汤	Black-Bone Chicken Soup
+佛跳墙	Buddha Jumps Over the Wall
+荔枝肉	Lychee Pork
+海蛎煎	Oyster Omelette
+蚵仔煎	Oyster Omelette
+土笋冻	Sea Worm Jelly
+沙茶面	Satay Noodles
+厦门沙茶面	Xiamen Satay Noodles
+面线糊	Vermicelli Paste Soup
+姜母鸭	Ginger Duck
+肉燕	Pork Wonton (Rouyan)
+鱼丸	Fish Balls
+福州鱼丸	Fuzhou Fish Balls
+锅边糊	Guobianhu (Rice Batter Soup)
+文昌鸡	Wenchang Chicken
+海南鸡饭	Hainanese Chicken Rice
+海南粉	Hainan Rice Noodles
+抱罗粉	Baoluo Rice Noodles
+清补凉	Ching Bo Leung (Hainan Coconut Dessert)
+臭鳜鱼	Stinky Mandarin Fish
+徽州臭鳜鱼	Huizhou Stinky Mandarin Fish
+毛豆腐	Hairy Tofu
+淮南牛肉汤	Huainan Beef Soup
+牛肉汤	Beef Soup
+羊肉汤	Lamb Soup
+单县羊肉汤	Shanxian Lamb Soup
+板面	Banmian (Spicy Beef Noodles)
+安徽板面	Anhui Banmian
+黄焖鸡米饭	Braised Chicken Rice
+黄焖鸡	Braised Chicken (Huangmen Ji)
+黄焖排骨	Braised Spare Ribs
+黄焖排骨米饭	Braised Spare Ribs Rice
+黄焖鸡翅	Braised Chicken Wings
+黄焖牛肉	Braised Beef
+黄焖鱼	Braised Fish
+杨国福麻辣烫	Yang Guofu Malatang
+张亮麻辣烫	Zhang Liang Malatang
+麻辣拌	Spicy Mixed Skewers (Mala Ban)
+干拌麻辣烫	Dry-Mixed Malatang
+骨汤麻辣烫	Bone Broth Malatang
+番茄麻辣烫	Tomato Broth Malatang
+关东煮	Oden
+# --- Taiwanese ---
+卤肉饭	Braised Pork Rice (Lu Rou Fan)
+台湾卤肉饭	Taiwanese Braised Pork Rice
+鸡排	Fried Chicken Cutlet
+大鸡排	Large Fried Chicken Cutlet
+台湾大鸡排	Taiwanese Fried Chicken Cutlet
+盐酥鸡	Taiwanese Popcorn Chicken
+三杯鸡饭	Three-Cup Chicken Rice
+牛肉面套餐	Beef Noodle Combo
+台湾牛肉面	Taiwanese Beef Noodle Soup
+大肠面线	Intestine Vermicelli
+蚵仔面线	Oyster Vermicelli
+刈包	Gua Bao (Taiwanese Pork Belly Bun)
+割包	Gua Bao (Taiwanese Pork Belly Bun)
+胡椒饼	Pepper Bun
+葱抓饼	Scallion Flaky Pancake
+手抓饼	Flaky Hand-Held Pancake
+鸡蛋手抓饼	Flaky Pancake with Egg
+甜不辣	Tempura Fish Cake
+地瓜球	Sweet Potato Balls
+豆花	Douhua (Tofu Pudding)
+芋圆	Taro Balls
+烧仙草	Grass Jelly Dessert
+仙草冻	Grass Jelly
+排骨饭	Pork Chop Rice
+鸡腿饭	Chicken Leg Rice
+控肉饭	Braised Pork Belly Rice
+便当	Bento
+台式便当	Taiwanese Bento
+# --- Dumplings, buns, breakfast ---
+饺子	Dumplings
+水饺	Boiled Dumplings
+煎饺	Pan-Fried Dumplings
+锅贴	Potstickers
+冰花煎饺	Crispy Lace Potstickers
+猪肉白菜饺子	Pork & Napa Cabbage Dumplings
+猪肉白菜水饺	Pork & Napa Cabbage Dumplings
+猪肉韭菜饺子	Pork & Chive Dumplings
+猪肉韭菜水饺	Pork & Chive Dumplings
+韭菜鸡蛋饺子	Chive & Egg Dumplings
+韭菜鸡蛋水饺	Chive & Egg Dumplings
+韭菜鸡蛋	Chive & Egg
+猪肉大葱饺子	Pork & Scallion Dumplings
+猪肉大葱水饺	Pork & Scallion Dumplings
+猪肉大葱	Pork & Scallion
+猪肉白菜	Pork & Napa Cabbage
+猪肉韭菜	Pork & Chive
+猪肉玉米饺子	Pork & Sweet Corn Dumplings
+猪肉玉米	Pork & Sweet Corn
+猪肉芹菜饺子	Pork & Celery Dumplings
+猪肉芹菜	Pork & Celery
+猪肉香菇饺子	Pork & Shiitake Dumplings
+猪肉香菇	Pork & Shiitake
+牛肉大葱饺子	Beef & Scallion Dumplings
+牛肉大葱	Beef & Scallion
+羊肉胡萝卜饺子	Lamb & Carrot Dumplings
+羊肉胡萝卜	Lamb & Carrot
+三鲜饺子	Three-Delicacy Dumplings
+三鲜水饺	Three-Delicacy Dumplings
+虾仁三鲜饺子	Shrimp Three-Delicacy Dumplings
+虾仁三鲜	Shrimp Three-Delicacy
+鲅鱼饺子	Spanish Mackerel Dumplings
+素三鲜	Vegetarian Three-Delicacy
+素饺子	Vegetable Dumplings
+荠菜饺子	Shepherd's Purse Dumplings
+馄饨	Wontons
+抄手	Sichuan Wontons (Chaoshou)
+清汤抄手	Wontons in Clear Broth
+酸汤抄手	Wontons in Sour Soup
+炸馄饨	Fried Wontons
+包子	Steamed Buns (Baozi)
+鲜肉包	Pork Bun
+肉包	Pork Bun
+菜包	Vegetable Bun
+素包	Vegetable Bun
+香菇青菜包	Shiitake & Bok Choy Bun
+豆沙包	Red Bean Bun
+奶黄流沙包	Salted Egg Custard Bun
+糖包	Brown Sugar Bun
+酱肉包	Braised Pork Bun
+梅干菜包	Preserved Greens Bun
+梅干菜扣肉包	Preserved Greens & Pork Belly Bun
+韭菜包	Chive Bun
+粉丝包	Vermicelli Bun
+小笼汤包	Soup Dumplings
+水煎包	Pan-Fried Buns
+馒头	Steamed Buns (Mantou)
+花卷	Steamed Twisted Rolls
+银丝卷	Silver Thread Rolls
+刀切馒头	Cut Steamed Buns
+玉米馒头	Corn Steamed Buns
+紫薯馒头	Purple Sweet Potato Steamed Buns
+窝窝头	Cornmeal Buns (Wowotou)
+发糕	Steamed Sponge Cake
+油条	Youtiao (Fried Dough Stick)
+豆浆油条	Soy Milk & Fried Dough Stick
+油饼	Fried Flatbread
+糖油饼	Sugar Fried Flatbread
+麻团	Sesame Balls
+煎蛋	Fried Egg
+荷包蛋	Fried Egg
+茶叶蛋	Tea Egg
+卤蛋	Braised Egg
+溏心蛋	Soft-Boiled Egg
+水煮蛋	Boiled Egg
+鸡蛋饼	Egg Pancake
+鸡蛋灌饼	Egg-Filled Pancake
+灌饼	Egg-Filled Pancake
+葱花饼	Scallion Pancake
+千层饼	Layered Pancake
+酱香饼	Sauce-Glazed Flatbread
+土家酱香饼	Tujia Sauce-Glazed Flatbread
+韭菜盒子	Chive Pocket
+锅盔	Guokui (Crispy Flatbread)
+军屯锅盔	Juntun Crispy Flatbread
+肉饼夹馍	Meat Pie Sandwich
+饭团	Rice Ball
+台式饭团	Taiwanese Rice Roll
+三角饭团	Onigiri
+粽子	Zongzi (Sticky Rice Dumpling)
+肉粽	Pork Zongzi
+蛋黄肉粽	Egg Yolk & Pork Zongzi
+豆沙粽	Red Bean Zongzi
+蜜枣粽	Date Zongzi
+白粥	Plain Congee
+小米粥	Millet Porridge
+八宝粥	Eight-Treasure Porridge
+南瓜粥	Pumpkin Porridge
+红豆粥	Red Bean Porridge
+黑米粥	Black Rice Porridge
+紫米粥	Purple Rice Porridge
+绿豆粥	Mung Bean Porridge
+燕麦粥	Oatmeal
+玉米粥	Cornmeal Porridge
+杂粮粥	Multigrain Porridge
+青菜瘦肉粥	Greens & Lean Pork Congee
+香菇鸡肉粥	Shiitake & Chicken Congee
+粥	Congee
+豆腐脑	Tofu Pudding (Douhua)
+咸豆花	Savory Tofu Pudding
+甜豆花	Sweet Tofu Pudding
+豆腐花	Tofu Pudding
+咸豆浆	Savory Soy Milk
+甜豆浆	Sweet Soy Milk
+汤圆	Tangyuan (Glutinous Rice Balls)
+元宵	Yuanxiao (Glutinous Rice Balls)
+黑芝麻汤圆	Black Sesame Tangyuan
+酒酿汤圆	Tangyuan in Sweet Rice Wine
+醪糟汤圆	Tangyuan in Sweet Rice Wine
+醪糟蛋	Sweet Rice Wine with Egg
+醪糟	Sweet Fermented Rice (Laozao)
+# --- Rice bowls / fast food staples ---
+盖浇饭	Rice with Toppings
+盖饭	Rice Bowl
+米饭套餐	Rice Combo
+鱼香肉丝盖饭	Yu-Shiang Pork Rice Bowl
+宫保鸡丁盖饭	Kung Pao Chicken Rice Bowl
+宫保鸡丁饭	Kung Pao Chicken Rice
+麻婆豆腐盖饭	Mapo Tofu Rice Bowl
+麻婆豆腐饭	Mapo Tofu Rice
+回锅肉盖饭	Twice-Cooked Pork Rice Bowl
+回锅肉饭	Twice-Cooked Pork Rice
+土豆丝盖饭	Shredded Potato Rice Bowl
+青椒肉丝盖饭	Green Pepper & Pork Rice Bowl
+青椒肉丝	Shredded Pork with Green Pepper
+尖椒肉丝	Shredded Pork with Green Chilies
+小炒肉盖饭	Hunan Stir-Fried Pork Rice Bowl
+小炒肉饭	Hunan Stir-Fried Pork Rice
+红烧排骨饭	Braised Spare Ribs Rice
+红烧牛肉饭	Braised Beef Rice
+红烧鸡腿饭	Braised Chicken Leg Rice
+卤鸡腿饭	Braised Chicken Leg Rice
+炸鸡腿饭	Fried Chicken Leg Rice
+照烧鸡腿饭	Teriyaki Chicken Rice
+照烧鸡饭	Teriyaki Chicken Rice
+照烧鸡排饭	Teriyaki Chicken Cutlet Rice
+鸡排饭	Chicken Cutlet Rice
+猪排饭	Pork Cutlet Rice
+炸猪排饭	Fried Pork Cutlet Rice
+咖喱鸡饭	Curry Chicken Rice
+咖喱鸡肉饭	Curry Chicken Rice
+咖喱猪排饭	Curry Pork Cutlet Rice
+咖喱饭	Curry Rice
+咖喱牛肉饭	Curry Beef Rice
+日式咖喱饭	Japanese Curry Rice
+肥牛饭	Fatty Beef Rice
+肥牛盖饭	Fatty Beef Rice Bowl
+吉野家牛肉饭	Japanese Beef Bowl
+牛肉饭	Beef Rice Bowl
+牛丼	Gyudon (Beef Bowl)
+亲子丼	Oyakodon (Chicken & Egg Bowl)
+猪排丼	Katsudon (Pork Cutlet Bowl)
+鳗鱼饭	Unagi Don (Grilled Eel Rice)
+鳗鱼盖饭	Grilled Eel Rice Bowl
+三文鱼饭	Salmon Rice Bowl
+三文鱼盖饭	Salmon Rice Bowl
+海鲜饭	Paella
+西班牙海鲜饭	Spanish Paella
+石锅拌饭	Dolsot Bibimbap (Stone Pot Mixed Rice)
+拌饭	Bibimbap (Mixed Rice)
+韩式拌饭	Korean Bibimbap
+拌饭酱	Bibimbap Sauce
+鸡肉拌饭	Chicken Bibimbap
+牛肉拌饭	Beef Bibimbap
+烤肉饭	Grilled Meat Rice
+烤肉拌饭	Grilled Meat Bibimbap
+台式烤肉饭	Taiwanese BBQ Pork Rice
+烧肉饭	Roast Pork Rice
+卤肉拌饭	Braised Pork Mixed Rice
+鸡腿	Chicken Leg
+大鸡腿	Large Chicken Leg
+卤鸡腿	Braised Chicken Leg
+炸鸡腿	Fried Chicken Leg
+奥尔良鸡腿	New Orleans-Style Chicken Leg
+奥尔良烤翅	New Orleans-Style Roasted Wings
+奥尔良鸡肉	Orleans Chicken
+新奥尔良烤鸡	New Orleans Roast Chicken
+烤鸡	Roast Chicken
+烤鸡腿	Roast Chicken Leg
+烤鸡翅	Roast Chicken Wings
+铁板烧	Teppanyaki
+铁板牛肉饭	Sizzling Beef Rice
+铁板鸡饭	Sizzling Chicken Rice
+铁板豆腐	Sizzling Tofu
+铁板鱿鱼	Sizzling Squid
+铁板牛柳	Sizzling Beef Tenderloin
+铁板饭	Sizzling Plate Rice
+煲仔	Claypot
+砂锅	Claypot
+砂锅饭	Claypot Rice
+砂锅土豆粉	Claypot Potato Noodles
+土豆粉	Potato Noodles
+麻辣土豆粉	Spicy Potato Noodles
+番茄土豆粉	Tomato Potato Noodles
+砂锅豆腐	Claypot Tofu
+砂锅丸子	Claypot Meatballs
+砂锅白肉	Claypot Pork Belly
+鸡丁饭	Diced Chicken Rice
+木桶饭	Wooden Bucket Rice
+蒸饭	Steamed Rice
+竹筒饭	Bamboo Tube Rice
+瓦罐饭	Clay Jar Rice
+锡纸饭	Foil-Baked Rice
+锅巴饭	Crispy Rice
+炒饭	Fried Rice
+炒面	Fried Noodles (Chow Mein)
+肉丝炒面	Pork Chow Mein
+鸡蛋炒面	Egg Fried Noodles
+牛肉炒面	Beef Chow Mein
+鸡肉炒面	Chicken Chow Mein
+海鲜炒面	Seafood Chow Mein
+虾仁炒面	Shrimp Chow Mein
+炒粉	Fried Rice Noodles
+炒米线	Fried Rice Noodles
+炒饼	Fried Shredded Flatbread
+鸡蛋炒饼	Fried Flatbread with Egg
+焖面	Braised Noodles
+豆角焖面	Braised Noodles with Green Beans
+排骨焖面	Braised Noodles with Spare Ribs
+汤面	Noodle Soup
+清汤面	Clear Broth Noodles
+牛肉汤面	Beef Noodle Soup
+鸡汤面	Chicken Noodle Soup
+大骨汤面	Bone Broth Noodles
+酸汤面	Sour Soup Noodles
+酸汤肥牛	Fatty Beef in Sour Soup
+金汤肥牛	Fatty Beef in Golden Broth
+番茄肥牛	Fatty Beef in Tomato Broth
+番茄牛腩	Beef Brisket in Tomato Broth
+番茄牛腩饭	Tomato Beef Brisket Rice
+番茄肥牛饭	Tomato Fatty Beef Rice
+番茄牛肉面	Tomato Beef Noodles
+番茄鸡蛋	Tomato & Egg
+鸡蛋面	Egg Noodles
+刀削牛肉面	Knife-Cut Beef Noodles
+牛肉拌面	Beef Mixed Noodles
+牛肉粉	Beef Rice Noodles
+牛杂粉	Beef Offal Rice Noodles
+牛杂	Beef Offal
+牛杂汤	Beef Offal Soup
+猪杂粉	Pork Offal Rice Noodles
+猪杂汤	Pork Offal Soup
+猪脚饭	Braised Pork Trotter Rice
+隆江猪脚饭	Longjiang Pork Trotter Rice
+猪脚	Pork Trotter
+卤猪脚	Braised Pork Trotter
+猪蹄	Pork Trotter
+卤猪蹄	Braised Pork Trotter
+酱猪蹄	Soy-Braised Pork Trotter
+烧烤	BBQ
+烤串	BBQ Skewers
+串串	Skewers
+撸串	BBQ Skewers
+烤肉	Barbecue
+韩式烤肉	Korean BBQ
+日式烤肉	Japanese Yakiniku
+自助烤肉	All-You-Can-Eat BBQ
+烤五花肉	Grilled Pork Belly
+烤牛肉	Grilled Beef
+烤牛肉串	Beef Skewers
+牛肉串	Beef Skewers
+羊肉	Lamb
+牛肉	Beef
+猪肉	Pork
+鸡肉	Chicken
+鸭肉	Duck
+鹅肉	Goose
+烤鸡肉串	Chicken Skewers
+鸡肉串	Chicken Skewers
+烤鸡心	Grilled Chicken Hearts
+烤鸡胗	Grilled Chicken Gizzards
+烤鸡皮	Grilled Chicken Skin
+烤鸡爪	Grilled Chicken Feet
+烤鸡头	Grilled Chicken Head
+烤翅中	Grilled Chicken Mid-Wings
+烤鸡翅中	Grilled Chicken Mid-Wings
+烤鸡翅尖	Grilled Chicken Wing Tips
+烤腰子	Grilled Kidney
+烤羊腰	Grilled Lamb Kidney
+烤板筋	Grilled Beef Tendon Strips
+烤筋	Grilled Tendon
+烤肉筋	Grilled Meat Tendon
+烤脆骨	Grilled Cartilage
+烤五花	Grilled Pork Belly
+烤肥肠	Grilled Pork Intestines
+烤大肠	Grilled Pork Intestines
+烤小肠	Grilled Small Intestines
+烤猪蹄	Grilled Pork Trotter
+烤猪皮	Grilled Pork Skin
+烤羊肉	Grilled Lamb
+烤羊排串	Grilled Lamb Rib Skewers
+烤鱿鱼	Grilled Squid
+烤鱿鱼须	Grilled Squid Tentacles
+烤鱿鱼串	Squid Skewers
+烤生蚝	Grilled Oysters
+蒜蓉烤生蚝	Grilled Oysters with Garlic
+烤扇贝	Grilled Scallops
+蒜蓉烤扇贝	Grilled Scallops with Garlic
+烤虾	Grilled Shrimp
+烤大虾	Grilled Prawns
+烤秋刀鱼	Grilled Pacific Saury
+烤黄花鱼	Grilled Yellow Croaker
+烤多春鱼	Grilled Capelin
+烤馒头片	Grilled Steamed Bun Slices
+烤馒头	Grilled Steamed Bun
+烤面筋	Grilled Gluten
+烤韭菜	Grilled Chives
+烤茄子	Grilled Eggplant
+蒜蓉烤茄子	Grilled Eggplant with Garlic
+烤玉米	Grilled Corn
+烤土豆	Grilled Potatoes
+烤土豆片	Grilled Potato Slices
+烤金针菇	Grilled Enoki Mushrooms
+烤香菇	Grilled Shiitake Mushrooms
+烤杏鲍菇	Grilled King Oyster Mushrooms
+烤青椒	Grilled Green Peppers
+烤豆皮	Grilled Tofu Skin
+烤豆腐	Grilled Tofu
+烤豆腐干	Grilled Dried Tofu
+烤千张	Grilled Tofu Sheets
+烤年糕	Grilled Rice Cakes
+烤香肠	Grilled Sausage
+烤火腿肠	Grilled Ham Sausage
+烤肠	Grilled Sausage
+台湾烤肠	Taiwanese Grilled Sausage
+烤鱼豆腐	Grilled Fish Tofu
+烤蟹棒	Grilled Crab Sticks
+烤鹌鹑蛋	Grilled Quail Eggs
+烤鹌鹑	Grilled Quail
+烤花菜	Grilled Cauliflower
+烤西兰花	Grilled Broccoli
+烤娃娃菜	Grilled Baby Cabbage
+烤生菜	Grilled Lettuce
+烤藕片	Grilled Lotus Root Slices
+烤蒜	Grilled Garlic
+烤红薯	Roasted Sweet Potato
+烤地瓜	Roasted Sweet Potato
+烤鱼	Grilled Fish
+万州烤鱼	Wanzhou Grilled Fish
+麻辣烤鱼	Spicy Grilled Fish
+香辣烤鱼	Spicy Grilled Fish
+蒜香烤鱼	Garlic Grilled Fish
+豆豉烤鱼	Black Bean Grilled Fish
+酸菜烤鱼	Pickled Greens Grilled Fish
+番茄烤鱼	Tomato Grilled Fish
+青花椒烤鱼	Green Sichuan Pepper Grilled Fish
+纸包鱼	Paper-Wrapped Fish
+烤清江鱼	Grilled Qingjiang Fish
+烤草鱼	Grilled Grass Carp
+烤鲈鱼	Grilled Sea Bass
+烤黑鱼	Grilled Snakehead
+烤鲶鱼	Grilled Catfish
+火锅	Hot Pot
+重庆火锅	Chongqing Hot Pot
+四川火锅	Sichuan Hot Pot
+老火锅	Traditional Hot Pot
+牛油火锅	Beef Tallow Hot Pot
+麻辣火锅	Spicy Numbing Hot Pot
+鸳鸯锅	Split Hot Pot (Two Broths)
+九宫格	Nine-Grid Hot Pot
+清汤锅	Clear Broth Pot
+清汤锅底	Clear Broth Base
+番茄锅	Tomato Broth Pot
+番茄锅底	Tomato Broth Base
+菌汤锅	Mushroom Broth Pot
+菌汤锅底	Mushroom Broth Base
+骨汤锅底	Bone Broth Base
+麻辣锅底	Spicy Broth Base
+牛油锅底	Beef Tallow Broth Base
+红汤锅底	Spicy Red Broth Base
+鸳鸯锅底	Split Broth Base
+锅底	Broth Base
+小火锅	Individual Hot Pot
+自助火锅	All-You-Can-Eat Hot Pot
+自热火锅	Self-Heating Hot Pot
+回转小火锅	Conveyor Belt Hot Pot
+旋转小火锅	Conveyor Belt Hot Pot
+潮汕牛肉锅	Chaoshan Beef Hot Pot
+羊肉火锅	Lamb Hot Pot
+鱼火锅	Fish Hot Pot
+海鲜火锅	Seafood Hot Pot
+酸菜鱼火锅	Pickled Greens Fish Hot Pot
+冒菜套餐	Maocai Combo
+麻辣香锅套餐	Mala Xiang Guo Combo
+干锅	Dry Pot
+香锅	Spicy Stir-Fry Pot
+麻辣小龙虾	Spicy Crayfish
+小龙虾	Crayfish
+十三香小龙虾	Thirteen-Spice Crayfish
+蒜蓉小龙虾	Garlic Crayfish
+蒜香小龙虾	Garlic Crayfish
+油焖小龙虾	Braised Crayfish
+清蒸小龙虾	Steamed Crayfish
+冰镇小龙虾	Chilled Crayfish
+卤味小龙虾	Braised Spiced Crayfish
+麻辣虾尾	Spicy Crayfish Tails
+虾尾	Crayfish Tails
+蒜蓉虾尾	Garlic Crayfish Tails
+盱眙龙虾	Xuyi Crayfish
+花甲	Clams
+炒花甲	Stir-Fried Clams
+辣炒花甲	Spicy Stir-Fried Clams
+花甲粉	Clam Vermicelli
+花甲粉丝	Clam Vermicelli
+蒜蓉粉丝扇贝	Scallops with Garlic & Vermicelli
+蒜蓉粉丝蒸扇贝	Steamed Scallops with Garlic & Vermicelli
+蒜蓉生蚝	Oysters with Garlic
+蒜蓉蒸虾	Steamed Shrimp with Garlic
+蒜蓉开边虾	Butterflied Shrimp with Garlic
+香辣蟹	Spicy Crab
+香辣虾	Spicy Shrimp
+香辣花甲	Spicy Clams
+麻辣花甲	Spicy Numbing Clams
+炒田螺	Stir-Fried River Snails
+香辣田螺	Spicy River Snails
+炒螺蛳	Stir-Fried River Snails
+牛蛙	Bullfrog
+干锅牛蛙套餐	Dry Pot Bullfrog Combo
+美蛙鱼头	Bullfrog & Fish Head Hot Pot
+美蛙火锅	Bullfrog Hot Pot
+卤味	Braised Snacks (Lu Wei)
+卤味拼盘	Braised Snacks Platter
+卤菜	Braised Cold Cuts
+卤肉	Braised Pork
+卤牛肉	Braised Beef
+卤猪耳	Braised Pig Ears
+猪耳朵	Pig Ears
+卤鸡爪	Braised Chicken Feet
+卤鸭脖	Braised Duck Neck
+卤鸭头	Braised Duck Head
+卤鸭翅	Braised Duck Wings
+卤鸭掌	Braised Duck Feet
+卤鸭肠	Braised Duck Intestines
+卤鸭胗	Braised Duck Gizzard
+卤藕片	Braised Lotus Root
+卤豆干	Braised Dried Tofu
+卤海带	Braised Kelp
+卤千张	Braised Tofu Sheets
+卤大肠	Braised Pork Intestines
+卤猪头肉	Braised Pork Head Meat
+卤鸡翅	Braised Chicken Wings
+卤鸡蛋	Braised Egg
+卤鹌鹑蛋	Braised Quail Eggs
+卤腐竹	Braised Tofu Skin Sticks
+卤土豆	Braised Potatoes
+卤莲藕	Braised Lotus Root
+凉拌菜	Cold Salads
+凉拌木耳	Wood Ear Mushroom Salad
+凉拌海带丝	Shredded Kelp Salad
+凉拌腐竹	Tofu Skin Salad
+凉拌三丝	Three-Shred Salad
+凉拌土豆丝	Shredded Potato Salad
+凉拌豆芽	Bean Sprout Salad
+凉拌菠菜	Spinach Salad
+凉拌皮蛋	Century Egg Salad
+皮蛋豆腐	Century Egg Tofu
+凉拌豆腐	Cold Tofu Salad
+小葱拌豆腐	Tofu with Scallions
+凉拌鸡丝	Shredded Chicken Salad
+凉拌牛肉	Cold Beef Salad
+凉拌猪耳	Pig Ear Salad
+凉拌鸡爪	Chicken Feet Salad
+柠檬鸡爪	Lemon Chicken Feet
+酸辣鸡爪	Hot & Sour Chicken Feet
+无骨鸡爪	Boneless Chicken Feet
+虎皮凤爪	Tiger Skin Chicken Feet
+虎皮鸡爪	Tiger Skin Chicken Feet
+虎皮青椒	Tiger Skin Peppers
+蒜泥茄子	Eggplant with Garlic
+口水茄子	Mouthwatering Eggplant
+红油耳丝	Pig Ear in Chili Oil
+红油肚丝	Tripe Slices in Chili Oil
+夫妻肺片套餐	Fuqi Feipian Combo
+蓑衣黄瓜	Accordion Cucumber
+糖拌西红柿	Sugared Tomatoes
+油炸花生米	Fried Peanuts
+油炸花生	Fried Peanuts
+老醋花生	Peanuts in Aged Vinegar
+花生米	Peanuts
+盐水毛豆	Salted Edamame
+毛豆	Edamame
+煮毛豆	Boiled Edamame
+煮花生	Boiled Peanuts
+水煮花生	Boiled Peanuts
+炸鸡	Fried Chicken
+韩式炸鸡	Korean Fried Chicken
+甜辣炸鸡	Sweet & Spicy Fried Chicken
+酱油炸鸡	Soy Garlic Fried Chicken
+蜂蜜黄油炸鸡	Honey Butter Fried Chicken
+芝士炸鸡	Cheese Fried Chicken
+原味炸鸡	Original Fried Chicken
+香辣炸鸡	Spicy Fried Chicken
+无骨炸鸡	Boneless Fried Chicken
+炸鸡块	Chicken Nuggets
+鸡块	Chicken Nuggets
+鸡米花	Popcorn Chicken
+鸡柳	Chicken Strips
+炸鸡柳	Fried Chicken Strips
+鸡翅	Chicken Wings
+炸鸡翅	Fried Chicken Wings
+香辣鸡翅	Spicy Chicken Wings
+奥尔良鸡翅	New Orleans-Style Chicken Wings
+蜜汁鸡翅	Honey-Glazed Chicken Wings
+鸡翅中	Chicken Mid-Wings
+鸡翅根	Chicken Drumettes
+鸡翅尖	Chicken Wing Tips
+翅中	Chicken Mid-Wings
+翅根	Chicken Drumettes
+全翅	Whole Chicken Wings
+炸鸡排	Fried Chicken Cutlet
+脆皮炸鸡	Crispy Fried Chicken
+吮指原味鸡	Original Recipe Chicken
+香辣鸡腿堡	Spicy Chicken Burger
+汉堡	Burger
+汉堡包	Burger
+牛肉汉堡	Beef Burger
+牛肉堡	Beef Burger
+鸡腿堡	Chicken Burger
+鸡肉堡	Chicken Burger
+鸡排堡	Chicken Cutlet Burger
+劲脆鸡腿堡	Crispy Chicken Burger
+芝士汉堡	Cheeseburger
+双层芝士汉堡	Double Cheeseburger
+巨无霸	Big Mac
+板烧鸡腿堡	Grilled Chicken Burger
+麦辣鸡腿堡	Spicy Chicken Burger
+麦香鱼	Filet-O-Fish
+鳕鱼堡	Fish Burger
+鱼排堡	Fish Burger
+虾堡	Shrimp Burger
+猪柳蛋堡	Pork & Egg Muffin
+猪柳麦满分	Sausage McMuffin
+麦满分	McMuffin
+双层牛肉堡	Double Beef Burger
+培根牛肉堡	Bacon Beef Burger
+安格斯牛肉堡	Angus Beef Burger
+皇堡	Whopper
+小皇堡	Whopper Jr.
+薯条	French Fries
+大薯条	Large Fries
+中薯条	Medium Fries
+小薯条	Small Fries
+薯格	Waffle Fries
+薯饼	Hash Brown
+土豆泥	Mashed Potatoes
+洋葱圈	Onion Rings
+玉米杯	Corn Cup
+鸡肉卷	Chicken Wrap
+老北京鸡肉卷	Old Beijing Chicken Wrap
+墨西哥鸡肉卷	Mexican Chicken Wrap
+卷饼	Wrap
+墨西哥卷饼	Burrito
+塔可	Taco
+墨西哥塔可	Mexican Taco
+热狗	Hot Dog
+三明治	Sandwich
+总汇三明治	Club Sandwich
+鸡蛋三明治	Egg Sandwich
+金枪鱼三明治	Tuna Sandwich
+火腿三明治	Ham Sandwich
+培根三明治	Bacon Sandwich
+潜艇堡	Sub Sandwich
+帕尼尼	Panini
+吐司	Toast
+厚切吐司	Thick-Cut Toast
+法式吐司	French Toast
+披萨	Pizza
+比萨	Pizza
+匹萨	Pizza
+玛格丽特披萨	Margherita Pizza
+意式腊肠披萨	Pepperoni Pizza
+腊肠披萨	Pepperoni Pizza
+夏威夷披萨	Hawaiian Pizza
+榴莲披萨	Durian Pizza
+超级至尊披萨	Super Supreme Pizza
+至尊披萨	Supreme Pizza
+海鲜披萨	Seafood Pizza
+培根披萨	Bacon Pizza
+牛肉披萨	Beef Pizza
+鸡肉披萨	Chicken Pizza
+芝心披萨	Cheese-Stuffed Crust Pizza
+薄底披萨	Thin Crust Pizza
+厚底披萨	Thick Crust Pizza
+铁盘披萨	Pan Pizza
+意面	Pasta
+意大利面	Spaghetti
+意粉	Spaghetti
+肉酱意面	Spaghetti Bolognese
+番茄肉酱意面	Spaghetti Bolognese
+奶油培根意面	Carbonara
+培根意面	Bacon Pasta
+黑椒牛柳意面	Black Pepper Beef Pasta
+青酱意面	Pesto Pasta
+海鲜意面	Seafood Pasta
+蒜香意面	Aglio e Olio
+白酱意面	Cream Sauce Pasta
+千层面	Lasagna
+焗意面	Baked Pasta
+通心粉	Macaroni
+芝士通心粉	Mac & Cheese
+意式炖饭	Risotto
+烩饭	Rice with Gravy
+牛排	Steak
+西冷牛排	Sirloin Steak
+菲力牛排	Filet Mignon
+眼肉牛排	Ribeye Steak
+肉眼牛排	Ribeye Steak
+战斧牛排	Tomahawk Steak
+T骨牛排	T-Bone Steak
+牛小排	Short Ribs
+黑椒牛排	Black Pepper Steak
+牛排套餐	Steak Set
+三分熟	Medium Rare
+五分熟	Medium
+七分熟	Medium Well
+全熟	Well Done
+八分熟	Medium Well
+羊排套餐	Lamb Chop Set
+烤三文鱼	Grilled Salmon
+煎三文鱼	Pan-Seared Salmon
+炸鱼薯条	Fish & Chips
+炸鸡薯条	Chicken & Chips
+罗宋汤	Borscht
+奶油蘑菇汤	Cream of Mushroom Soup
+蘑菇汤	Mushroom Soup
+南瓜汤	Pumpkin Soup
+玉米浓汤	Corn Chowder
+蛤蜊浓汤	Clam Chowder
+洋葱汤	Onion Soup
+法式洋葱汤	French Onion Soup
+沙拉	Salad
+蔬菜沙拉	Garden Salad
+凯撒沙拉	Caesar Salad
+鸡胸肉沙拉	Chicken Breast Salad
+牛油果沙拉	Avocado Salad
+水果沙拉	Fruit Salad
+金枪鱼沙拉	Tuna Salad
+三文鱼沙拉	Salmon Salad
+藜麦沙拉	Quinoa Salad
+土豆沙拉	Potato Salad
+鸡胸肉	Chicken Breast
+轻食碗	Healthy Bowl
+波奇饭	Poke Bowl
+能量碗	Power Bowl
+# --- Japanese ---
+寿司	Sushi
+握寿司	Nigiri Sushi
+手卷	Hand Roll
+军舰寿司	Gunkan Sushi
+寿司卷	Sushi Roll
+加州卷	California Roll
+三文鱼寿司	Salmon Sushi
+鳗鱼寿司	Eel Sushi
+金枪鱼寿司	Tuna Sushi
+北极贝寿司	Surf Clam Sushi
+甜虾寿司	Sweet Shrimp Sushi
+蟹籽寿司	Crab Roe Sushi
+玉子寿司	Tamago Sushi
+寿司拼盘	Sushi Platter
+刺身	Sashimi
+三文鱼刺身	Salmon Sashimi
+刺身拼盘	Sashimi Platter
+金枪鱼刺身	Tuna Sashimi
+北极贝刺身	Surf Clam Sashimi
+甜虾刺身	Sweet Shrimp Sashimi
+日式拉面	Japanese Ramen
+豚骨拉面	Tonkotsu Ramen
+味噌拉面	Miso Ramen
+酱油拉面	Shoyu Ramen
+叉烧拉面	Chashu Ramen
+乌冬面	Udon
+乌冬	Udon
+天妇罗乌冬面	Tempura Udon
+咖喱乌冬面	Curry Udon
+肥牛乌冬面	Beef Udon
+荞麦面	Soba
+冷荞麦面	Cold Soba
+天妇罗	Tempura
+炸虾天妇罗	Shrimp Tempura
+炸猪排	Tonkatsu (Pork Cutlet)
+日式炸鸡	Karaage (Japanese Fried Chicken)
+唐扬炸鸡	Karaage (Japanese Fried Chicken)
+章鱼小丸子	Takoyaki
+章鱼烧	Takoyaki
+大阪烧	Okonomiyaki
+日式煎饺	Gyoza
+玉子烧	Tamagoyaki (Rolled Omelette)
+味噌汤	Miso Soup
+茶碗蒸	Chawanmushi (Steamed Egg)
+烤鳗鱼	Grilled Eel
+鳗鱼	Eel
+烤串拼盘	Yakitori Platter
+日式烧鸟	Yakitori
+寿喜锅	Sukiyaki
+日式寿喜锅	Sukiyaki
+日式便当	Japanese Bento
+鳗鱼便当	Eel Bento
+定食	Set Meal (Teishoku)
+海藻沙拉	Seaweed Salad
+裙带菜	Wakame
+# --- Korean ---
+部队锅	Budae Jjigae (Army Stew)
+部队火锅	Budae Jjigae (Army Stew)
+泡菜汤	Kimchi Stew
+泡菜锅	Kimchi Stew
+大酱汤	Doenjang Jjigae (Soybean Paste Stew)
+嫩豆腐汤	Sundubu Jjigae (Soft Tofu Stew)
+参鸡汤	Samgyetang (Ginseng Chicken Soup)
+炒年糕套餐	Tteokbokki Combo
+辣炒年糕	Tteokbokki (Spicy Rice Cakes)
+韩式炒年糕	Tteokbokki (Spicy Rice Cakes)
+芝士年糕	Cheese Tteokbokki
+紫菜包饭	Gimbap
+韩式紫菜包饭	Gimbap
+泡菜饼	Kimchi Pancake
+海鲜饼	Seafood Pancake
+韩式海鲜饼	Korean Seafood Pancake
+韩式煎饼	Korean Pancake
+杂菜	Japchae (Glass Noodle Stir-Fry)
+韩式杂菜	Japchae (Glass Noodle Stir-Fry)
+韩式炸酱面	Jajangmyeon
+辣白菜	Kimchi
+泡菜	Kimchi
+韩国泡菜	Kimchi
+烤五花肉套餐	Grilled Pork Belly Set
+韩式烤五花	Samgyeopsal (Grilled Pork Belly)
+芝士排骨	Cheese Ribs
+芝士辣鸡	Cheese Buldak
+火鸡面	Buldak Spicy Noodles
+韩式辣酱	Gochujang
+韩国拉面	Korean Ramyeon
+辣炒鸡排	Dakgalbi (Spicy Stir-Fried Chicken)
+春川辣炒鸡	Chuncheon Dakgalbi
+酱蟹	Soy-Marinated Crab
+酱油蟹	Soy-Marinated Crab
+# --- Southeast Asian / Indian / Middle Eastern ---
+冬阴功汤	Tom Yum Soup
+冬阴功	Tom Yum
+泰式冬阴功	Thai Tom Yum
+冬阴功面	Tom Yum Noodles
+绿咖喱	Green Curry
+泰式绿咖喱	Thai Green Curry
+红咖喱	Red Curry
+黄咖喱	Yellow Curry
+咖喱蟹	Curry Crab
+泰式咖喱蟹	Thai Curry Crab
+泰式炒河粉	Pad Thai
+泰式炒粉	Pad Thai
+打抛猪	Pad Kra Pao (Thai Basil Pork)
+打抛猪饭	Thai Basil Pork Rice
+打抛饭	Thai Basil Rice
+冬荫功	Tom Yum
+泰式菠萝饭	Thai Pineapple Rice
+芒果糯米饭	Mango Sticky Rice
+青木瓜沙拉	Green Papaya Salad
+泰式虾饼	Thai Shrimp Cakes
+越南河粉	Pho (Vietnamese Rice Noodle Soup)
+牛肉河粉	Beef Pho
+越南春卷	Vietnamese Spring Rolls
+越南法棍	Bánh Mì
+越式法包	Bánh Mì
+新加坡叻沙	Singapore Laksa
+叻沙	Laksa
+叻沙面	Laksa Noodles
+肉骨茶	Bak Kut Teh (Pork Rib Soup)
+椰浆饭	Nasi Lemak
+沙爹	Satay
+沙爹串	Satay Skewers
+印尼炒饭	Nasi Goreng
+咖喱角	Curry Puff
+印度咖喱	Indian Curry
+黄油鸡	Butter Chicken
+咖喱鸡	Curry Chicken
+印度飞饼	Roti Canai (Indian Flatbread)
+飞饼	Flatbread (Roti)
+抛饼	Flaky Flatbread
+印度烤饼	Naan
+烤馕饼	Naan
+沙威玛	Shawarma
+土耳其烤肉	Turkish Kebab
+烤肉卷	Kebab Wrap
+鹰嘴豆泥	Hummus
+沙拉三明治	Salad Sandwich
+# --- Portions & set meals ---
+单人餐	Meal for 1
+双人餐	Meal for 2
+三人餐	Meal for 3
+四人餐	Meal for 4
+五人餐	Meal for 5
+六人餐	Meal for 6
+多人餐	Group Meal
+三人套餐	Meal for 3
+四人套餐	Meal for 4
+家庭套餐	Family Meal
+家庭装	Family Size
+全家桶	Family Bucket
+经济套餐	Budget Meal
+商务套餐	Business Set
+工作餐	Work Lunch
+营养套餐	Balanced Meal
+学生套餐	Student Meal
+儿童套餐	Kids' Meal
+儿童餐	Kids' Meal
+早餐套餐	Breakfast Combo
+午餐套餐	Lunch Combo
+晚餐套餐	Dinner Combo
+午市套餐	Lunch Set
+晚市套餐	Dinner Set
+下午茶套餐	Afternoon Tea Set
+宵夜套餐	Late-Night Combo
+夜宵套餐	Late-Night Combo
+特价套餐	Special Combo
+招牌套餐	Signature Combo
+人气套餐	Popular Combo
+精选套餐	Featured Combo
+豪华套餐	Deluxe Combo
+尊享套餐	Premium Combo
+自选套餐	Build Your Own Combo
+主食套餐	Staple Combo
+一荤一素	1 Meat + 1 Veggie
+两荤一素	2 Meats + 1 Veggie
+一荤两素	1 Meat + 2 Veggies
+两荤两素	2 Meats + 2 Veggies
+三荤一素	3 Meats + 1 Veggie
+三菜一汤	3 Dishes + 1 Soup
+两菜一汤	2 Dishes + 1 Soup
+四菜一汤	4 Dishes + 1 Soup
+套饭	Set Rice
+单点	À la Carte
+单品	Single Item
+特大份	Extra Large
+超大份	Extra Large
+加大份	Upsize
+加大	Upsize
+标准份	Regular
+例份	Regular
+半份	Half Portion
+整份	Full Portion
+半只	Half
+整只	Whole
+一只	Whole
+小碗	Small Bowl
+中碗	Medium Bowl
+大碗	Large Bowl
+小份装	Small Pack
+双拼	Two-Item Combo
+三拼	Three-Item Combo
+四拼	Four-Item Combo
+双拼饭	Two-Topping Rice
+三拼饭	Three-Topping Rice
+拼盘	Platter
+米饭	Steamed Rice
+白米饭	Steamed White Rice
+白饭	Steamed Rice
+一碗米饭	1 Bowl of Rice
+一份米饭	1 Serving of Rice
+加饭	Extra Rice
+加米饭	Extra Rice
+加面	Extra Noodles
+加粉	Extra Rice Noodles
+加蛋	Add Egg
+加个蛋	Add Egg
+加煎蛋	Add Fried Egg
+加卤蛋	Add Braised Egg
+加荷包蛋	Add Fried Egg
+加肉	Extra Meat
+加牛肉	Extra Beef
+加鸡腿	Add Chicken Leg
+加肠	Add Sausage
+加火腿肠	Add Ham Sausage
+加菜	Extra Vegetables
+加青菜	Extra Greens
+加豆芽	Add Bean Sprouts
+加芝士	Add Cheese
+加辣	Add Spice
+加醋	Extra Vinegar
+加香菜	Add Cilantro
+加葱	Add Scallions
+加量	Extra Portion
+加汤	Extra Soup
+加份	Extra Portion
+米饭不限量	Unlimited Rice
+米饭免费加	Free Rice Refills
+主食类	Staples
+小食	Sides
+小菜	Side Dishes
+配菜	Side Dishes
+热菜	Hot Dishes
+炒菜	Stir-Fries
+家常菜	Home-Style Dishes
+家常小炒	Home-Style Stir-Fries
+下饭菜	Great with Rice
+硬菜	Hearty Mains
+荤菜	Meat Dishes
+素菜	Vegetable Dishes
+素食	Vegetarian
+汤品	Soups
+靓汤	Soups
+汤	Soup
+饮料	Beverages
+甜品	Desserts
+甜点	Desserts
+主菜	Mains
+前菜	Appetizers
+开胃菜	Appetizers
+特色菜	Specialties
+镇店之宝	House Specialty
+厨师推荐	Chef's Recommendation
+主厨推荐	Chef's Recommendation
+本店招牌	House Signature
+时令	Seasonal
+
+# Review fixes
+鸳鸯奶茶	Yuenyeung (Coffee & Milk Tea)
+港式鸳鸯	Yuenyeung (Coffee & Milk Tea)
+冻鸳鸯	Iced Yuenyeung

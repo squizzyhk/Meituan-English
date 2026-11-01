@@ -1,0 +1,544 @@
+# 13_services_hotels_travel.tsv - Hotels & homestays, flights/trains, attractions, movies & shows, taxi/ride-hailing, bikes, power banks, errands, group deals, local services.
+# Format: chinese<TAB>english. Owner: glossary-ui.
+# --- Hotels / homestays ---
+入住	Check-in
+离店	Check-out
+退房	Check-out
+入住时间	Check-in Time
+离店时间	Check-out Time
+退房时间	Check-out Time
+入住日期	Check-in Date
+离店日期	Check-out Date
+共1晚	1 night
+房间	Room
+房间数	Rooms
+间数	Rooms
+入住人	Guests
+入住人数	Guests
+成人	Adults
+儿童	Children
+住客姓名	Guest Name
+每间填写1人	One name per room
+房型	Room Type
+大床房	Double Room
+双床房	Twin Room
+单人间	Single Room
+双人间	Double Room
+三人间	Triple Room
+家庭房	Family Room
+标准间	Standard Room
+标准大床房	Standard Double Room
+标准双床房	Standard Twin Room
+豪华大床房	Deluxe Double Room
+豪华双床房	Deluxe Twin Room
+高级大床房	Superior Double Room
+高级双床房	Superior Twin Room
+商务大床房	Business Double Room
+行政大床房	Executive Double Room
+套房	Suite
+豪华套房	Deluxe Suite
+行政套房	Executive Suite
+钟点房	Hourly Room
+特惠房	Special Offer Room
+含早	Breakfast Included
+无早	No Breakfast
+单早	Breakfast for 1
+双早	Breakfast for 2
+含双早	Breakfast for 2
+含单早	Breakfast for 1
+早餐	Breakfast
+免费取消	Free Cancellation
+不可取消	Non-refundable
+限时取消	Limited-Time Cancellation
+有条件取消	Conditional Cancellation
+取消政策	Cancellation Policy
+立即确认	Instant Confirmation
+立即预订	Book Now
+预订须知	Booking Notes
+订房必读	Booking Notes
+预订成功	Booking Confirmed
+预订失败	Booking Failed
+满房	Fully Booked
+已满房	Fully Booked
+订完	Sold Out
+房量紧张	Only a few rooms left
+仅剩1间	Only 1 room left
+到店付	Pay at Hotel
+在线付	Pay Online
+到店付款	Pay at Hotel
+在线支付	Pay Online
+担保	Guarantee
+需担保	Guarantee Required
+房费	Room Rate
+总房费	Total Room Rate
+每晚	per night
+均价	Avg. Price
+酒店详情	Hotel Details
+酒店设施	Hotel Facilities
+设施	Facilities
+服务设施	Facilities & Services
+酒店政策	Hotel Policies
+酒店介绍	About the Hotel
+酒店位置	Hotel Location
+位置	Location
+周边	Nearby
+交通	Transportation
+地铁站	Metro Station
+火车站	Train Station
+机场	Airport
+商圈	Business District
+市中心	City Center
+面积	Size
+床型	Bed Type
+大床	Double Bed
+双床	Twin Beds
+单人床	Single Bed
+双人床	Double Bed
+加床	Extra Bed
+可加床	Extra Bed Available
+不可加床	No Extra Beds
+窗户	Window
+有窗	Has Window
+无窗	No Window
+部分有窗	Some with Window
+楼层	Floor
+可住	Max Guests
+可住人数	Max Guests
+吸烟	Smoking
+禁烟	Non-smoking
+无烟房	Non-smoking Room
+免费WiFi	Free Wi-Fi
+免费Wi-Fi	Free Wi-Fi
+WiFi	Wi-Fi
+免费停车	Free Parking
+停车场	Parking
+游泳池	Swimming Pool
+健身房	Gym
+餐厅	Restaurant
+行李寄存	Luggage Storage
+接机服务	Airport Pickup
+接送机	Airport Transfer
+叫醒服务	Wake-up Call
+洗衣服务	Laundry Service
+24小时前台	24-Hour Front Desk
+前台	Front Desk
+电梯	Elevator
+空调	Air Conditioning
+热水壶	Kettle
+吹风机	Hair Dryer
+独立卫浴	Private Bathroom
+浴缸	Bathtub
+智能马桶	Smart Toilet
+洗衣机	Washing Machine
+厨房	Kitchen
+可做饭	Cooking Allowed
+可带宠物	Pets Allowed
+允许携带宠物	Pets Allowed
+不可携带宠物	No Pets
+投影	Projector
+麻将机	Mahjong Table
+近地铁	Near Metro
+经济型	Budget
+舒适型	Comfort
+高档型	Upscale
+豪华型	Luxury
+星级	Star Rating
+五星级	5-Star
+四星级	4-Star
+三星级	3-Star
+二星及以下	2-Star & Below
+快捷酒店	Budget Hotel
+经济型酒店	Budget Hotel
+精品酒店	Boutique Hotel
+度假酒店	Resort
+公寓	Apartment
+客栈	Inn
+青年旅舍	Hostel
+整套房屋	Entire Home
+独立房间	Private Room
+一居	1 Bedroom
+二居	2 Bedrooms
+三居	3 Bedrooms
+房东	Host
+超赞房东	Superhost
+联系房东	Contact Host
+入住指南	Check-in Guide
+自助入住	Self Check-in
+押金	Deposit
+免押金	No Deposit
+退押金	Refund Deposit
+位置/品牌/酒店名	Location / brand / hotel name
+关键字/位置/品牌/酒店名	Keyword / location / brand / hotel
+我的位置	My Location
+国内	Domestic
+海外	International
+国际	International
+港澳台	HK, Macau & Taiwan
+港澳	HK & Macau
+国际/港澳台	International / HK, Macau & TW
+查找酒店	Find Hotels
+搜索酒店	Search Hotels
+价格/星级	Price / Stars
+价格星级	Price / Stars
+位置距离	Location
+好评率	Positive Rating
+超棒	Excellent
+很好	Very Good
+不错	Good
+住过	Stayed
+条点评	reviews
+# --- Flights / trains / buses ---
+出发	Departure
+到达	Arrival
+出发地	From
+目的地	Destination
+出发城市	Departure City
+到达城市	Arrival City
+出发日期	Departure Date
+返回日期	Return Date
+单程	One Way
+往返	Round Trip
+多程	Multi-City
+直飞	Nonstop
+中转	Transfer
+经停	Stopover
+经济舱	Economy
+公务舱	Business
+头等舱	First Class
+商务舱	Business
+超级经济舱	Premium Economy
+舱位	Cabin
+航班	Flight
+航班号	Flight No.
+航空公司	Airline
+起飞	Departure
+降落	Arrival
+起飞时间	Departure Time
+到达时间	Arrival Time
+准点率	On-Time Rate
+行李额	Baggage Allowance
+托运行李	Checked Baggage
+手提行李	Carry-on
+退改签	Refunds & Changes
+退改规则	Refund & Change Rules
+退票	Refund Ticket
+改签	Change Ticket
+值机	Check-in
+在线值机	Online Check-in
+选座	Choose Seat
+乘机人	Passengers
+乘车人	Passengers
+乘客	Passenger
+添加乘机人	Add Passenger
+添加乘车人	Add Passenger
+常用旅客	Frequent Travelers
+儿童票	Child Ticket
+成人票	Adult Ticket
+学生票	Student Ticket
+婴儿票	Infant Ticket
+机建燃油	Airport & Fuel Fees
+机建+燃油	Airport & Fuel Fees
+低价日历	Low Fare Calendar
+特价机票	Cheap Flights
+搜索机票	Search Flights
+查询	Search
+车次	Train No.
+高铁	High-Speed Rail
+动车	Bullet Train
+高铁动车	High-Speed Trains
+只看高铁动车	High-Speed Only
+普通列车	Regular Train
+二等座	Second Class
+一等座	First Class Seat
+商务座	Business Seat
+特等座	Premium Seat
+硬座	Hard Seat
+软座	Soft Seat
+硬卧	Hard Sleeper
+软卧	Soft Sleeper
+高级软卧	Deluxe Soft Sleeper
+动卧	Sleeper Bullet Train
+无座	Standing
+有票	Available
+无票	Sold Out
+候补	Waitlist
+抢票	Ticket Grabbing
+抢票中	Grabbing Tickets
+历时	Duration
+始发	Origin
+终点	Terminus
+途经	Via
+时刻表	Timetable
+12306账号	12306 Account
+登录12306	Log In to 12306
+取票	Collect Ticket
+检票口	Gate
+候车	Waiting Area
+# --- Attractions / tickets ---
+门票预订	Book Tickets
+成人票价	Adult Price
+今日可订	Bookable Today
+今日可用	Available Today
+明日可订	Bookable Tomorrow
+随时退	Refund Anytime
+随时可退	Refund Anytime
+过期自动退	Auto-refund if Expired
+无需换票	No Ticket Exchange Needed
+扫码入园	Scan to Enter
+凭身份证入园	Enter with ID
+入园方式	Entry Method
+开放时间	Opening Hours
+游玩时长	Suggested Duration
+建议游玩	Suggested Visit
+景点介绍	About
+购票须知	Ticket Info
+使用须知	Terms of Use
+费用包含	Price Includes
+费用不含	Price Excludes
+优惠政策	Discount Policy
+跟团游	Group Tour
+自由行	Independent Travel
+一日游	Day Tour
+当地玩乐	Local Experiences
+出境游	Outbound Travel
+国内游	Domestic Travel
+# --- Movies / shows ---
+正在热映	Now Showing
+热映	Now Showing
+即将上映	Coming Soon
+待映	Coming Soon
+上映	Release
+购票	Buy Tickets
+选座购票	Choose Seats
+特惠购票	Buy at Discount
+预售	Pre-sale
+场次	Showtimes
+选择场次	Choose Showtime
+影院	Cinemas
+附近影院	Cinemas Nearby
+全部影院	All Cinemas
+想看	Want to Watch
+看过	Watched
+人想看	want to watch
+观众评分	Audience Score
+猫眼评分	Maoyan Score
+暂无评分	No Rating Yet
+主演	Starring
+导演	Director
+演职人员	Cast & Crew
+剧情简介	Synopsis
+简介	Summary
+预告片	Trailer
+片长	Runtime
+分钟	min
+国语	Mandarin
+英语	English
+原版	Original Version
+国语2D	Mandarin 2D
+英语2D	English 2D
+英语3D	English 3D
+2D	2D
+3D	3D
+IMAX	IMAX
+中国巨幕	China Giant Screen
+杜比全景声	Dolby Atmos
+厅	Hall
+号厅	Hall
+银幕	Screen
+已售	Sold
+情侣座	Couple Seat
+确认选座	Confirm Seats
+请选择座位	Please choose seats
+最多选择4个座位	You can choose up to 4 seats
+座位	Seats
+取票码	Ticket Code
+小吃饮料	Snacks & Drinks
+会员卡	Membership Card
+影城卡	Cinema Card
+改签/退票	Change / Refund
+不支持退票	No refunds
+支持退票	Refunds Available
+演唱会	Concerts
+话剧	Drama
+音乐剧	Musicals
+体育赛事	Sports Events
+展览	Exhibitions
+脱口秀	Stand-up Comedy
+儿童亲子	Kids & Family
+# --- Taxi / ride-hailing ---
+叫车	Request Ride
+一键叫车	One-Tap Ride
+立即叫车	Request Now
+确认叫车	Confirm Ride
+上车点	Pickup Point
+在哪上车	Where are you?
+您在哪儿上车	Where are you?
+你要去哪儿	Where to?
+你要去哪	Where to?
+输入目的地	Enter destination
+请输入目的地	Enter destination
+您要去哪儿	Where to?
+推荐上车点	Suggested Pickup
+快车	Express
+经济型车	Economy
+舒适型车	Comfort
+专车	Premium
+出租车	Taxi
+拼车	Carpool
+特惠快车	Express Saver
+豪华车	Luxury
+预约用车	Schedule a Ride
+预约	Schedule
+接送机服务	Airport Rides
+代叫	Book for Others
+帮人叫车	Book for Others
+预估价	Est. Fare
+预估	Est.
+一口价	Fixed Price
+正在为您叫车	Finding a driver…
+正在呼叫司机	Contacting drivers…
+司机已接单	Driver assigned
+司机正在赶来	Driver is on the way
+司机已到达	Driver has arrived
+行程中	On Trip
+行程已结束	Trip ended
+行程	Trip
+我的行程	My Trips
+行程分享	Share Trip
+司机	Driver
+联系司机	Contact Driver
+车牌号	License Plate
+取消行程	Cancel Trip
+确认上车	Confirm Pickup
+安全中心	Safety Center
+一键报警	Emergency Call
+紧急联系人	Emergency Contact
+行程录音	Trip Recording
+费用明细	Fare Details
+起步价	Base Fare
+里程费	Distance Fee
+时长费	Time Fee
+远途费	Long-Distance Fee
+高速费	Toll
+路桥费	Tolls
+停车费	Parking Fee
+夜间费	Night Surcharge
+动态调价	Surge Pricing
+评价司机	Rate Driver
+# --- Bikes / power banks ---
+扫码骑车	Scan to Ride
+扫码用车	Scan to Ride
+开锁	Unlock
+扫码开锁	Scan to Unlock
+关锁	Lock
+还车	Return Bike
+临时停车	Temporary Parking
+结束用车	End Ride
+骑行中	Riding
+骑行时长	Ride Duration
+骑行卡	Ride Pass
+月卡	Monthly Pass
+季卡	Quarterly Pass
+次卡	Ride Pack
+停车点	Parking Spot
+禁停区	No-Parking Zone
+运营区	Service Area
+超出运营区	Outside service area
+故障报修	Report a Fault
+报修	Report Issue
+扫码租借	Scan to Rent
+租借	Rent
+归还	Return
+归还充电宝	Return Power Bank
+附近充电宝	Power Banks Nearby
+租借中	Renting
+已归还	Returned
+计费规则	Pricing
+免押租借	Deposit-Free Rental
+信用免押	Credit-Based No Deposit
+# --- Errands ---
+帮我送	Deliver for Me
+帮我买	Buy for Me
+帮我取	Pick Up for Me
+帮排队	Queue for Me
+取件地址	Pickup Address
+收件地址	Drop-off Address
+物品类型	Item Type
+物品重量	Item Weight
+物品价值	Item Value
+保价	Insured Value
+文件	Documents
+钥匙	Keys
+证件	ID Documents
+同城急送	Same-City Express
+# --- Group deals / local services ---
+团购详情	Deal Details
+代金券详情	Voucher Details
+购买须知	Purchase Notes
+有效期：	Valid:
+使用时间	Usage Hours
+使用规则	Usage Rules
+预约信息	Reservation Info
+免预约	No Reservation Needed
+需预约	Reservation Required
+需提前预约	Reservation Required in Advance
+提前1天预约	Book 1 day ahead
+适用人数	Party Size
+不限张数	No Limit per Visit
+可用包间	Private Rooms Available
+包间	Private Room
+大厅	Main Hall
+堂食	Dine-in
+可外带	Takeaway Available
+外带	Takeaway
+打包	To Go
+免费WiFi可用	Free Wi-Fi
+提供免费WiFi	Free Wi-Fi
+商家服务：	Store services:
+可停车	Parking Available
+无停车位	No Parking
+立即抢购	Buy Now
+抢购	Buy Now
+立即购买	Buy Now
+马上抢	Grab It
+购买	Buy
+已购	Purchased
+半年售	Sold in 6 months
+年售	Sold/year
+排队	Queue
+在线排队	Join Queue Online
+取号	Get a Number
+排队取号	Get in Line
+我的排号	My Queue Number
+前方等待	Ahead of You
+预计等待	Est. Wait
+订座	Reserve a Table
+在线订座	Book a Table
+预订座位	Reserve a Table
+人数	Party Size
+就餐人数	Party Size
+就餐时间	Dining Time
+到店时间	Arrival Time
+包厢	Private Room
+优惠买单	Pay with Discount
+买单	Pay Bill
+在线买单	Pay Online
+到店买单	Pay in Store
+消费金额	Bill Amount
+请询问服务员后输入	Ask staff, then enter the amount
+不参与优惠金额	Non-discountable Amount
+菜品	Dishes
+网友推荐菜	Popular Dishes
+必吃菜	Must-Try Dishes
+人均消费	Avg. Spend per Person
+写点评	Write a Review
+点评	Reviews
+上传图片/视频	Upload Photos / Videos
+上传视频	Upload Video
+商户	Merchant
+添加商户	Add Merchant
+商户纠错	Report Incorrect Info
+报错	Report Error
+地址/电话有误	Wrong address / phone
+商户已关闭	Business closed
+营业时间有误	Wrong opening hours

@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  No packageNames filter on purpose: the service must notice when the user switches AWAY from
+  Meituan/Dianping (to hide the labels and bubble). For every other app it only looks at the
+  event's package name; it reads screen content only for the three supported apps.
+-->
 <accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeViewScrolled"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeViewScrolled|typeWindowsChanged"
     android:accessibilityFeedbackType="feedbackGeneric"
     android:accessibilityFlags="flagReportViewIds|flagRetrieveInteractiveWindows|flagIncludeNotImportantViews"
     android:canRetrieveWindowContent="true"
     android:canTakeScreenshot="true"
-    android:notificationTimeout="250"
-    android:packageNames="com.sankuai.meituan,com.sankuai.meituan.takeoutnew,com.dianping.v1"
+    android:notificationTimeout="100"
     android:description="@string/overlay_service_description" />

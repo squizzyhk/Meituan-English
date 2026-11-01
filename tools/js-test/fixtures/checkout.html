@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>提交订单</title>
+<style>body { font-family: sans-serif; } label { display: block; margin-top: 8px; } .error { color: red; }</style>
+</head>
+<body>
+<h2 class="section-title">收货地址</h2>
+<form id="form" onsubmit="return false">
+  <label for="name">联系人</label>
+  <input id="name" name="name" placeholder="请填写收货人姓名">
+  <label for="phone">手机号</label>
+  <input id="phone" name="phone" type="tel" placeholder="请填写收货手机号码">
+  <label for="addr">详细地址</label>
+  <input id="addr" class="address-input" placeholder="例：16号楼5层501室" title="门牌号">
+  <label for="time">送达时间</label>
+  <select id="time"><option>尽快送达</option><option>12:30-13:00</option></select>
+  <label for="remark">备注</label>
+  <textarea id="remark" placeholder="口味、偏好等要求"></textarea>
+  <div class="tableware">餐具份数 <span aria-label="选择餐具份数" role="button" id="ware">请选择</span></div>
+  <div class="pay">支付方式：<span>微信支付</span></div>
+  <div class="summary">商品金额 <span class="price">¥58</span> 优惠 <span class="price">-¥5</span></div>
+  <input id="submit" type="submit" value="提交订单">
+  <input id="typed" type="text" value="">
+  <button id="validate" type="button">校验</button>
+  <div id="errors"></div>
+</form>
+<script>
+  document.getElementById('validate').addEventListener('click', () => {
+    const e = document.createElement('p');
+    e.className = 'error';
+    e.textContent = '请输入正确的手机号';
+    document.getElementById('errors').appendChild(e);
+  });
+  setTimeout(() => { document.title = '确认订单'; }, 400);
+</script>
+</body>
+</html>

@@ -1,0 +1,347 @@
+# 23_cuisines_categories_stores.tsv - Cuisine names, food store categories, menu section headers,
+# meal times and common restaurant chains/brands as shown on Meituan.
+# Format: chinese<TAB>english. Owner: glossary-food.
+# --- Store categories (food delivery channels) ---
+快餐简餐	Fast Food & Quick Meals
+快餐	Fast Food
+简餐	Quick Meals
+快餐便当	Fast Food & Bento
+地方菜系	Regional Cuisines
+地方菜	Regional Cuisine
+特色菜系	Specialty Cuisines
+川湘菜	Sichuan & Hunan
+川菜	Sichuan Cuisine
+湘菜	Hunan Cuisine
+粤菜	Cantonese Cuisine
+鲁菜	Shandong Cuisine
+苏菜	Jiangsu Cuisine
+淮扬菜	Huaiyang Cuisine
+浙菜	Zhejiang Cuisine
+杭帮菜	Hangzhou Cuisine
+本帮菜	Shanghai Cuisine
+上海菜	Shanghai Cuisine
+沪菜	Shanghai Cuisine
+江浙菜	Jiangsu & Zhejiang Cuisine
+闽菜	Fujian Cuisine
+徽菜	Anhui Cuisine
+京菜	Beijing Cuisine
+北京菜	Beijing Cuisine
+东北菜	Northeastern Cuisine
+西北菜	Northwestern Cuisine
+陕西菜	Shaanxi Cuisine
+山西菜	Shanxi Cuisine
+新疆菜	Xinjiang Cuisine
+云南菜	Yunnan Cuisine
+云贵菜	Yunnan & Guizhou Cuisine
+贵州菜	Guizhou Cuisine
+广西菜	Guangxi Cuisine
+湖北菜	Hubei Cuisine
+鄂菜	Hubei Cuisine
+江西菜	Jiangxi Cuisine
+赣菜	Jiangxi Cuisine
+客家菜	Hakka Cuisine
+潮汕菜	Chaoshan Cuisine
+潮州菜	Teochew Cuisine
+顺德菜	Shunde Cuisine
+海南菜	Hainan Cuisine
+台湾菜	Taiwanese Cuisine
+台湾小吃	Taiwanese Snacks
+港式	Hong Kong Style
+港式茶餐厅	Hong Kong Café
+港式甜品	Hong Kong Desserts
+澳门菜	Macanese Cuisine
+清真菜	Halal Food
+西北清真	Northwestern Halal
+内蒙菜	Inner Mongolian Cuisine
+蒙餐	Mongolian Cuisine
+藏餐	Tibetan Cuisine
+傣家菜	Dai Cuisine
+农家菜	Farmhouse Cuisine
+私房菜	Private Kitchen
+创意菜	Fusion Cuisine
+融合菜	Fusion Cuisine
+官府菜	Imperial Court Cuisine
+素食餐厅	Vegetarian Restaurant
+素菜馆	Vegetarian Restaurant
+中餐	Chinese Food
+中式快餐	Chinese Fast Food
+西式快餐	Western Fast Food
+西餐	Western Food
+西餐厅	Western Restaurant
+意大利菜	Italian Cuisine
+意餐	Italian Cuisine
+法国菜	French Cuisine
+法餐	French Cuisine
+西班牙菜	Spanish Cuisine
+德国菜	German Cuisine
+俄罗斯菜	Russian Cuisine
+美式餐厅	American Restaurant
+墨西哥菜	Mexican Cuisine
+巴西烤肉	Brazilian BBQ
+牛排馆	Steakhouse
+日料	Japanese Food
+日本料理	Japanese Cuisine
+日式料理	Japanese Cuisine
+寿司店	Sushi Bar
+居酒屋	Izakaya
+日式拉面店	Ramen Shop
+韩料	Korean Food
+韩国料理	Korean Cuisine
+韩式料理	Korean Cuisine
+东南亚菜	Southeast Asian Cuisine
+泰国菜	Thai Cuisine
+泰餐	Thai Cuisine
+越南菜	Vietnamese Cuisine
+新加坡菜	Singaporean Cuisine
+马来西亚菜	Malaysian Cuisine
+印度菜	Indian Cuisine
+中东菜	Middle Eastern Cuisine
+土耳其菜	Turkish Cuisine
+异国料理	International Cuisine
+异国风味	International Flavors
+轻食	Healthy Eats
+轻食沙拉	Salads & Healthy Eats
+沙拉轻食	Salads & Healthy Eats
+健康轻食	Healthy Eats
+减脂轻食	Low-Fat Healthy Eats
+夜宵	Late-Night Eats
+宵夜	Late-Night Eats
+深夜食堂	Late-Night Diner
+早点	Breakfast
+午餐	Lunch
+午饭	Lunch
+晚餐	Dinner
+晚饭	Dinner
+下午茶	Afternoon Tea
+早午餐	Brunch
+包子粥店	Buns & Congee
+包子铺	Bun Shop
+粥店	Congee Shop
+米粉面馆	Noodle Shops
+面馆	Noodle Shop
+粉面	Noodles
+粉面馆	Noodle Shop
+米粉店	Rice Noodle Shop
+米线店	Rice Noodle Shop
+拉面馆	Hand-Pulled Noodle Shop
+饺子馆	Dumpling House
+水饺店	Dumpling House
+馄饨店	Wonton Shop
+汉堡薯条	Burgers & Fries
+汉堡炸鸡	Burgers & Fried Chicken
+炸鸡炸串	Fried Chicken & Skewers
+炸串	Fried Skewers
+炸鸡店	Fried Chicken Shop
+披萨意面	Pizza & Pasta
+西式简餐	Western Quick Meals
+麻辣烫冒菜	Malatang & Maocai
+麻辣香锅干锅	Spicy Stir-Fry & Dry Pot
+香锅干锅	Spicy Stir-Fry & Dry Pot
+火锅串串	Hot Pot & Skewers
+烧烤烤串	BBQ & Skewers
+烧烤夜宵	BBQ & Late-Night Eats
+龙虾烧烤	Crayfish & BBQ
+小龙虾店	Crayfish Shop
+烤鱼店	Grilled Fish Restaurant
+鱼类	Fish Dishes
+酸菜鱼店	Pickled Fish Restaurant
+卤味鸭脖	Braised Snacks & Duck Neck
+熟食卤味	Deli & Braised Snacks
+熟食	Deli
+卤味熟食	Braised Snacks & Deli
+特色小吃	Local Snacks
+地方小吃	Local Snacks
+小吃快餐	Snacks & Fast Food
+小吃夜宵	Snacks & Late-Night Eats
+街头小吃	Street Food
+零食小吃	Snacks
+饺子馄饨	Dumplings & Wontons
+包子馒头	Buns & Steamed Bread
+面食	Noodles & Dough Dishes
+米饭快餐	Rice Meals
+盖饭快餐	Rice Bowls
+炒饭炒面	Fried Rice & Noodles
+煲仔饭店	Claypot Rice Shop
+黄焖鸡店	Braised Chicken Rice Shop
+甜品饮品	Desserts & Drinks
+饮品甜品	Drinks & Desserts
+奶茶果汁	Milk Tea & Juice
+奶茶店	Milk Tea Shop
+茶饮店	Tea Shop
+果汁店	Juice Bar
+咖啡店	Coffee Shop
+咖啡厅	Café
+咖啡馆	Café
+甜品店	Dessert Shop
+蛋糕店	Cake Shop
+蛋糕甜点	Cakes & Desserts
+面包甜点	Bread & Desserts
+面包蛋糕	Bread & Cakes
+烘焙店	Bakery
+冰淇淋店	Ice Cream Shop
+清吧	Lounge Bar
+小酒馆	Bistro
+啤酒屋	Beer House
+食堂	Canteen
+自助餐	Buffet
+自助	Buffet
+海鲜自助	Seafood Buffet
+大排档	Food Stall
+排档	Food Stall
+农家乐	Farm Stay Restaurant
+茶楼	Teahouse
+茶馆	Teahouse
+酒楼	Chinese Restaurant
+饭店	Restaurant
+餐馆	Restaurant
+小馆	Bistro
+食府	Restaurant
+酒家	Restaurant
+饭馆	Eatery
+小吃店	Snack Shop
+快餐店	Fast Food Restaurant
+烧烤店	BBQ Restaurant
+火锅店	Hot Pot Restaurant
+烤肉店	BBQ Restaurant
+海鲜酒楼	Seafood Restaurant
+海鲜大排档	Seafood Food Stall
+私厨	Private Chef
+外卖专门店	Delivery-Only Kitchen
+档口	Food Counter
+# --- Menu section headers ---
+人气单品	Popular Items
+人气必点	Must-Try
+必吃	Must-Eat
+优惠套餐	Deal Combos
+单人套餐区	Meals for 1
+多人套餐区	Group Meals
+主食区	Staples
+小吃区	Snacks
+饮料区	Drinks
+凉菜区	Cold Dishes
+热菜区	Hot Dishes
+汤羹	Soups
+羹	Thick Soup
+粥品	Congee
+粥类	Congee
+面类	Noodles
+粉类	Rice Noodles
+饭类	Rice Dishes
+饭	Rice
+炒饭类	Fried Rice
+烧烤类	BBQ
+炸物类	Fried Food
+荤菜类	Meat Dishes
+素菜类	Vegetable Dishes
+海鲜类	Seafood
+肉类	Meat
+蔬菜类	Vegetables
+豆制品	Soy Products
+菌菇类	Mushrooms
+丸滑类	Meatballs & Pastes
+涮菜	Hot Pot Ingredients
+荤菜涮品	Meat for Hot Pot
+素菜涮品	Vegetables for Hot Pot
+锅底类	Broth Bases
+蘸料类	Dipping Sauces
+酒水饮品	Drinks & Alcohol
+酒类	Alcohol
+啤酒类	Beer
+果汁类	Juice
+茶类	Tea
+咖啡类	Coffee
+奶茶类	Milk Tea
+果茶类	Fruit Tea
+冰品	Iced Treats
+甜品类	Desserts
+糕点类	Pastries
+面包类	Bread
+加料区	Add-Ons
+加购	Add to Cart
+一次性餐具	Disposable Utensils
+打包盒	Takeout Box
+打包袋	Takeout Bag
+餐盒	Food Container
+# --- Restaurant chains & brands ---
+肯德基	KFC
+麦当劳	McDonald's
+汉堡王	Burger King
+必胜客	Pizza Hut
+达美乐	Domino's
+棒约翰	Papa John's
+赛百味	Subway
+德克士	Dicos
+华莱士	Wallace
+塔斯汀	Tastien
+真功夫	Real Kungfu
+老乡鸡	Lao Xiang Ji
+吉野家	Yoshinoya
+食其家	Sukiya
+味千拉面	Ajisen Ramen
+永和大王	Yonghe King
+大娘水饺	Da Niang Dumplings
+乡村基	CSC
+和府捞面	Hefu Noodle
+遇见小面	Yujian Xiaomian
+马记永	Ma Ji Yong
+陈香贵	Chen Xiang Gui
+张拉拉	Zhang La La
+海底捞	Haidilao
+呷哺呷哺	Xiabu Xiabu
+小龙坎	Xiaolongkan
+大龙燚	Da Long Yi
+巴奴	Banu Hot Pot
+凑凑	Coucou Hot Pot
+西贝莜面村	Xibei
+西贝	Xibei
+外婆家	Grandma's Home
+绿茶餐厅	Green Tea Restaurant
+太二酸菜鱼	Tai Er Pickled Fish
+太二	Tai Er
+鱼你在一起	Yu Ni Zai Yi Qi Pickled Fish
+半天妖	Ban Tian Yao Grilled Fish
+探鱼	Tan Yu Grilled Fish
+费大厨	Fei Da Chu
+农耕记	Nong Geng Ji
+袁记云饺	Yuan Ji Dumplings
+喜茶	HEYTEA
+奈雪的茶	Nayuki
+奈雪	Nayuki
+蜜雪冰城	Mixue
+茶百道	ChaPanda
+古茗	Goodme
+一点点	Yi Dian Dian
+CoCo都可	CoCo Fresh Tea
+沪上阿姨	Auntea Jenny
+书亦烧仙草	Shuyi Grass Jelly
+益禾堂	Yihetang
+茶颜悦色	Sexy Tea
+霸王茶姬	Chagee
+柠季	Ningji Lemon Tea
+七分甜	7 Fen Tian
+甜啦啦	Tianlala
+悸动烧仙草	Jidong Grass Jelly
+星巴克	Starbucks
+瑞幸	Luckin Coffee
+瑞幸咖啡	Luckin Coffee
+库迪	Cotti Coffee
+库迪咖啡	Cotti Coffee
+幸运咖	Lucky Cup
+Manner咖啡	Manner Coffee
+太平洋咖啡	Pacific Coffee
+Costa咖啡	Costa Coffee
+麦咖啡	McCafé
+周黑鸭店	Zhou Hei Ya
+绝味鸭脖	Juewei Duck Neck
+绝味	Juewei
+煌上煌	Huang Shang Huang
+紫燕百味鸡	Ziyan Food
+正新鸡排	Zhengxin Chicken
+85度C	85°C Bakery
+好利来	Holiland
+味多美	Wedome
+鲍师傅	Bao Shi Fu Pastry
+元祖	Ganso
+罗森	Lawson
+全家	FamilyMart
+便利蜂	Bianlifeng

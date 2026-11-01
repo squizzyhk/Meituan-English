@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/browser_action_back"
+        android:icon="@drawable/browser_ic_back"
+        android:title="@string/browser_back"
+        app:iconTint="@color/mt_ink"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/browser_action_forward"
+        android:icon="@drawable/browser_ic_forward"
+        android:title="@string/browser_forward"
+        app:iconTint="@color/mt_ink"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/browser_action_reload"
+        android:icon="@drawable/browser_ic_refresh"
+        android:title="@string/browser_reload"
+        app:iconTint="@color/mt_ink"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/browser_action_show_original"
+        android:checkable="true"
+        android:title="@string/browser_show_original"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/browser_action_translate_images"
+        android:checkable="true"
+        android:title="@string/browser_translate_images"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/browser_action_open_external"
+        android:title="@string/browser_open_external"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/browser_action_settings"
+        android:title="@string/browser_settings"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,486 @@
+# 11_forms_account.tsv - Forms (addresses, contact info, validation), login/registration, account center, settings, wallet.
+# Format: chinese<TAB>english. Owner: glossary-ui.
+# --- Address forms ---
+收货地址	Delivery Address
+收货人	Recipient
+收件人	Recipient
+新增地址	Add Address
+新增收货地址	Add Delivery Address
+添加地址	Add Address
+添加收货地址	Add Delivery Address
+编辑地址	Edit Address
+编辑收货地址	Edit Delivery Address
+删除地址	Delete Address
+确定删除该地址吗？	Delete this address?
+确认删除该地址？	Delete this address?
+管理地址	Manage Addresses
+地址管理	Manage Addresses
+收货地址管理	Manage Addresses
+联系人	Contact
+联系人：	Contact:
+姓名	Name
+请填写收货人的姓名	Enter recipient's name
+请填写收货人姓名	Enter recipient's name
+请输入姓名	Enter name
+请填写姓名	Enter name
+先生	Mr.
+女士	Ms.
+性别	Gender
+男	Male
+女	Female
+手机号	Phone Number
+手机号码	Phone Number
+电话号码	Phone Number
+联系电话	Contact Number
+请输入手机号	Enter phone number
+请输入手机号码	Enter phone number
+请填写收货手机号码	Enter recipient's phone number
+请填写手机号码	Enter phone number
+请填写联系电话	Enter contact number
+请输入正确的手机号	Enter a valid phone number
+请输入正确的手机号码	Enter a valid phone number
+手机号格式不正确	Invalid phone number
+手机号码格式错误	Invalid phone number
+备用电话	Backup Phone
+添加备用电话	Add Backup Phone
+地址	Address
+详细地址	Address Details
+请输入详细地址	Enter address details
+请填写详细地址	Enter address details
+门牌号	Apt / Room No.
+门牌号：	Apt / Room No.:
+请填写门牌号	Enter apt / room no.
+楼号-门牌号	Building - Room No.
+例：16号楼427室	e.g. Building 16, Room 427
+例：16号楼427	e.g. Building 16, Room 427
+例：B座6楼602室	e.g. Tower B, 6F, Room 602
+例：5号楼203室	e.g. Building 5, Room 203
+详细地址，例：16号楼427室	Address details, e.g. Building 16, Room 427
+所在地区	Region
+所在城市	City
+省市区	Province / City / District
+选择省市区	Choose Province / City / District
+小区/写字楼	Building / Office
+点击选择收货地址	Tap to choose delivery address
+点击选择	Tap to Choose
+请选择收货地址	Please choose a delivery address
+请选择地址	Please choose an address
+请选择所在地区	Please choose a region
+地址不在配送范围内	Address is outside delivery area
+该地址不在配送范围内	This address is outside the delivery area
+超出配送范围的地址	Addresses outside delivery area
+以下地址超出配送范围	These addresses are outside the delivery area
+标签	Label
+地址标签	Address Label
+家	Home
+公司	Work
+学校	School
+设为默认地址	Set as Default
+设为默认	Set as Default
+默认地址	Default Address
+保存地址	Save Address
+保存并使用	Save & Use
+使用该地址	Use This Address
+智能识别	Smart Fill
+粘贴地址	Paste Address
+粘贴并识别	Paste & Detect
+粘贴整段地址，自动识别姓名、电话和地址	Paste a full address to auto-fill name, phone and address
+识别	Detect
+地址簿	Address Book
+从通讯录选择	Choose from Contacts
+通讯录	Contacts
+定位到当前位置	Use Current Location
+使用当前位置	Use Current Location
+收货地址已失效	Delivery address no longer valid
+地址信息不完整	Address is incomplete
+请完善地址信息	Please complete the address
+请完善收货地址	Please complete the delivery address
+地址保存成功	Address saved
+保存成功	Saved
+删除成功	Deleted
+修改成功	Updated
+设置成功	Settings updated
+提交成功	Submitted
+# --- Verification codes ---
+验证码	Verification Code
+短信验证码	SMS Code
+请输入验证码	Enter verification code
+请输入短信验证码	Enter SMS code
+获取验证码	Get Code
+发送验证码	Send Code
+重新发送	Resend
+重新获取	Resend
+重新获取验证码	Resend Code
+验证码已发送	Code sent
+验证码已发送至	Code sent to
+验证码错误	Incorrect code
+验证码错误，请重新输入	Incorrect code. Please try again.
+验证码已过期	Code expired
+验证码已失效	Code expired
+请输入图片验证码	Enter the image code
+图形验证码	Image Code
+看不清？换一张	Can't read it? Try another
+换一张	Refresh
+收不到验证码？	Didn't get the code?
+语音验证码	Voice Code
+获取语音验证码	Get Voice Code
+安全验证	Security Check
+请完成安全验证	Please complete the security check
+拖动滑块完成验证	Drag the slider to verify
+向右滑动完成验证	Slide right to verify
+请按住滑块，拖动到最右边	Hold the slider and drag it all the way right
+验证失败	Verification failed
+验证成功	Verified
+验证通过	Verified
+# --- Login / register ---
+登录	Log In
+登陆	Log In
+注册	Sign Up
+登录/注册	Log In / Sign Up
+登录注册	Log In / Sign Up
+立即登录	Log In Now
+去登录	Log In
+请登录后操作	Please log in to continue
+手机号登录	Phone Login
+手机号快捷登录	Quick Phone Login
+验证码登录	Code Login
+短信登录	SMS Login
+密码登录	Password Login
+账号密码登录	Password Login
+一键登录	One-Tap Login
+本机号码一键登录	One-tap login with this number
+其他登录方式	Other Login Options
+其他手机号登录	Use Another Number
+微信登录	WeChat Login
+QQ登录	QQ Login
+Apple登录	Sign in with Apple
+通过Apple登录	Sign in with Apple
+大众点评登录	Dianping Login
+美团账号登录	Meituan Account Login
+同意并登录	Agree & Log In
+同意并继续	Agree & Continue
+同意	Agree
+不同意	Disagree
+我已阅读并同意	I have read and agree to the
+已阅读并同意	I have read and agree to the
+请阅读并勾选协议	Please read and accept the terms
+请先阅读并同意用户协议和隐私政策	Please read and agree to the User Agreement and Privacy Policy first
+用户协议	User Agreement
+美团用户服务协议	Meituan User Service Agreement
+用户服务协议	User Service Agreement
+服务协议	Service Agreement
+隐私政策	Privacy Policy
+美团隐私政策	Meituan Privacy Policy
+隐私协议	Privacy Policy
+儿童隐私保护指引	Children's Privacy Policy
+个人信息保护指引	Personal Information Protection Guide
+个人信息保护政策	Personal Information Protection Policy
+中国移动认证服务条款	China Mobile Authentication Terms
+中国联通认证服务条款	China Unicom Authentication Terms
+中国电信认证服务条款	China Telecom Authentication Terms
+用户隐私保护提示	Privacy Notice
+温馨提示	Notice
+未注册的手机号验证后将自动创建美团账号	Unregistered numbers will get a new Meituan account after verification
+未注册手机号验证后自动注册	Unregistered numbers sign up automatically after verification
+账号	Account
+账户	Account
+请输入账号	Enter account
+用户名	Username
+请输入用户名	Enter username
+密码	Password
+请输入密码	Enter password
+请输入登录密码	Enter login password
+确认密码	Confirm Password
+再次输入密码	Re-enter password
+新密码	New Password
+旧密码	Old Password
+原密码	Current Password
+两次输入的密码不一致	Passwords don't match
+密码错误	Incorrect password
+账号或密码错误	Incorrect account or password
+忘记密码	Forgot Password
+忘记密码？	Forgot password?
+找回密码	Reset Password
+重置密码	Reset Password
+设置密码	Set Password
+修改密码	Change Password
+登录密码	Login Password
+密码长度8-32位	Password must be 8-32 characters
+显示密码	Show Password
+隐藏密码	Hide Password
+登录成功	Logged in
+登录失败	Login failed
+登录已过期，请重新登录	Session expired. Please log in again.
+登录过期	Session expired
+重新登录	Log In Again
+注册成功	Signed up
+新用户注册	New User Sign Up
+遇到问题	Need Help?
+登录遇到问题？	Trouble logging in?
+手机号已停用	Phone number no longer in use
+换绑手机号	Change Phone Number
+更换手机号	Change Phone Number
+绑定手机号	Link Phone Number
+绑定	Link
+解绑	Unlink
+已绑定	Linked
+未绑定	Not Linked
+去绑定	Link Now
+退出登录	Log Out
+退出	Exit
+确定退出登录吗？	Log out?
+确认退出登录？	Log out?
+切换账号	Switch Account
+注销账号	Delete Account
+账号注销	Delete Account
+账号与安全	Account & Security
+账号安全	Account Security
+实名认证	ID Verification
+已实名	Verified
+未实名	Not Verified
+去认证	Verify Now
+身份证号	ID Number
+请输入身份证号	Enter ID number
+真实姓名	Legal Name
+请输入真实姓名	Enter legal name
+证件类型	ID Type
+证件号码	ID Number
+身份证	ID Card
+护照	Passport
+港澳通行证	HK/Macau Travel Permit
+台湾通行证	Taiwan Travel Permit
+港澳台居民居住证	HK/Macau/Taiwan Residence Permit
+外国人永久居留身份证	Foreign Permanent Resident ID
+人脸识别	Face Verification
+刷脸验证	Face Verification
+# --- Profile ---
+个人信息	Personal Info
+个人资料	Profile
+编辑资料	Edit Profile
+头像	Avatar
+更换头像	Change Avatar
+昵称	Nickname
+修改昵称	Change Nickname
+请输入昵称	Enter nickname
+生日	Birthday
+个性签名	Bio
+所在地	Location
+职业	Occupation
+我的主页	My Profile
+个人主页	Profile
+粉丝	Followers
+获赞	Likes
+# --- Me / account center ---
+设置	Settings
+红包	Vouchers
+红包/卡券	Vouchers & Coupons
+优惠券	Coupons
+我的优惠券	My Coupons
+代金券	Vouchers
+卡包	Card Wallet
+卡券	Vouchers
+卡券包	Voucher Wallet
+钱包	Wallet
+美团钱包	Meituan Wallet
+我的钱包	My Wallet
+余额	Balance
+账户余额	Account Balance
+可用余额	Available Balance
+零钱	Balance
+充值	Top Up
+提现	Withdraw
+立即充值	Top Up Now
+余额明细	Balance History
+交易记录	Transactions
+账单	Bills
+我的账单	My Bills
+银行卡	Bank Cards
+我的银行卡	My Bank Cards
+添加银行卡	Add Bank Card
+绑定银行卡	Link Bank Card
+储蓄卡	Debit Card
+信用卡	Credit Card
+借记卡	Debit Card
+卡号	Card Number
+请输入卡号	Enter card number
+持卡人	Cardholder
+有效期	Expiry Date
+安全码	Security Code
+预留手机号	Bank-Registered Phone
+支付密码	Payment PIN
+设置支付密码	Set Payment PIN
+修改支付密码	Change Payment PIN
+忘记支付密码	Forgot Payment PIN
+请输入支付密码	Enter payment PIN
+支付密码错误	Incorrect payment PIN
+免密支付	PIN-Free Payment
+指纹支付	Fingerprint Payment
+面容支付	Face ID Payment
+支付设置	Payment Settings
+会员中心	Member Center
+我的会员	My Membership
+开通会员	Join Membership
+开通	Join
+立即开通	Join Now
+续费	Renew
+立即续费	Renew Now
+会员等级	Member Level
+等级	Level
+成长值	Growth Points
+积分	Points
+我的积分	My Points
+积分商城	Points Mall
+积分兑换	Redeem Points
+兑换	Redeem
+立即兑换	Redeem Now
+兑换记录	Redemption History
+金币	Coins
+签到	Check In
+每日签到	Daily Check-In
+已签到	Checked In
+立即签到	Check In Now
+连续签到	Check-in Streak
+收藏	Favorites
+我的收藏	My Favorites
+足迹	History
+浏览记录	Browsing History
+浏览历史	Browsing History
+我的足迹	My History
+清空足迹	Clear History
+我的评价	My Reviews
+我的关注	Following
+我的点评	My Reviews
+草稿箱	Drafts
+我的客服	Customer Service
+客服中心	Help Center
+帮助中心	Help Center
+帮助与反馈	Help & Feedback
+帮助	Help
+常见问题	FAQ
+热门问题	Top Questions
+意见反馈	Feedback
+反馈	Feedback
+问题反馈	Report a Problem
+我要反馈	Send Feedback
+请描述您遇到的问题	Describe the problem you encountered
+联系方式	Contact Info
+请留下您的联系方式	Leave your contact info
+关于美团	About Meituan
+关于我们	About Us
+关于	About
+版本号	Version
+当前版本	Current Version
+推荐有奖	Refer & Earn
+邀请好友	Invite Friends
+邀请有礼	Invite & Earn
+我的邀请	My Invitations
+商家入驻	Become a Merchant
+我要开店	Open a Store
+加盟合作	Partner with Us
+成为骑手	Become a Courier
+骑手招募	Courier Recruitment
+企业服务	Business Services
+企业版	Business Edition
+美团企业版	Meituan Business
+发票助手	Invoice Assistant
+常用工具	Tools
+我的服务	My Services
+更多工具	More Tools
+全部工具	All Tools
+# --- Settings ---
+通用	General
+通用设置	General Settings
+消息设置	Notification Settings
+消息通知	Notifications
+新消息通知	New Message Alerts
+推送通知	Push Notifications
+接收推送通知	Receive Push Notifications
+声音	Sound
+振动	Vibration
+震动	Vibration
+隐私	Privacy
+隐私设置	Privacy Settings
+隐私管理	Privacy Management
+权限管理	Permissions
+系统权限管理	System Permissions
+个性化推荐	Personalized Recommendations
+个性化推荐设置	Personalized Recommendations
+个性化广告	Personalized Ads
+位置信息	Location
+相机	Camera
+麦克风	Microphone
+存储	Storage
+清除缓存	Clear Cache
+清理缓存	Clear Cache
+缓存清理成功	Cache cleared
+确定清除缓存吗？	Clear cache?
+多语言	Language
+语言	Language
+简体中文	Simplified Chinese
+繁體中文	Traditional Chinese
+繁体中文	Traditional Chinese
+字体大小	Font Size
+深色模式	Dark Mode
+跟随系统	Follow System
+护眼模式	Eye Care Mode
+长辈模式	Senior Mode
+关怀模式	Accessibility Mode
+无障碍	Accessibility
+自动播放	Autoplay
+仅WiFi下自动播放	Autoplay on Wi-Fi Only
+WiFi下自动播放	Autoplay on Wi-Fi
+从不	Never
+开启	On
+已开启	On
+已关闭	Off
+未开启	Off
+证照信息	Licenses
+营业执照	Business License
+经营许可证	Operating License
+食品经营许可证	Food Business License
+资质证照	Licenses & Permits
+网络安全	Cybersecurity
+举报中心	Report Center
+违法和不良信息举报	Report Illegal Content
+第三方信息共享清单	Third-Party Data Sharing List
+个人信息收集清单	Personal Data Collection List
+已收集个人信息清单	Collected Personal Data List
+# --- Form validation / hints ---
+必填	Required
+选填	Optional
+请填写	Please fill in
+请输入	Please enter
+请输入内容	Enter text
+请填写完整信息	Please complete all fields
+请填写完整	Please complete all fields
+信息填写不完整	Information is incomplete
+格式不正确	Invalid format
+输入有误	Invalid input
+不能为空	Cannot be empty
+内容不能为空	Content cannot be empty
+姓名不能为空	Name cannot be empty
+手机号不能为空	Phone number cannot be empty
+地址不能为空	Address cannot be empty
+超出字数限制	Character limit exceeded
+最多输入50个字	50 characters max
+最多可输入	Max
+字数	Characters
+邮箱	Email
+电子邮箱	Email
+请输入邮箱	Enter email
+邮箱格式不正确	Invalid email address
+请输入正确的邮箱	Enter a valid email
+地区	Region
+国家/地区	Country / Region
+中国大陆	Mainland China
+中国香港	Hong Kong, China
+中国澳门	Macau, China
+中国台湾	Taiwan, China
++86	+86
+选择国家和地区	Choose Country / Region
+确认提交	Confirm & Submit
+放弃编辑	Discard Changes
+确定放弃编辑吗？	Discard your changes?
+内容尚未保存，确定离开吗？	Changes not saved. Leave anyway?
+离开	Leave
+继续编辑	Keep Editing

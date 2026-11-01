@@ -6,5 +6,14 @@
         <item name="colorPrimary">@color/mt_yellow</item>
         <item name="colorOnPrimary">@color/mt_ink</item>
         <item name="colorSecondary">@color/mt_yellow_dark</item>
+        <item name="colorOnSecondary">@color/mt_ink</item>
+        <item name="colorPrimaryContainer">@color/ui_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/ui_on_primary_container</item>
+        <item name="colorSecondaryContainer">@color/ui_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/ui_on_secondary_container</item>
+        <item name="materialButtonOutlinedStyle">@style/Widget.MtEnglish.OutlinedButton</item>
+        <item name="borderlessButtonStyle">@style/Widget.MtEnglish.TextButton</item>
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.MtEnglish.MaterialAlertDialog</item>
+        <item name="alertDialogTheme">@style/ThemeOverlay.MtEnglish.AlertDialog</item>
     </style>
 </resources>

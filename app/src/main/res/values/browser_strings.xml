@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="browser_back">Back</string>
+    <string name="browser_forward">Forward</string>
+    <string name="browser_reload">Reload</string>
+    <string name="browser_close">Close</string>
+    <string name="browser_show_original">Show original (Chinese)</string>
+    <string name="browser_translate_images">Translate images</string>
+    <string name="browser_open_external">Open in another browser</string>
+    <string name="browser_settings">Settings</string>
+    <string name="browser_loading">Loading…</string>
+    <string name="browser_needs_app">This link needs the official app</string>
+    <string name="browser_no_external_browser">No other browser is installed</string>
+    <string name="browser_showing_original">Showing the original Chinese page</string>
+    <string name="browser_translation_on">English translation on</string>
+    <string name="browser_images_on">Image translation on</string>
+    <string name="browser_images_off">Image translation off</string>
+    <string name="browser_location_denied">Location permission denied. Nearby stores may be less accurate.</string>
+    <string name="browser_no_file_picker">No app available to pick files</string>
+    <string name="browser_crashed">The page stopped unexpectedly. Reloading…</string>
+    <string name="browser_download_unsupported">Downloads open in your regular browser</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ui_ok">#5BD07A</color>
+    <color name="ui_icon_circle">#4A3A0A</color>
+    <color name="ui_icon_tint">#FFD54F</color>
+    <color name="ui_page_bg">#121212</color>
+    <color name="ui_primary_container">#5C4600</color>
+    <color name="ui_on_primary_container">#FFE08A</color>
+    <color name="ui_secondary_container">#4A3A0A</color>
+    <color name="ui_on_secondary_container">#FFE9A8</color>
+    <color name="ui_accent_text">#FFD54F</color>
+</resources>

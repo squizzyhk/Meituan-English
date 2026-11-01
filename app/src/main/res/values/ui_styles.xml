@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Widget.MtEnglish.HomeCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">1dp</item>
+    </style>
+
+    <style name="Widget.MtEnglish.SectionHeading" parent="">
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:textAppearance">?attr/textAppearanceTitleLarge</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:accessibilityHeading" tools:targetApi="28">true</item>
+    </style>
+
+    <style name="Widget.MtEnglish.SectionSub" parent="">
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textAppearance">?attr/textAppearanceBodyMedium</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.MtEnglish.HeaderTitle" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/mt_ink</item>
+    </style>
+
+    <!-- Yellow text on white is hard to read, so outlined / text buttons use a deeper amber. -->
+    <style name="Widget.MtEnglish.OutlinedButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/ui_accent_text</item>
+        <item name="iconTint">@color/ui_accent_text</item>
+    </style>
+
+    <style name="Widget.MtEnglish.TextButton" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/ui_accent_text</item>
+        <item name="iconTint">@color/ui_accent_text</item>
+    </style>
+
+    <style name="Widget.MtEnglish.DialogButton" parent="Widget.Material3.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/ui_accent_text</item>
+    </style>
+
+    <style name="ThemeOverlay.MtEnglish.MaterialAlertDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="buttonBarPositiveButtonStyle">@style/Widget.MtEnglish.DialogButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/Widget.MtEnglish.DialogButton</item>
+        <item name="buttonBarNeutralButtonStyle">@style/Widget.MtEnglish.DialogButton</item>
+    </style>
+
+    <style name="ThemeOverlay.MtEnglish.AlertDialog" parent="ThemeOverlay.Material3.Dialog.Alert">
+        <item name="buttonBarPositiveButtonStyle">@style/Widget.MtEnglish.DialogButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/Widget.MtEnglish.DialogButton</item>
+        <item name="buttonBarNeutralButtonStyle">@style/Widget.MtEnglish.DialogButton</item>
+    </style>
+</resources>

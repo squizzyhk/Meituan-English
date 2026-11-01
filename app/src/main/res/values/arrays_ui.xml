@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_model_entries">
+        <item>Claude Opus 5.5 — best quality (default)</item>
+        <item>Claude Sonnet 5.5 — faster</item>
+        <item>Claude Haiku 5.5 — cheapest</item>
+    </string-array>
+    <string-array name="pref_model_values" translatable="false">
+        <item>claude-opus-5-5</item>
+        <item>claude-sonnet-5-5</item>
+        <item>claude-haiku-5-5</item>
+    </string-array>
+</resources>

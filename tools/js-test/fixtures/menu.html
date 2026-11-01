@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>川味小厨</title>
+<style>
+  body { font-family: sans-serif; margin: 0; }
+  .food-item { display: flex; padding: 8px; }
+  .food-name { font-weight: bold; }
+  .food-desc { color: #888; font-size: 12px; }
+  .price { color: #f40; }
+  .spec button { margin: 2px; }
+</style>
+</head>
+<body>
+<div class="shop-header">
+  <h1 class="poi-name" id="poi">川味小厨</h1>
+  <div class="notice" id="notice">公告：本店所有菜品均为现炒，高峰期出餐较慢，请耐心等待，感谢您的理解与支持！欢迎再次光临本店。</div>
+</div>
+<div class="tabs"><span class="tab active" role="tab">点菜</span><span class="tab" role="tab">评价</span><span class="tab" role="tab">商家</span></div>
+<div class="menu-wrap">
+  <ul class="category-list"><li>热销</li><li>招牌菜</li><li>主食</li><li>饮品</li></ul>
+  <div id="foods"></div>
+</div>
+<div class="spec" id="spec">
+  <div class="spec-title">辣度</div>
+  <button class="spec-opt">不辣</button><button class="spec-opt">微辣</button><button class="spec-opt">中辣</button><button class="spec-opt">特辣</button>
+</div>
+<div class="comment-list"><p class="comment-content" id="review">味道很好，分量足，送餐也很快，下次还会再点！</p></div>
+<div class="cart-bar"><span id="cart-count">已选3件</span><span class="price">¥58</span><button id="checkout">去结算</button></div>
+<script>
+  const dishes = [
+    { name: '宫保鸡丁', desc: '经典川菜，鸡肉嫩滑，花生香脆', price: '¥28', sold: '月售200' },
+    { name: '麻婆豆腐', desc: '麻辣鲜香，豆腐滑嫩', price: '¥18', sold: '月售150' },
+    { name: '米饭', desc: '', price: '¥2', sold: '月售999+' }
+  ];
+  // Minimal React-like renderer: every render throws away the old nodes and builds fresh text nodes.
+  function render(list) {
+    const root = document.getElementById('foods');
+    while (root.firstChild) root.removeChild(root.firstChild);
+    list.forEach((d, i) => {
+      const item = document.createElement('div');
+      item.className = 'food-item';
+      item.dataset.idx = String(i);
+      const img = document.createElement('img');
+      img.className = 'food-pic';
+      img.src = '/img/icon.png';
+      img.alt = d.name;
+      img.width = 20; img.height = 20;
+      const info = document.createElement('div');
+      const name = document.createElement('div'); name.className = 'food-name'; name.appendChild(document.createTextNode(d.name));
+      const desc = document.createElement('div'); desc.className = 'food-desc'; desc.appendChild(document.createTextNode(d.desc));
+      const sold = document.createElement('span'); sold.className = 'sold'; sold.appendChild(document.createTextNode(d.sold));
+      const price = document.createElement('span'); price.className = 'price'; price.appendChild(document.createTextNode(d.price));
+      const add = document.createElement('button'); add.className = 'add-btn'; add.appendChild(document.createTextNode('加入购物车'));
+      info.append(name, desc, sold, price, add);
+      item.append(img, info);
+      root.appendChild(item);
+    });
+    window.__renders = (window.__renders || 0) + 1;
+  }
+  render(dishes);
+  // Dynamic content after load.
+  setTimeout(() => {
+    dishes.push({ name: '鱼香肉丝', desc: '酸甜微辣，下饭神器', price: '¥26', sold: '月售80' });
+    render(dishes);
+    const tip = document.createElement('div');
+    tip.id = 'late-tip';
+    tip.className = 'tip';
+    tip.textContent = '满30减5，满50减10';
+    document.body.appendChild(tip);
+  }, 300);
+  // Re-renders with identical content (new text nodes, same strings) must be re-translated from cache.
+  setTimeout(() => { render(dishes); window.__rerenderAt = Date.now(); }, 600);
+  setTimeout(() => { render(dishes); document.getElementById('cart-count').firstChild.nodeValue = '已选4件'; }, 800);
+</script>
+</body>
+</html>
