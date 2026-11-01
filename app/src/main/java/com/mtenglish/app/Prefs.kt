@@ -15,6 +15,11 @@ class Prefs(context: Context) {
         get() = sp.getString(KEY_MODEL, DEFAULT_MODEL)!!
         set(v) = sp.edit().putString(KEY_MODEL, v).apply()
 
+    /** API base URL; lets users route through their own proxy where api.anthropic.com is not reachable. */
+    var claudeBaseUrl: String
+        get() = sp.getString(KEY_BASE_URL, DEFAULT_BASE_URL)!!.trim().ifEmpty { DEFAULT_BASE_URL }
+        set(v) = sp.edit().putString(KEY_BASE_URL, v.trim()).apply()
+
     var translateImages: Boolean
         get() = sp.getBoolean(KEY_IMAGES, true)
         set(v) = sp.edit().putBoolean(KEY_IMAGES, v).apply()
@@ -34,6 +39,8 @@ class Prefs(context: Context) {
     companion object {
         const val KEY_API_KEY = "claude_api_key"
         const val KEY_MODEL = "claude_model"
+        const val KEY_BASE_URL = "claude_base_url"
+        const val DEFAULT_BASE_URL = "https://api.anthropic.com"
         const val KEY_IMAGES = "translate_images"
         const val KEY_SHOW_ORIGINAL = "show_original_long_press"
         const val KEY_OFFLINE = "offline_fallback"
