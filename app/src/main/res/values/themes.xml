@@ -1,0 +1,10 @@
+<resources>
+    <color name="mt_yellow">#FFC300</color>
+    <color name="mt_yellow_dark">#F5A300</color>
+    <color name="mt_ink">#222222</color>
+    <style name="Theme.MtEnglish" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/mt_yellow</item>
+        <item name="colorOnPrimary">@color/mt_ink</item>
+        <item name="colorSecondary">@color/mt_yellow_dark</item>
+    </style>
+</resources>
